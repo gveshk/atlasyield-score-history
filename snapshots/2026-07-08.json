@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "publishedAt": "2026-07-08T20:26:01.167Z",
+  "publishedAt": "2026-07-08T20:33:29.544Z",
   "scorerVersion": "2.0.0",
   "vaultCount": 333,
   "scores": [
@@ -6336,7 +6336,7 @@
     {
       "tier": "conservative",
       "strategy": "MVO",
-      "expectedApy": 4.52,
+      "expectedApy": 4.48,
       "unallocatedPct": 0,
       "slices": [
         {
@@ -6345,7 +6345,7 @@
           "chainId": 1,
           "asset": "PYUSD",
           "fraction": 0.194,
-          "apy": 6.55927
+          "apy": 6.54762
         },
         {
           "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
@@ -6353,7 +6353,7 @@
           "chainId": 1,
           "asset": "RLUSD",
           "fraction": 0.111,
-          "apy": 5.33131
+          "apy": 5.03602
         },
         {
           "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
@@ -6361,7 +6361,7 @@
           "chainId": 8453,
           "asset": "USDC",
           "fraction": 0.194,
-          "apy": 5.77324
+          "apy": 5.77529
         },
         {
           "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -6369,7 +6369,7 @@
           "chainId": 1,
           "asset": "USDT",
           "fraction": 0.25,
-          "apy": 2.955346773703438
+          "apy": 2.9552984711112007
         },
         {
           "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
@@ -6377,14 +6377,14 @@
           "chainId": 8453,
           "asset": "USDC",
           "fraction": 0.25,
-          "apy": 3.1678542888981864
+          "apy": 3.172281388619358
         }
       ]
     },
     {
       "tier": "balanced",
       "strategy": "MVO",
-      "expectedApy": 4.53,
+      "expectedApy": 4.51,
       "unallocatedPct": 0,
       "slices": [
         {
@@ -6393,7 +6393,7 @@
           "chainId": 1,
           "asset": "PYUSD",
           "fraction": 0.206,
-          "apy": 6.55927
+          "apy": 6.54762
         },
         {
           "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
@@ -6401,7 +6401,7 @@
           "chainId": 1,
           "asset": "RLUSD",
           "fraction": 0.088,
-          "apy": 5.33131
+          "apy": 5.03602
         },
         {
           "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
@@ -6409,7 +6409,7 @@
           "chainId": 8453,
           "asset": "USDC",
           "fraction": 0.206,
-          "apy": 5.77324
+          "apy": 5.77529
         },
         {
           "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -6417,7 +6417,7 @@
           "chainId": 1,
           "asset": "USDT",
           "fraction": 0.153,
-          "apy": 2.955346773703438
+          "apy": 2.9552984711112007
         },
         {
           "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
@@ -6425,7 +6425,7 @@
           "chainId": 8453,
           "asset": "USDC",
           "fraction": 0.194,
-          "apy": 3.1678542888981864
+          "apy": 3.172281388619358
         },
         {
           "vaultId": "aave-v3:1:0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
@@ -6433,22 +6433,22 @@
           "chainId": 1,
           "asset": "USDC",
           "fraction": 0.153,
-          "apy": 2.99168
+          "apy": 2.99431
         }
       ]
     },
     {
       "tier": "aggressive",
       "strategy": "MVO",
-      "expectedApy": 17.98,
-      "unallocatedPct": 13.33,
+      "expectedApy": 18.61,
+      "unallocatedPct": 13.75,
       "slices": [
         {
           "vaultId": "yearn-v3:1:0xc9f01b5c6048B064E6d925d1c2d7206d4fEeF8a3",
           "protocolId": "yearn-v3",
           "chainId": 1,
           "asset": "USDS",
-          "fraction": 0.233,
+          "fraction": 0.263,
           "apy": 37.18939989295544
         },
         {
@@ -6457,15 +6457,15 @@
           "chainId": 1,
           "asset": "reUSDe",
           "fraction": 0.233,
-          "apy": 17.48723304286992
+          "apy": 17.487233043830553
         },
         {
           "vaultId": "pendle:56:0x23f9a497a5d4d54eaf5e03d94774f17dc1219745",
           "protocolId": "pendle",
           "chainId": 56,
           "asset": "sUSDat",
-          "fraction": 0.2,
-          "apy": 14.82417
+          "fraction": 0.167,
+          "apy": 14.82418
         },
         {
           "vaultId": "morpho:8453:0x91c056b6d4311a743614fbc03ac32d4e6a2d3a3c",
@@ -6473,7 +6473,7 @@
           "chainId": 8453,
           "asset": "USDC",
           "fraction": 0.2,
-          "apy": 11.3745
+          "apy": 11.39329
         }
       ]
     }
