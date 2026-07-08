@@ -1,0 +1,6481 @@
+{
+  "date": "2026-07-08",
+  "publishedAt": "2026-07-08T20:26:01.167Z",
+  "scorerVersion": "2.0.0",
+  "vaultCount": 333,
+  "scores": [
+    {
+      "vaultId": "aave-v3:56:0x75bd1a659bdc62e4c313950d44a2416fab43e785",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "FDUSD",
+      "assetClass": null,
+      "composite": 62.534,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 54.347,
+        "safety": 62.303,
+        "liquidity": 60,
+        "sustainability": 88.25
+      },
+      "apy": 1.71897,
+      "tvl": 271239,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.451+00:00"
+    },
+    {
+      "vaultId": "aave-v3:56:0x4199cc1f5ed0d796563d7ccb2e036253e2c18281",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "Cake",
+      "assetClass": null,
+      "composite": 63.539,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 49.967,
+        "safety": 71.123,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 0.00502,
+      "tvl": 629175,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.45+00:00"
+    },
+    {
+      "vaultId": "pendle:56:0x493bab28fed4b4d87903463da656d2af24babb6e",
+      "chainId": 56,
+      "protocolId": "pendle",
+      "asset": "slisBNB",
+      "assetClass": null,
+      "composite": 63.156,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 52.745,
+        "safety": 68.878,
+        "liquidity": 63.944,
+        "sustainability": 72.75
+      },
+      "apy": 1.32642,
+      "tvl": 1888259,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.449+00:00"
+    },
+    {
+      "vaultId": "pendle:56:0x3519f72144daae5ae933fac1bf91f8da57664d24",
+      "chainId": 56,
+      "protocolId": "pendle",
+      "asset": "USDat",
+      "assetClass": null,
+      "composite": 69.683,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 71.974,
+        "safety": 69.805,
+        "liquidity": 64.575,
+        "sustainability": 72
+      },
+      "apy": 9.34537,
+      "tvl": 2090352,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.448+00:00"
+    },
+    {
+      "vaultId": "pendle:56:0x23f9a497a5d4d54eaf5e03d94774f17dc1219745",
+      "chainId": 56,
+      "protocolId": "pendle",
+      "asset": "sUSDat",
+      "assetClass": null,
+      "composite": 69.613,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.784,
+        "safety": 74.933,
+        "liquidity": 66.463,
+        "sustainability": 72
+      },
+      "apy": 14.82419,
+      "tvl": 2833976,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.448+00:00"
+    },
+    {
+      "vaultId": "aave-v3:56:0x2e94171493fabe316b6205f1585779c887771e2f",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 65.437,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 43.456,
+        "safety": 76.41,
+        "liquidity": 70.963,
+        "sustainability": 92.75
+      },
+      "apy": 0.83274,
+      "tvl": 5853851,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.447+00:00"
+    },
+    {
+      "vaultId": "aave-v3:56:0xa9251ca9de909cb71783723713b21e4233fbf1b1",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 76.76,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 71.435,
+        "safety": 75.914,
+        "liquidity": 76.104,
+        "sustainability": 92
+      },
+      "apy": 2.28691,
+      "tvl": 13405462,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.446+00:00"
+    },
+    {
+      "vaultId": "aave-v3:56:0x56a7ddc4e848ebf43845854205ad71d5d5f72d3d",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "BTCB",
+      "assetClass": null,
+      "composite": 70.885,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 46.839,
+        "safety": 81.029,
+        "liquidity": 85.88,
+        "sustainability": 92
+      },
+      "apy": 0.04578,
+      "tvl": 56599680,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.445+00:00"
+    },
+    {
+      "vaultId": "aave-v3:56:0x9b00a09492a626678e5a3009982191586c444df9",
+      "chainId": 56,
+      "protocolId": "aave-v3",
+      "asset": "WBNB",
+      "assetClass": null,
+      "composite": 64.86,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 35.87,
+        "safety": 81.24,
+        "liquidity": 86.631,
+        "sustainability": 85.25
+      },
+      "apy": 0.01349,
+      "tvl": 62789010,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.444+00:00"
+    },
+    {
+      "vaultId": "beefy:56:pancake-cow-bsc-usdt-wbnb-vault:0xB2DAee36f78b1b3f3D04D022c51B705980DF63ba",
+      "chainId": 56,
+      "protocolId": "beefy",
+      "asset": "WBNB",
+      "assetClass": null,
+      "composite": 62.032,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.486,
+        "safety": 68.271,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 14.553012,
+      "tvl": 107421.51,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.443+00:00"
+    },
+    {
+      "vaultId": "beefy:56:pancake-cow-bsc-slisbnb-wbnb-vault:0x389163801b50E5d638938876d78eaa6A0c9B1aC5",
+      "chainId": 56,
+      "protocolId": "beefy",
+      "asset": "slisBNB",
+      "assetClass": null,
+      "composite": 39.601,
+      "label": "Aggressive",
+      "pillars": {
+        "yield": 12,
+        "safety": 68.186,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 0,
+      "tvl": 103055.03,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:36.442+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xae4181cfb5aaa08bbe77d269c6b595672b9f9edc",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 70.78,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 68.306,
+        "safety": 71.674,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 4.1281,
+      "tvl": 571508,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:34.868+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xe74c499fa461af1844fca84204490877787ced56",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 70.684,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 69.276,
+        "safety": 70.538,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 5.424,
+      "tvl": 607355,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.868+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x5435bc53f2c61298167cdb11cdf0db2bfa259ca0",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.729,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 85.363,
+        "safety": 71.82,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 7.20637,
+      "tvl": 614060,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.868+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:8453:0xb13cf163d916917d9cd6e836905ca5f12a1def4b",
+      "chainId": 8453,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 74.235,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 79.537,
+        "safety": 72.083,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.9671,
+      "tvl": 698906,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.867+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeef00f0a818894a2cf111644a5098421611100e",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 61.589,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 44.668,
+        "safety": 69.082,
+        "liquidity": 60,
+        "sustainability": 92.75
+      },
+      "apy": 1.48492,
+      "tvl": 800935,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.866+00:00"
+    },
+    {
+      "vaultId": "euler:8453:0x8bf41ad2b816f7c220b22f4bcd63fc2a35ab4247",
+      "chainId": 8453,
+      "protocolId": "euler",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 44.418,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 15.286,
+        "safety": 68.308,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 0.05727,
+      "tvl": 889181,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.866+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:8453:0xc3bd0a2193c8f027b82dde3611d18589ef3f62a9",
+      "chainId": 8453,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.029,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.504,
+        "safety": 72.767,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 4.45124,
+      "tvl": 977825,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.866+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeef00a299ae1784fb7740d2d469f60a1e015fe9",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "XSGD",
+      "assetClass": null,
+      "composite": 62.174,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 44.895,
+        "safety": 72.958,
+        "liquidity": 60.444,
+        "sustainability": 85.25
+      },
+      "apy": 0.60162,
+      "tvl": 1074149,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.865+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x90072a4aa69b5eb74984ab823efc5f91e90b3a72",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "LBTC",
+      "assetClass": null,
+      "composite": 68.749,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 73.099,
+        "liquidity": 60.873,
+        "sustainability": 92
+      },
+      "apy": 0,
+      "tvl": 1151015,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.86+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x8effa741061aaa2d8a5012a9b09a2d31d8b628d7",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 71.252,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 67.06,
+        "safety": 73.26,
+        "liquidity": 61.365,
+        "sustainability": 92
+      },
+      "apy": 3.91699,
+      "tvl": 1246062,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.859+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "EURC",
+      "assetClass": null,
+      "composite": 69.379,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.937,
+        "safety": 73.522,
+        "liquidity": 62.163,
+        "sustainability": 85.25
+      },
+      "apy": 7.87874,
+      "tvl": 1417180,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.858+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x91c056b6d4311a743614fbc03ac32d4e6a2d3a3c",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.996,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.25,
+        "safety": 68.591,
+        "liquidity": 62.374,
+        "sustainability": 92
+      },
+      "apy": 11.47792,
+      "tvl": 1466050,
+      "dataQuality": "fallback",
+      "scoredAt": "2026-07-08T17:27:34.857+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 74.495,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.75,
+        "safety": 72.408,
+        "liquidity": 62.68,
+        "sustainability": 92
+      },
+      "apy": 3.93354,
+      "tvl": 1540225,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.857+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:8453:0xf115c134c23c7a05fbd489a8be3116ebf54b0d9f",
+      "chainId": 8453,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.857,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 83.469,
+        "safety": 73.954,
+        "liquidity": 63.478,
+        "sustainability": 92
+      },
+      "apy": 5.04073,
+      "tvl": 1751620,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.857+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x543257ef2161176d7c8cd90ba65c2d4caef5a796",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "cbBTC",
+      "assetClass": null,
+      "composite": 62.642,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 42.357,
+        "safety": 73.553,
+        "liquidity": 63.758,
+        "sustainability": 92
+      },
+      "apy": 0.54619,
+      "tvl": 1832522,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.856+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xfefec33668e22677c4762d0853d56245a800ff08",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 70.941,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.371,
+        "safety": 74.046,
+        "liquidity": 63.759,
+        "sustainability": 92.75
+      },
+      "apy": 1.64637,
+      "tvl": 1832781,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.855+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xc0c5689e6f4d256e861f65465b691aeecc0deb12",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 72.099,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.884,
+        "safety": 74.132,
+        "liquidity": 64.021,
+        "sustainability": 92
+      },
+      "apy": 3.76706,
+      "tvl": 1911889,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.854+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xef417a2512c5a41f69ae4e021648b69a7cde5d03",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.455,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 78.037,
+        "safety": 73.706,
+        "liquidity": 64.418,
+        "sustainability": 92
+      },
+      "apy": 5.04351,
+      "tvl": 2038177,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.853+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x1deefabee758aabdc29a542b24ca3b75afd56765",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.611,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 84.164,
+        "safety": 71.175,
+        "liquidity": 65.971,
+        "sustainability": 92
+      },
+      "apy": 5.77718,
+      "tvl": 2618131,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.853+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x90da57e0a6c0d166bf15764e03b83745dc90025b",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "EURC",
+      "assetClass": null,
+      "composite": 61.841,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 41.896,
+        "safety": 70.501,
+        "liquidity": 69.305,
+        "sustainability": 85.25
+      },
+      "apy": 2.04545,
+      "tvl": 4481018,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.852+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeef009f28ccf367444a9f79096862920e025dc1",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "EURC",
+      "assetClass": null,
+      "composite": 66.939,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 54.759,
+        "safety": 70.226,
+        "liquidity": 69.392,
+        "sustainability": 85.25
+      },
+      "apy": 6.005,
+      "tvl": 4543837,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.851+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeefa7b88064feef0cee02aaebbd95d30df3878f",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.796,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 86.285,
+        "safety": 75.719,
+        "liquidity": 69.913,
+        "sustainability": 92
+      },
+      "apy": 6.49304,
+      "tvl": 4942212,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.85+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x43cd00de63485618a5ceebe0de364cd6cbeb26e7",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "msETH",
+      "assetClass": null,
+      "composite": 68.647,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.402,
+        "safety": 76.312,
+        "liquidity": 70.666,
+        "sustainability": 85.25
+      },
+      "apy": 2.02511,
+      "tvl": 5580116,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.85+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 76.089,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.65,
+        "safety": 76.794,
+        "liquidity": 72.134,
+        "sustainability": 92.75
+      },
+      "apy": 2.14555,
+      "tvl": 7069463,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.849+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x7bfa7c4f149e7415b73bdedfe609237e29cbf34a",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.542,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.838,
+        "safety": 73.108,
+        "liquidity": 72.503,
+        "sustainability": 92
+      },
+      "apy": 3.76547,
+      "tvl": 7502358,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.848+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.622,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.788,
+        "safety": 77.385,
+        "liquidity": 73.934,
+        "sustainability": 92
+      },
+      "apy": 5.3192,
+      "tvl": 9449252,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.847+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0xd7424238ccbe7b7198ab3cfe232e0271e22da7bd",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "syrupUSDC",
+      "assetClass": null,
+      "composite": 73.3,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 78.198,
+        "liquidity": 76.413,
+        "sustainability": 89
+      },
+      "apy": 0,
+      "tvl": 14090244,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.846+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x1401d1271c47648ac70cbcdfa3776d4a87ce006b",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.159,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.606,
+        "safety": 77.316,
+        "liquidity": 78.952,
+        "sustainability": 92
+      },
+      "apy": 3.76625,
+      "tvl": 21216530,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.845+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x99cbc45ea5bb7ef3a5bc08fb1b7e56bb2442ef0d",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 75.003,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 59.998,
+        "safety": 79.555,
+        "liquidity": 80.639,
+        "sustainability": 92.75
+      },
+      "apy": 0.0004,
+      "tvl": 27436394,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.845+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeeff7ae5e00aae3db302e4b0d8c883810a58100",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 80.412,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 75.507,
+        "safety": 79.697,
+        "liquidity": 81.145,
+        "sustainability": 92
+      },
+      "apy": 5.4895,
+      "tvl": 29425857,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.844+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x4e65fe4dba92790696d040ac24aa414708f5c0ab",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.725,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.199,
+        "safety": 79.753,
+        "liquidity": 81.342,
+        "sustainability": 92
+      },
+      "apy": 3.10821,
+      "tvl": 30237675,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.843+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 77.908,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 67.444,
+        "safety": 79.775,
+        "liquidity": 81.423,
+        "sustainability": 92.75
+      },
+      "apy": 1.54725,
+      "tvl": 30575914,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.842+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x7c307e128efa31f540f2e2d976c995e0b65f51f6",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "weETH",
+      "assetClass": null,
+      "composite": 75.934,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 80.502,
+        "liquidity": 84.006,
+        "sustainability": 92.75
+      },
+      "apy": 0.00006,
+      "tvl": 43685612,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.842+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0xcf3d55c10db69f28fd1a75bd73f3d8a2d9c595ad",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "cbETH",
+      "assetClass": null,
+      "composite": 59.953,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 26.73,
+        "safety": 80.427,
+        "liquidity": 86.819,
+        "sustainability": 92.75
+      },
+      "apy": 0.00047,
+      "tvl": 64441976,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.841+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeeff0be997cca5b1c13a7433c2004637975739e",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.531,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 62.275,
+        "safety": 77.732,
+        "liquidity": 88.37,
+        "sustainability": 92
+      },
+      "apy": 3.52754,
+      "tvl": 79838785,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.84+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0x050ce30b927da55177a4914ec73480238bad56f0",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 80.91,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.084,
+        "safety": 81.945,
+        "liquidity": 89.139,
+        "sustainability": 92
+      },
+      "apy": 4.13224,
+      "tvl": 88784685,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.84+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 83.391,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.764,
+        "safety": 80.599,
+        "liquidity": 91.309,
+        "sustainability": 92
+      },
+      "apy": 5.7734,
+      "tvl": 123492734,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.839+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0xbdb9300b7cde636d9cd4aff00f6f009ffbbc8ee6",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "cbBTC",
+      "assetClass": null,
+      "composite": 75.435,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 53.648,
+        "safety": 82.842,
+        "liquidity": 91.996,
+        "sustainability": 92
+      },
+      "apy": 0.01799,
+      "tvl": 137941409,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.839+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeef010f9cb27031ad51e3333f9af9c6b1228183",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 80.448,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.399,
+        "safety": 83.731,
+        "liquidity": 94.703,
+        "sustainability": 92
+      },
+      "apy": 3.1286,
+      "tvl": 213394734,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.838+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeefe94c8ad530842bfe7d8b397938ffc1cb83b2",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 81.529,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 67.302,
+        "safety": 83.526,
+        "liquidity": 95.167,
+        "sustainability": 92
+      },
+      "apy": 3.97963,
+      "tvl": 229973216,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.838+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xbeef0e0834849acc03f0089f01f4f1eeb06873c9",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 82.759,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.028,
+        "safety": 82.936,
+        "liquidity": 97.841,
+        "sustainability": 92
+      },
+      "apy": 4.13464,
+      "tvl": 353886800,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.837+00:00"
+    },
+    {
+      "vaultId": "morpho:8453:0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61",
+      "chainId": 8453,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 83.073,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 68.267,
+        "safety": 85.13,
+        "liquidity": 98.967,
+        "sustainability": 92
+      },
+      "apy": 4.192,
+      "tvl": 424290330,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.836+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:morpho-base-steakhouse-high-yield-usdc:0xF1C55b6E063ee90A33FFE62deBe618962bae021e",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 71.211,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.094,
+        "safety": 74.217,
+        "liquidity": 64.281,
+        "sustainability": 76.5
+      },
+      "apy": 4.742121,
+      "tvl": 1993817.63,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.835+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-lcap-usdc:0xd522B8C635625E4EC4ED80d147A07F27cEEa5547",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "LCAP",
+      "assetClass": null,
+      "composite": 65.671,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.691,
+        "safety": 69.177,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 5.155695,
+      "tvl": 167671.88,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.835+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aero-cow-eurc-cbbtc-vault:0xcdE6acB858f291B914c9fFCeb5445CD9e8A747B6",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "EURC",
+      "assetClass": null,
+      "composite": 70.092,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.162,
+        "safety": 68.42,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 68.8168,
+      "tvl": 115589.98,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.834+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-usdc-aero:0xc005B9833deBcF5fe6cc5bC9ba4fD74Bb382ae55",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 67.815,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.961,
+        "safety": 72.622,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 35.996625,
+      "tvl": 910785.43,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.834+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-weth-bsdeth:0xB614A6E6c21202De79DceB95AE2dd4817DD7e14b",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 72.587,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 82.471,
+        "safety": 70.634,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 5.728974,
+      "tvl": 342922.95,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.833+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:stakedao-base-usdc-scrvusd:0xaE82708d470FE681d16582EbBA5FC34D6Bb5775b",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "scrvUSD",
+      "assetClass": null,
+      "composite": 64.403,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.437,
+        "safety": 68.878,
+        "liquidity": 60,
+        "sustainability": 73.5
+      },
+      "apy": 13.45,
+      "tvl": 144751.29,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.832+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:pancakeswap-cow-base-sol-usdc-vault:0xA2B1C7DA608aD0c247A9F3f6c84d70228932F6d2",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "SOL",
+      "assetClass": null,
+      "composite": 68.707,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 82.812,
+        "safety": 61.727,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 94.321654,
+      "tvl": 154876.78,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.832+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:pancake-cow-base-weth-usdc-vault:0x9B57d675065707E26482e46FD29228F49eDe4E3f",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 67.589,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 67,
+        "safety": 68.838,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 39.575038,
+      "tvl": 141973.99,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.831+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aero-cow-usdc-cbbtc-vault:0x9b4A58FddC209C66ceF30F786c6FE3B8189C6c04",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "cbBTC",
+      "assetClass": null,
+      "composite": 69.054,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 75.926,
+        "safety": 66.021,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 48.589549,
+      "tvl": 105333.8,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.831+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-ovn-usd+:0x98bEAa72230788572e3e3Be58D91C232dda315d4",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "OVN",
+      "assetClass": null,
+      "composite": 56.155,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 37.819,
+        "safety": 69.144,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 4.124307,
+      "tvl": 165001.58,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.83+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-usdc-eusd:0x8bd6dF821513aECDbbaa29C1d5212b43fdCe7819",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 74.564,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 92.166,
+        "safety": 69.63,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 9.346347,
+      "tvl": 209441.76,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.829+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-wusdr-usdbc:0x8aeDd79BC918722d4948502b18deceaBeD60d044",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "wUSDR",
+      "assetClass": null,
+      "composite": 61.06,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 50.881,
+        "safety": 68.428,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 4.131348,
+      "tvl": 116041.36,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.829+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:morpho-base-gauntlet-frontier-usdc:0x83152eE78d8f20Bba134A5FF000D551355Ce3996",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 70.058,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.429,
+        "safety": 67.656,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 4.911603,
+      "tvl": 275904.37,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.828+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:pancakeswap-cow-base-sol-cbbtc-vault:0x82FC3Ba31f8dF868A1158Cf0f2FbF16E03B85c68",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "SOL",
+      "assetClass": null,
+      "composite": 69.415,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 83.063,
+        "safety": 63.398,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 84.678576,
+      "tvl": 204837.03,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.828+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-cow-base-cbbtc-usdc-vault:0x7AFF1E6AE905D8106Db6645681584d51f0E300b1",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "cbBTC",
+      "assetClass": null,
+      "composite": 67.068,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 73.257,
+        "safety": 62.634,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 80.5963,
+      "tvl": 181920.11,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.827+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:pancakeswap-cow-base-sol-jitosol-vault:0x7A027B2D77DB12fF54c274f21497094c21824D6f",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "JitoSOL",
+      "assetClass": null,
+      "composite": 61.408,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.802,
+        "safety": 61.153,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 32.668088,
+      "tvl": 236675.78,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.827+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-msusd-usdc:0x753Ff04FF5DD67e756405b2eDD9bba41aa63C5e9",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "msUSD",
+      "assetClass": null,
+      "composite": 68.877,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 71.408,
+        "safety": 72.202,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 11.920396,
+      "tvl": 740942.88,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.827+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aero-cow-cbeth-weth-vault:0x6A9E27A4b41aD09D95c81E111451a48704869775",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "cbETH",
+      "assetClass": null,
+      "composite": 54.8,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 32.079,
+        "safety": 71.073,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 0.000055,
+      "tvl": 425584.98,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.826+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-dola-usdc:0x5A47993216fa6ACaf93418f9830cee485e82d0ba",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "DOLA",
+      "assetClass": null,
+      "composite": 63.302,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 55.734,
+        "safety": 69.832,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 0.81212,
+      "tvl": 231285.7,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.825+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-weth-vvv:0x4794158d7587961B1C462c0774A06C95018a854B",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "VVV",
+      "assetClass": null,
+      "composite": 71.96,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 87.098,
+        "safety": 68.698,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 40.437221,
+      "tvl": 132495.21,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.824+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-weth-mseth:0x4187d53fa448dc18dA79acCd27112fF065216471",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "msETH",
+      "assetClass": null,
+      "composite": 58.575,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 40.629,
+        "safety": 72.987,
+        "liquidity": 60.532,
+        "sustainability": 69.75
+      },
+      "apy": 4.049516,
+      "tvl": 1089536.19,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.823+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:curve-base-usdc-scrvusd:0x3a7d6D7E10b94329A488611306fA38762272F8bb",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "scrvUSD",
+      "assetClass": null,
+      "composite": 64.987,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.278,
+        "safety": 69.817,
+        "liquidity": 60,
+        "sustainability": 73.5
+      },
+      "apy": 13.45,
+      "tvl": 229633.68,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.822+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-cow-base-cbltc-cbbtc-vault:0x2A57146E13165199Ae291BFf71836082a90Ff601",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "cbLTC",
+      "assetClass": null,
+      "composite": 67.974,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 72.196,
+        "safety": 68.562,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 28.51878,
+      "tvl": 123971.32,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.816+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-usdc-mai:0x22F8ff24861a7F7e2ec9b19C5668b43bB69202E3",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.844,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.943,
+        "safety": 73.485,
+        "liquidity": 62.048,
+        "sustainability": 76.5
+      },
+      "apy": 6.372008,
+      "tvl": 1391195.53,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.814+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:mellow-aero-weth-usdc:0x224409f92c30F7965C6D9030d1EB30B547A6F9e3",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 63.743,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 54.504,
+        "safety": 69.498,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 146.244003,
+      "tvl": 196266.43,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.813+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-weth-usdc:0x09139A80454609B69700836a9eE12Db4b5DBB15f",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 71.994,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.757,
+        "safety": 70.25,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 13.122562,
+      "tvl": 283992.25,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.812+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-weth-lcap:0x028baCa249B33d24FC32ac01d6531F6be0061c8E",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "LCAP",
+      "assetClass": null,
+      "composite": 70.143,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.394,
+        "safety": 68.392,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 16.736939,
+      "tvl": 114013.91,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.811+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 75.549,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 53.686,
+        "safety": 82.961,
+        "liquidity": 92.359,
+        "sustainability": 92
+      },
+      "apy": 0.017968,
+      "tvl": 146255228.37,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.81+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 81.168,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 67.512,
+        "safety": 83.059,
+        "liquidity": 92.99,
+        "sustainability": 92.75
+      },
+      "apy": 1.559305,
+      "tvl": 161917825.26,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.809+00:00"
+    },
+    {
+      "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 83.466,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.746,
+        "safety": 83.372,
+        "liquidity": 93.609,
+        "sustainability": 92
+      },
+      "apy": 3.161107,
+      "tvl": 178919812.92,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:34.809+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0xebe517846d0f36eced99c735cbf6131e1feb775d",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "GHO",
+      "assetClass": null,
+      "composite": 57.884,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 42.621,
+        "safety": 62.45,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 3.29849,
+      "tvl": 117591,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.561+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x250cf7c82bac7cb6cf899b6052979d4b5ba1f9ca",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 63.519,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 50.682,
+        "safety": 67.941,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.13565,
+      "tvl": 162272,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.56+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x55a2b207b0074e13adcb858950a81b7a04775e0f",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 62.465,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 47.121,
+        "safety": 68.943,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 2.99073,
+      "tvl": 224097,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.56+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "USDC.e",
+      "assetClass": null,
+      "composite": 67.545,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.718,
+        "safety": 66.556,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.58948,
+      "tvl": 228950,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.559+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x610d151ae40662ae148cdbaae1ea5904b6afae78",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 63.965,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 49.815,
+        "safety": 70.346,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.00895,
+      "tvl": 297710,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.559+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 63.881,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 48.771,
+        "safety": 71.369,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 2.60609,
+      "tvl": 562433,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.558+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x5837e4189819637853a357af36650902347f5e73",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 64.645,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 50.452,
+        "safety": 71.719,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.01141,
+      "tvl": 584414,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.558+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 63.903,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 49.894,
+        "safety": 70.055,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 2.9471,
+      "tvl": 654883,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.557+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "DAI",
+      "assetClass": null,
+      "composite": 71.924,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 69.1,
+        "safety": 73.288,
+        "liquidity": 61.449,
+        "sustainability": 92
+      },
+      "apy": 1.82,
+      "tvl": 1263047,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.556+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x62fc96b27a510cf4977b59ff952dc32378cc221d",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "tBTC",
+      "assetClass": null,
+      "composite": 69.022,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 73.368,
+        "liquidity": 61.693,
+        "sustainability": 92
+      },
+      "apy": 0,
+      "tvl": 1313845,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.556+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 67.627,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 54.075,
+        "safety": 73.974,
+        "liquidity": 64.176,
+        "sustainability": 92
+      },
+      "apy": 3.9798,
+      "tvl": 1960167,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.555+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x6533afac2e7bccb20dca161449a13a32d391fb00",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "ARB",
+      "assetClass": null,
+      "composite": 68.887,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.51,
+        "safety": 74.188,
+        "liquidity": 64.191,
+        "sustainability": 88.25
+      },
+      "apy": 0.07037,
+      "tvl": 1965107,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.554+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x8eb270e296023e9d92081fdf967ddd7878724424",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "rETH",
+      "assetClass": null,
+      "composite": 64.8,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 46.431,
+        "safety": 74.24,
+        "liquidity": 64.351,
+        "sustainability": 92.75
+      },
+      "apy": 0.00324,
+      "tvl": 2016215,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.553+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xe9d07c2a3588b9a25edd55664be44ecfe5f92fce",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "sUSDai",
+      "assetClass": null,
+      "composite": 69.498,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 75.61,
+        "safety": 66.086,
+        "liquidity": 65.132,
+        "sustainability": 72
+      },
+      "apy": 9.68024,
+      "tvl": 2286984,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.553+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0x7e97fa6893871a2751b5fe961978dccb2c201e65",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 65.893,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 48.574,
+        "safety": 74.332,
+        "liquidity": 65.645,
+        "sustainability": 92
+      },
+      "apy": 2.72237,
+      "tvl": 2483930,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.552+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "LINK",
+      "assetClass": null,
+      "composite": 65.475,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 47.484,
+        "safety": 75.033,
+        "liquidity": 66.767,
+        "sustainability": 88.25
+      },
+      "apy": 0.0039,
+      "tvl": 2976605,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.552+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0xbeeff1d5de8f79ff37a151681100b039661da518",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 66.177,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 49.221,
+        "safety": 72.425,
+        "liquidity": 68.811,
+        "sustainability": 92
+      },
+      "apy": 2.65224,
+      "tvl": 4137693,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.551+00:00"
+    },
+    {
+      "vaultId": "morpho:42161:0xbeeff77ce5c059445714e6a3490e273fe7f2492f",
+      "chainId": 42161,
+      "protocolId": "morpho",
+      "asset": "USDT0",
+      "assetClass": null,
+      "composite": 66.954,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 47.176,
+        "safety": 76.091,
+        "liquidity": 71.304,
+        "sustainability": 92
+      },
+      "apy": 1.94472,
+      "tvl": 6184154,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.55+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xb459db106f645d698e74027eef6019a26a0675cc",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "sUSDai",
+      "assetClass": null,
+      "composite": 76.012,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.328,
+        "safety": 77.402,
+        "liquidity": 76.22,
+        "sustainability": 72
+      },
+      "apy": 10.06211,
+      "tvl": 13658228,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.549+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x6ab707aca953edaefbc4fd23ba73294241490620",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "USDT0",
+      "assetClass": null,
+      "composite": 72.538,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 58.53,
+        "safety": 76.15,
+        "liquidity": 76.911,
+        "sustainability": 92
+      },
+      "apy": 2.09664,
+      "tvl": 15267000,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.549+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 74.502,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 58.611,
+        "safety": 79.578,
+        "liquidity": 80.721,
+        "sustainability": 92.75
+      },
+      "apy": 1.0348,
+      "tvl": 27748892,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.548+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x724dc807b04555b71ed48a6896b6f41593b8c637",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.14,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 72.434,
+        "safety": 78.154,
+        "liquidity": 82.52,
+        "sustainability": 92
+      },
+      "apy": 2.48683,
+      "tvl": 35577602,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.543+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 75.618,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.001,
+        "safety": 80.178,
+        "liquidity": 82.855,
+        "sustainability": 92.75
+      },
+      "apy": 0.00031,
+      "tvl": 37264869,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.543+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "USDai",
+      "assetClass": null,
+      "composite": 67.944,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.416,
+        "safety": 71.651,
+        "liquidity": 85.038,
+        "sustainability": 72
+      },
+      "apy": 6.32046,
+      "tvl": 50381928,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.542+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "weETH",
+      "assetClass": null,
+      "composite": 76.929,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 81.534,
+        "liquidity": 87.676,
+        "sustainability": 92.75
+      },
+      "apy": 0.00003,
+      "tvl": 72537107,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.541+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x078f358208685046a11c85e8ad32895ded33a249",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 78.453,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.525,
+        "safety": 83.123,
+        "liquidity": 92.85,
+        "sustainability": 92
+      },
+      "apy": 0.0525,
+      "tvl": 158317960,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.54+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xf86119a39f8654f38acbbd5488bd83f3f51983c8",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "sUSDai",
+      "assetClass": null,
+      "composite": 69.527,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 75.61,
+        "safety": 66.165,
+        "liquidity": 65.131,
+        "sustainability": 72
+      },
+      "apy": 9.680239,
+      "tvl": 2286582.34,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.54+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xcbf629c8d396b1261f81f55175afa010e94787d8",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "sUSDai",
+      "assetClass": null,
+      "composite": 75.733,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.447,
+        "safety": 77.067,
+        "liquidity": 75.226,
+        "sustainability": 72
+      },
+      "apy": 10.157214,
+      "tvl": 11635709.39,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.539+00:00"
+    },
+    {
+      "vaultId": "pendle:42161:0xa8a0dea40174cfc30fea9e3a77f182ab33f46e25",
+      "chainId": 42161,
+      "protocolId": "pendle",
+      "asset": "USDai",
+      "assetClass": null,
+      "composite": 67.95,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.412,
+        "safety": 71.673,
+        "liquidity": 85.037,
+        "sustainability": 72
+      },
+      "apy": 6.320459,
+      "tvl": 50372555.77,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.539+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:sushi-cow-arb-weth-usdc-vault:0xf5C9c812fA046579D46Caf15133052eecDc9a8ce",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 70.579,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 75.849,
+        "safety": 70.042,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 22.845577,
+      "tvl": 256463.22,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.538+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:balancerv3-arbitrum-waarbusdcn-eure:0xdFcfFE75EF84EdEa4ef62bE6D08fb82acD3d2044",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "waArbUSDCn",
+      "assetClass": null,
+      "composite": 55.644,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 37.248,
+        "safety": 68.56,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 7.153526,
+      "tvl": 123849.13,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.537+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:pancake-cow-arb-wbtc-weth-vault:0xD52D5bC4e1135D8f73C5F141646172C451E4A76B",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 66.103,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.798,
+        "safety": 68.574,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 2.981424,
+      "tvl": 124694.84,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.536+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:pancake-cow-arb-weth-usdc-500-vault:0xaaec4162648AD644554E162c06B9230374d6Ebfc",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 69.535,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 72.956,
+        "safety": 69.398,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 35.645068,
+      "tvl": 186889.65,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.536+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:pancake-cow-arb-wbtc-usdc-vault:0x7fed8BC288E5f9a956D456F83B631D4f8E491c10",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 68.935,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 70.883,
+        "safety": 69.684,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 43.382102,
+      "tvl": 222164.42,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.535+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:uniswap-cow-arb-wsteth-weth-vault:0x749e0767C811a4AE867dDac6280aE8b2C57b75B1",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 51.342,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 25.559,
+        "safety": 71.681,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 2.149186,
+      "tvl": 573547.82,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.534+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:curve-arb-tbtc-ng:0x64d461a7aa9c3949c2642217F4a52B694f129D94",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "tBTC",
+      "assetClass": null,
+      "composite": 59.799,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 42.605,
+        "safety": 71.816,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 0.400964,
+      "tvl": 612922.45,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.533+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:pancake-cow-arb-weth-usdt-500-vault:0x329C8AbA35381169c9Ed4D0Cf522413157663Ca3",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 71.432,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.352,
+        "safety": 68.263,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 31.727987,
+      "tvl": 107019.21,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.533+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:curve-arb-crvusd-usdt:0x25071C7Cf437F756a4AF9260aDCe5a639e143F93",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 66.667,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.404,
+        "safety": 68.757,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 3.834568,
+      "tvl": 136373.78,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.532+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:balancerv3-arbitrum-waarbusdcn-waarbusdt-waarbgho:0x14B85C31975b4f400dDbb6313957A79e0387f1c6",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "waArbUSDCn",
+      "assetClass": null,
+      "composite": 50.905,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 27.979,
+        "safety": 67.943,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 3.24099,
+      "tvl": 343197.03,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.531+00:00"
+    },
+    {
+      "vaultId": "beefy:42161:uniswap-cow-arb-wbtc-tbtc-vault:0x0c63BBC3712c53214b5489C68cCDC5a9e3bB4800",
+      "chainId": 42161,
+      "protocolId": "beefy",
+      "asset": "tBTC",
+      "assetClass": null,
+      "composite": 43.306,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 15.28,
+        "safety": 68.79,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 0.036891,
+      "tvl": 229910.69,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.53+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 78.654,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.535,
+        "safety": 83.357,
+        "liquidity": 93.566,
+        "sustainability": 92
+      },
+      "apy": 0.053458,
+      "tvl": 177664101.2,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.53+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "DAI",
+      "assetClass": null,
+      "composite": 74.224,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 69.186,
+        "safety": 75.49,
+        "liquidity": 68.161,
+        "sustainability": 92
+      },
+      "apy": 1.837193,
+      "tvl": 3726392.52,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.529+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 78.12,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 58.859,
+        "safety": 83.33,
+        "liquidity": 93.801,
+        "sustainability": 92.75
+      },
+      "apy": 1.040286,
+      "tvl": 184521145.77,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.528+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 75.716,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 58.481,
+        "safety": 80.961,
+        "liquidity": 85.723,
+        "sustainability": 92
+      },
+      "apy": 2.124278,
+      "tvl": 55382260.04,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.527+00:00"
+    },
+    {
+      "vaultId": "aave-v3:42161:0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "chainId": 42161,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 82.956,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 72.579,
+        "safety": 83.246,
+        "liquidity": 93.226,
+        "sustainability": 92
+      },
+      "apy": 2.515831,
+      "tvl": 168204343.92,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:20.527+00:00"
+    },
+    {
+      "vaultId": "morpho:10:0x3d63934715b6d4c4dfbbc1a00fe2a2145079dd76",
+      "chainId": 10,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 59.315,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 39.946,
+        "safety": 68.276,
+        "liquidity": 60,
+        "sustainability": 92.75
+      },
+      "apy": 0.74872,
+      "tvl": 107695,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.613+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "LINK",
+      "assetClass": null,
+      "composite": 67.241,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.021,
+        "safety": 70.403,
+        "liquidity": 60,
+        "sustainability": 88.25
+      },
+      "apy": 0.01038,
+      "tvl": 306170,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.613+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "OP",
+      "assetClass": null,
+      "composite": 65.051,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.453,
+        "safety": 70.735,
+        "liquidity": 60,
+        "sustainability": 88.25
+      },
+      "apy": 0.06039,
+      "tvl": 360420,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.612+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x724dc807b04555b71ed48a6896b6f41593b8c637",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "rETH",
+      "assetClass": null,
+      "composite": 68.034,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.001,
+        "safety": 71.285,
+        "liquidity": 60,
+        "sustainability": 92.75
+      },
+      "apy": 0.00011,
+      "tvl": 472207,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.612+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x6ab707aca953edaefbc4fd23ba73294241490620",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 72.526,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 75.133,
+        "safety": 70.817,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.02663,
+      "tvl": 540264,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.612+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "USDC.e",
+      "assetClass": null,
+      "composite": 53.697,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 27.948,
+        "safety": 72.629,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 0.35588,
+      "tvl": 913804,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.612+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x38d693ce1df5aadf7bc62595a37d667ad57922e5",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.492,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.919,
+        "safety": 71.714,
+        "liquidity": 62.977,
+        "sustainability": 92
+      },
+      "apy": 2.98376,
+      "tvl": 1615714,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.611+00:00"
+    },
+    {
+      "vaultId": "morpho:10:0xc30ce6a5758786e0f640cc5f881dd96e9a1c5c59",
+      "chainId": 10,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 74.135,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 69.908,
+        "safety": 75.175,
+        "liquidity": 67.199,
+        "sustainability": 92
+      },
+      "apy": 5.46724,
+      "tvl": 3191083,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.611+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 72.983,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.637,
+        "safety": 76.011,
+        "liquidity": 69.749,
+        "sustainability": 92.75
+      },
+      "apy": 1.22175,
+      "tvl": 4813069,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.611+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x078f358208685046a11c85e8ad32895ded33a249",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 73.426,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.125,
+        "safety": 77.887,
+        "liquidity": 75.466,
+        "sustainability": 92
+      },
+      "apy": 0.02123,
+      "tvl": 12095030,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.61+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 74.402,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.003,
+        "safety": 78.905,
+        "liquidity": 78.568,
+        "sustainability": 92.75
+      },
+      "apy": 0.00144,
+      "tvl": 19941860,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.61+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:10:0xf7D66b41Cd4241eae450fd9D2d6995754634D9f3",
+      "chainId": 10,
+      "protocolId": "yearn-v3",
+      "asset": "sAMMV2-alETH/WETH",
+      "assetClass": null,
+      "composite": 71.264,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.819,
+        "safety": 72.939,
+        "liquidity": 60.386,
+        "sustainability": 85.25
+      },
+      "apy": 5.40947,
+      "tvl": 1064138.21,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.61+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:10:0xd0d2Ac44Cc842079e978bB11b094764f7D0dec6A",
+      "chainId": 10,
+      "protocolId": "yearn-v3",
+      "asset": "sAMMV2-msETH/WETH",
+      "assetClass": null,
+      "composite": 72.656,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.601,
+        "safety": 69.244,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 11.444689,
+      "tvl": 173285.66,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.609+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 73.548,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.124,
+        "safety": 78.021,
+        "liquidity": 75.873,
+        "sustainability": 92
+      },
+      "apy": 0.021229,
+      "tvl": 12915205.19,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.609+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "DAI",
+      "assetClass": null,
+      "composite": 72.877,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 75.127,
+        "safety": 71.804,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.025461,
+      "tvl": 609251.09,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.608+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x4200000000000000000000000000000000000006",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 75.765,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.515,
+        "safety": 78.611,
+        "liquidity": 77.672,
+        "sustainability": 92.75
+      },
+      "apy": 1.229512,
+      "tvl": 17260549.54,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.608+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 76.385,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 75.364,
+        "safety": 75.715,
+        "liquidity": 68.846,
+        "sustainability": 92
+      },
+      "apy": 3.072892,
+      "tvl": 4161012.54,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.607+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 69.483,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 61.78,
+        "safety": 73.224,
+        "liquidity": 61.254,
+        "sustainability": 92
+      },
+      "apy": 0.356513,
+      "tvl": 1224059.71,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:11.607+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeeff047c03714965a54b671a37c18bef6b96210",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 80.106,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.484,
+        "safety": 78.329,
+        "liquidity": 78.943,
+        "sustainability": 92
+      },
+      "apy": 6.10649,
+      "tvl": 21185423,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.682+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeefb9f61cc44895d8aec381373555a64191a9c4",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.458,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 57.442,
+        "safety": 79.031,
+        "liquidity": 78.953,
+        "sustainability": 92
+      },
+      "apy": 3.2383,
+      "tvl": 21217667,
+      "dataQuality": "fallback",
+      "scoredAt": "2026-07-08T17:27:08.682+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x31a5684983eee865d943a696aac155363ba024f9",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 69.856,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 48.191,
+        "safety": 79.129,
+        "liquidity": 79.25,
+        "sustainability": 92.75
+      },
+      "apy": 1.38828,
+      "tvl": 22258374,
+      "dataQuality": "fallback",
+      "scoredAt": "2026-07-08T17:27:08.681+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x5dc53a23adc9f2bed98de6f59f7f309a7c71ff2b",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.677,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.112,
+        "safety": 79.156,
+        "liquidity": 79.332,
+        "sustainability": 92
+      },
+      "apy": 3.40467,
+      "tvl": 22556214,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.681+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeeff0d672ab7f5018dfb614c93981045d4aa98a",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "AUSD",
+      "assetClass": null,
+      "composite": 70.883,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 52.474,
+        "safety": 79.379,
+        "liquidity": 80.014,
+        "sustainability": 84.5
+      },
+      "apy": 3.24702,
+      "tvl": 25167174,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.681+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xbe53a109b494e5c9f97b9cd39fe969be68bf6204",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.537,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.749,
+        "safety": 79.404,
+        "liquidity": 80.103,
+        "sustainability": 92
+      },
+      "apy": 3.19782,
+      "tvl": 25480236,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.681+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xa0804346780b4c2e3be118ac957d1db82f9d7484",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 79.581,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.876,
+        "safety": 79.407,
+        "liquidity": 80.113,
+        "sustainability": 92
+      },
+      "apy": 4.86173,
+      "tvl": 25515610,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.68+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeefc1cdafc5b4a649b54d07afc6bf0f75c6f4e2",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDtb",
+      "assetClass": null,
+      "composite": 77.033,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 71.765,
+        "safety": 74.12,
+        "liquidity": 80.22,
+        "sustainability": 92
+      },
+      "apy": 5.63928,
+      "tvl": 25892743,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.68+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x49d3cde03813ee32dfd47f6aa3957d5f9cbab985",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "mGLOBAL",
+      "assetClass": null,
+      "composite": 74.058,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 79.552,
+        "liquidity": 80.628,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 27396877,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.68+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x91600e31fbedc72433d4a57f16639cfe661be7d8",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.492,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.292,
+        "safety": 79.565,
+        "liquidity": 80.676,
+        "sustainability": 92
+      },
+      "apy": 3.29134,
+      "tvl": 27576823,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.679+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x71ffb6a81786ec285d429d531cf655107b9d878d",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 77.362,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.512,
+        "safety": 79.65,
+        "liquidity": 80.978,
+        "sustainability": 92
+      },
+      "apy": 3.29023,
+      "tvl": 28751151,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.679+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x18efe565a5373f430e2f809b97de30335b3ad96a",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "GHO",
+      "assetClass": null,
+      "composite": 67.849,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 44.575,
+        "safety": 79.672,
+        "liquidity": 81.056,
+        "sustainability": 85.25
+      },
+      "apy": 1.2282,
+      "tvl": 29065259,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.679+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xdd0f28e19c1780eb6396170735d45153d261490d",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.847,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.485,
+        "safety": 79.849,
+        "liquidity": 81.684,
+        "sustainability": 92
+      },
+      "apy": 3.4105,
+      "tvl": 31697398,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.678+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xa2eaad0d586cf9fd73bb2c09cf6a7e3e187d68cd",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 82.674,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.824,
+        "safety": 79.975,
+        "liquidity": 82.134,
+        "sustainability": 92
+      },
+      "apy": 4.54708,
+      "tvl": 33732846,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.678+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xce8c60fd8390efcc3fc66a3f0bd64beb969e750e",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "tETH",
+      "assetClass": null,
+      "composite": 74.586,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 80.093,
+        "liquidity": 82.555,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 35749676,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.677+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeeff2c5bf38f90e3482a8b19f12e5a6d2fca757",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 78.695,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 68.906,
+        "safety": 80.146,
+        "liquidity": 82.741,
+        "sustainability": 92
+      },
+      "apy": 5.60438,
+      "tvl": 36681861,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.676+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xe15fcc81118895b67b6647bbd393182df44e11e0",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDS",
+      "assetClass": null,
+      "composite": 83.63,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 83.633,
+        "safety": 80.356,
+        "liquidity": 83.488,
+        "sustainability": 92
+      },
+      "apy": 5.08975,
+      "tvl": 40669549,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.676+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x8a2b6f94ff3a89a03e8c02ee92b55af90c9454a2",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "XAUt",
+      "assetClass": null,
+      "composite": 75.181,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 80.711,
+        "liquidity": 84.751,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 48424570,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.675+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xe3190143eb552456f88464662f0c0c4ac67a77eb",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "RLUSD",
+      "assetClass": null,
+      "composite": 78.057,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.573,
+        "safety": 79.21,
+        "liquidity": 85.391,
+        "sustainability": 92
+      },
+      "apy": 4.31928,
+      "tvl": 52903241,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.675+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef088055857739c12cd3765f20b7679def0f51",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 78.267,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 65.254,
+        "safety": 80.997,
+        "liquidity": 85.768,
+        "sustainability": 92
+      },
+      "apy": 3.38772,
+      "tvl": 55730096,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.674+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x23f5e9c35820f4bab695ac1f19c203cc3f8e1e11",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 77.9,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.438,
+        "safety": 81.297,
+        "liquidity": 86.833,
+        "sustainability": 92
+      },
+      "apy": 2.42137,
+      "tvl": 64565132,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.674+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x5e8c8a7243651db1384c0ddfdbe39761e8e7e51a",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "LINK",
+      "assetClass": null,
+      "composite": 75.206,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 57.511,
+        "safety": 81.335,
+        "liquidity": 86.97,
+        "sustainability": 88.25
+      },
+      "apy": 0.02897,
+      "tvl": 65791773,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.673+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xcc9ee9483f662091a1de4795249e24ac0ac2630f",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "rETH",
+      "assetClass": null,
+      "composite": 76.831,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 81.431,
+        "liquidity": 87.312,
+        "sustainability": 92.75
+      },
+      "apy": 0.00002,
+      "tvl": 68979174,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.673+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xa700b4eb416be35b2911fd5dee80678ff64ff6c9",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "AAVE",
+      "assetClass": null,
+      "composite": 76.018,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 80.63,
+        "liquidity": 87.439,
+        "sustainability": 88.25
+      },
+      "apy": 0,
+      "tvl": 70204752,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.672+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xc035a7cf15375ce2706766804551791ad035e0c2",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 77.03,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.26,
+        "safety": 81.535,
+        "liquidity": 87.681,
+        "sustainability": 92.75
+      },
+      "apy": 0.05494,
+      "tvl": 72588452,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.672+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef003c68896c7d2c3c60d363e8d71a49ab2bf9",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 72.66,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 50.774,
+        "safety": 79.833,
+        "liquidity": 88.378,
+        "sustainability": 92
+      },
+      "apy": 3.33701,
+      "tvl": 79927593,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.671+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef047a543e45807105e51a8bbefcc5950fcfba",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 77.863,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 61.884,
+        "safety": 81.859,
+        "liquidity": 88.833,
+        "sustainability": 92
+      },
+      "apy": 3.96916,
+      "tvl": 85110479,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.671+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 78.756,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 63.725,
+        "safety": 82.072,
+        "liquidity": 89.59,
+        "sustainability": 92
+      },
+      "apy": 3.24709,
+      "tvl": 94488827,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.67+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef0c075da5d01112ae5cf34d257074fb5ddb2f",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "EURCV",
+      "assetClass": null,
+      "composite": 78.7,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 65.684,
+        "safety": 82.209,
+        "liquidity": 90.066,
+        "sustainability": 85.25
+      },
+      "apy": 4,
+      "tvl": 101073325,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.669+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.415,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.872,
+        "safety": 82.331,
+        "liquidity": 90.437,
+        "sustainability": 92
+      },
+      "apy": 3.34415,
+      "tvl": 107302583,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.669+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xc21b08c16458202593d4d9b26b9984ee67b38bbd",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "PYUSD",
+      "assetClass": null,
+      "composite": 86.508,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 86.239,
+        "safety": 82.344,
+        "liquidity": 90.477,
+        "sustainability": 92
+      },
+      "apy": 6.50028,
+      "tvl": 107984278,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.669+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x10ac93971cdb1f5c778144084242374473c350da",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "tBTC",
+      "assetClass": null,
+      "composite": 77.817,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 59.999,
+        "safety": 82.614,
+        "liquidity": 91.301,
+        "sustainability": 92
+      },
+      "apy": 0.00048,
+      "tvl": 123320585,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.668+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x65906988adee75306021c417a1a3458040239602",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "LBTC",
+      "assetClass": null,
+      "composite": 77.868,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 82.673,
+        "liquidity": 91.481,
+        "sustainability": 92
+      },
+      "apy": 0,
+      "tvl": 126960312,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.667+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x4f5923fc5fd4a93352581b38b7cd26943012decf",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "USDe",
+      "assetClass": null,
+      "composite": 73.293,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 50.216,
+        "safety": 81.281,
+        "liquidity": 93.223,
+        "sustainability": 89
+      },
+      "apy": 5.08432,
+      "tvl": 168112262,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.667+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x927709711794f3de5ddbf1d176bee2d55ba13c21",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "osETH",
+      "assetClass": null,
+      "composite": 78.669,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 83.509,
+        "liquidity": 94.029,
+        "sustainability": 92.75
+      },
+      "apy": 0,
+      "tvl": 191435655,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.666+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "RLUSD",
+      "assetClass": null,
+      "composite": 87.226,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 83.197,
+        "safety": 84.115,
+        "liquidity": 95.874,
+        "sustainability": 92
+      },
+      "apy": 5.45544,
+      "tvl": 257746338,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.666+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 83.571,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.947,
+        "safety": 81.276,
+        "liquidity": 96.132,
+        "sustainability": 92
+      },
+      "apy": 2.98947,
+      "tvl": 268689837,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.665+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xb576765fb15505433af24fee2c0325895c559fb2",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "PYUSD",
+      "assetClass": null,
+      "composite": 87.827,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 83.705,
+        "safety": 84.597,
+        "liquidity": 97.343,
+        "sustainability": 92
+      },
+      "apy": 5.1115,
+      "tvl": 326604722,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.665+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x4579a27af00a62c0eb156349f31b345c08386419",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "sUSDe",
+      "assetClass": null,
+      "composite": 79.07,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 59.936,
+        "safety": 84.611,
+        "liquidity": 97.385,
+        "sustainability": 89
+      },
+      "apy": 3.75,
+      "tvl": 328812781,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.664+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x23878914efe38d27c4d67ab83ed1b93a74d4086a",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 83.454,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.004,
+        "safety": 81.631,
+        "liquidity": 98.541,
+        "sustainability": 92
+      },
+      "apy": 2.81221,
+      "tvl": 396136841,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.664+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 82.885,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.316,
+        "safety": 85.897,
+        "liquidity": 100,
+        "sustainability": 92.75
+      },
+      "apy": 1.41919,
+      "tvl": 618613406,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.663+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x5c647ce0ae10658ec44fa4e11a51c96e94efd1dd",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "cbBTC",
+      "assetClass": null,
+      "composite": 77.431,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 52.372,
+        "safety": 86.875,
+        "liquidity": 100,
+        "sustainability": 92
+      },
+      "apy": 0.0009,
+      "tvl": 1194427437,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.662+00:00"
+    },
+    {
+      "vaultId": "ethena:1:0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+      "chainId": 1,
+      "protocolId": "ethena",
+      "asset": "USDe",
+      "assetClass": null,
+      "composite": 70.055,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 55.968,
+        "safety": 86.875,
+        "liquidity": 67,
+        "sustainability": 70.5
+      },
+      "apy": 3.90143,
+      "tvl": 1627041881,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.662+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x0b925ed163218f6662a35e0f0371ac234f9e9371",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 80.748,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 59.988,
+        "safety": 86.875,
+        "liquidity": 100,
+        "sustainability": 92.75
+      },
+      "apy": 0.00001,
+      "tvl": 1754774552,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.662+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xbdfa7b7893081b35fb54027489e2bc7a38275129",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "weETH",
+      "assetClass": null,
+      "composite": 80.752,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 86.875,
+        "liquidity": 100,
+        "sustainability": 92.75
+      },
+      "apy": 0.00003,
+      "tvl": 1859761374,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.661+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 80.679,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.062,
+        "safety": 86.875,
+        "liquidity": 100,
+        "sustainability": 92
+      },
+      "apy": 0.00616,
+      "tvl": 1940305674,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.661+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x932a3432ee6a2556b5de0020845f62081c637a2c",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "eEARN",
+      "assetClass": null,
+      "composite": 68.275,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 76.455,
+        "safety": 64.744,
+        "liquidity": 60.288,
+        "sustainability": 72.75
+      },
+      "apy": 10.164038,
+      "tvl": 1047548.97,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.66+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xba1cbaece600beec76dabc0a4ead31e0339cbe37",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 60.738,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 51.623,
+        "safety": 62.399,
+        "liquidity": 60,
+        "sustainability": 80.25
+      },
+      "apy": 2.074656,
+      "tvl": 445209.05,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.66+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x1f40b9a1d21afedbe3c49776e7790ed2139ec075",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "SIERRA",
+      "assetClass": null,
+      "composite": 76.551,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.338,
+        "safety": 77.289,
+        "liquidity": 78.534,
+        "sustainability": 72.75
+      },
+      "apy": 10.0703,
+      "tvl": 19833427.2,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.66+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x79a8b102dd39329aafecc69499c0f6d07f2f959d",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "pufETH",
+      "assetClass": null,
+      "composite": 57.413,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 40.343,
+        "safety": 68.447,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 2.039594,
+      "tvl": 117151.89,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.66+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x3ffdf143cbe1e594fba183e2b9035eb027a732ec",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USP",
+      "assetClass": null,
+      "composite": 71.057,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.423,
+        "safety": 69.68,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 13.338456,
+      "tvl": 214620.76,
+      "dataQuality": "partial",
+      "scoredAt": "2026-07-08T17:27:08.66+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x7972de1c2f9f11f622a188fbae8c0a943880424f",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSD3",
+      "assetClass": null,
+      "composite": 71.302,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 87.073,
+        "safety": 66.028,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 18.987889,
+      "tvl": 401166.44,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.659+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xcb975d7694295532b82529b175e14e233a36b22d",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "siUSD",
+      "assetClass": null,
+      "composite": 67.808,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 73.297,
+        "safety": 66.297,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 8.857111,
+      "tvl": 420670.8,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.659+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x90b70c407f1077f8eb92bf423b44cd92329b737a",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "reUSDe",
+      "assetClass": null,
+      "composite": 72.956,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 85.6,
+        "safety": 65.947,
+        "liquidity": 69.184,
+        "sustainability": 72
+      },
+      "apy": 17.480303,
+      "tvl": 4394405.12,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.659+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x13285bcbc27f92b47b4edb99d744c07b48c977c0",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "reUSD",
+      "assetClass": null,
+      "composite": 71.771,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.866,
+        "safety": 67.335,
+        "liquidity": 72.233,
+        "sustainability": 72
+      },
+      "apy": 10.492892,
+      "tvl": 7183449.64,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.659+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x84cda226022b5d6012b418e76b815b967ecc785b",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSDf",
+      "assetClass": null,
+      "composite": 62.347,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 54.403,
+        "safety": 67.342,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 5.494294,
+      "tvl": 234082.27,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.658+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x66ec657c59cdcaf171ab43b83da3942758bf8a97",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "srUSDe",
+      "assetClass": null,
+      "composite": 60.655,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 44.934,
+        "safety": 66.642,
+        "liquidity": 70.944,
+        "sustainability": 72
+      },
+      "apy": 3.919178,
+      "tvl": 5835702.84,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.658+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x78f6927ab0600c445178645f3c64afec85f6dd8a",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "jrUSDe",
+      "assetClass": null,
+      "composite": 59.702,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.075,
+        "safety": 60.771,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 6.43084,
+      "tvl": 719625.94,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.658+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xc3e6cc9269dc780e0d55512c46cad1dd29cfbaa5",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "apxUSD",
+      "assetClass": null,
+      "composite": 64.12,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.725,
+        "safety": 63.429,
+        "liquidity": 61.917,
+        "sustainability": 72
+      },
+      "apy": 7.300195,
+      "tvl": 1361956.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.657+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x30bb9ee8dc6aab322dc3a0d36063cbf06a9e5952",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "apyUSD",
+      "assetClass": null,
+      "composite": 70.841,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 68.686,
+        "safety": 71.109,
+        "liquidity": 72.822,
+        "sustainability": 72
+      },
+      "apy": 16.373758,
+      "tvl": 7897889.34,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.657+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x01d143a7665bb5ae93fbb3120f1f679bb5ad6164",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "NUSD",
+      "assetClass": null,
+      "composite": 64.808,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.833,
+        "safety": 69.327,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 7.157407,
+      "tvl": 180482.25,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.656+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xb1edcea8f9be0b97a9c4065a16cfa3cd362c3bde",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sNUSD",
+      "assetClass": null,
+      "composite": 67.348,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 56.563,
+        "safety": 74.695,
+        "liquidity": 69.433,
+        "sustainability": 72
+      },
+      "apy": 8.793095,
+      "tvl": 4574493.99,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.656+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xdb3b421176215ad746ecba51a10e1c522e02c261",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "srNUSD",
+      "assetClass": null,
+      "composite": 66.331,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.798,
+        "safety": 73.232,
+        "liquidity": 61.279,
+        "sustainability": 72
+      },
+      "apy": 8.154618,
+      "tvl": 1228969.16,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.655+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x0fad2688313ec6883420118b6fcc74c6a5c86419",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "jrNUSD",
+      "assetClass": null,
+      "composite": 64.938,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.035,
+        "safety": 71.572,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 6.962481,
+      "tvl": 543701.2,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.654+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x4af2e5411636b5bc460ebf44b83fd1f4e8c7b783",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "nOPAL",
+      "assetClass": null,
+      "composite": 73.024,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.087,
+        "safety": 73.762,
+        "liquidity": 66.339,
+        "sustainability": 72.75
+      },
+      "apy": 13.16093,
+      "tvl": 2778054.82,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.654+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xf80b67a32df07960c731794769309e3d30e9717f",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USDG",
+      "assetClass": null,
+      "composite": 60.269,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 38.76,
+        "safety": 75.662,
+        "liquidity": 68.685,
+        "sustainability": 72
+      },
+      "apy": 4.274141,
+      "tvl": 4054512.1,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.653+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x4a5067c3ff1abb7449244025b0e37feaf77d8e3e",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USD3",
+      "assetClass": null,
+      "composite": 68.713,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.551,
+        "safety": 69.135,
+        "liquidity": 72.089,
+        "sustainability": 72
+      },
+      "apy": 11.994147,
+      "tvl": 7018657.85,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.652+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xaf0349fb9b1ba07d34381870c59b560b31412660",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "apxUSD",
+      "assetClass": null,
+      "composite": 66.976,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.268,
+        "safety": 69.381,
+        "liquidity": 66.53,
+        "sustainability": 72
+      },
+      "apy": 7.786191,
+      "tvl": 2864785.37,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.652+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xc5f938a8ef5f3bf9e72f5aa094baf5e03f4727d3",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "apyUSD",
+      "assetClass": null,
+      "composite": 69.489,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 68.924,
+        "safety": 69.224,
+        "liquidity": 68.958,
+        "sustainability": 72
+      },
+      "apy": 15.396358,
+      "tvl": 4236911.85,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.651+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x9dbb0d00f965e22f51434c0ea2c2e09dfbcffb62",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "tmvUSDC",
+      "assetClass": null,
+      "composite": 67.059,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.855,
+        "safety": 73.62,
+        "liquidity": 62.461,
+        "sustainability": 72
+      },
+      "apy": 7.912822,
+      "tvl": 1486888.58,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.65+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x9c560ebaf78e596cbcc27411d633a74d628dd7dc",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSDS",
+      "assetClass": null,
+      "composite": 60.862,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 40.824,
+        "safety": 72.632,
+        "liquidity": 68.494,
+        "sustainability": 76.5
+      },
+      "apy": 4.974729,
+      "tvl": 3931411.2,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.648+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x30ee7618e0ef0682f0f354d6f84be87de6b8878c",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "WOUSD",
+      "assetClass": null,
+      "composite": 58.523,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 38.015,
+        "safety": 73.967,
+        "liquidity": 63.518,
+        "sustainability": 72
+      },
+      "apy": 4.640922,
+      "tvl": 1762943.57,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.648+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x8308e53f584a7e5f0c581059d9ba971c0bec9454",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "fxSAVE",
+      "assetClass": null,
+      "composite": 59.511,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 44.492,
+        "safety": 69.734,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 4.856463,
+      "tvl": 625223.17,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.647+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x649325d40afa8448a9161a6cd9da27dedc2a9115",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "PRIME",
+      "assetClass": null,
+      "composite": 58.195,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 42.294,
+        "safety": 68.32,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 5.85518,
+      "tvl": 110065.92,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.646+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x45252f9a932910abc436644f0b29f5531f0eb4cc",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSDD",
+      "assetClass": null,
+      "composite": 68.602,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.493,
+        "safety": 76.113,
+        "liquidity": 70.06,
+        "sustainability": 72
+      },
+      "apy": 7.206352,
+      "tvl": 5060493.04,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.645+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xb9891c75bccef3c55a4566efdb1cdc1e337087b6",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USD (Midas mROX)",
+      "assetClass": null,
+      "composite": 61.777,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 51.439,
+        "safety": 68.824,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 6.877737,
+      "tvl": 140996.75,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.644+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x05b5a8bd55d17a7cc8133d8ccd285f83be01a062",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "savUSD",
+      "assetClass": null,
+      "composite": 64.077,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.899,
+        "safety": 63.437,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 8.125125,
+      "tvl": 764514.8,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.643+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x84183d35960914bad14fa272372861664df329e2",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "STRCx",
+      "assetClass": null,
+      "composite": 71.525,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.027,
+        "safety": 71.299,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 23.679748,
+      "tvl": 781600.65,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.643+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x4237a8acbd0b5a2dec4aa83b1fd83f20162d02b8",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "srUSDat",
+      "assetClass": null,
+      "composite": 66.388,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 69.786,
+        "safety": 64.975,
+        "liquidity": 60.186,
+        "sustainability": 72
+      },
+      "apy": 11.095137,
+      "tvl": 1030482.02,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.642+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x8cef2919a8cb98ad74e1e12392bc9f9fc4e3270a",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "jrUSDat",
+      "assetClass": null,
+      "composite": 69.878,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 78.614,
+        "safety": 68.037,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 28.637913,
+      "tvl": 317406.77,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.641+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x5949c3bfdf9babd759170a3a75c4fe52b03e6797",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "jrRoyAPYUSD",
+      "assetClass": null,
+      "composite": 70.406,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 77.699,
+        "safety": 70.218,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 18.967644,
+      "tvl": 871474.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.64+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x0e201d27ded56cf4a0da8853d7604743de217435",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "srRoyAPYUSD",
+      "assetClass": null,
+      "composite": 68.27,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 70.515,
+        "safety": 69.876,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 12.231669,
+      "tvl": 236392.58,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.639+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x384509537ce5daa5740baeb6d1ee0eb2847ea8a8",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "superWETH",
+      "assetClass": null,
+      "composite": 57.59,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 39.095,
+        "safety": 70.937,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 4.528439,
+      "tvl": 398041.39,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.639+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x61703e1ea2887fffd4b5f777bafd6abd7122bcf9",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "superUSDC",
+      "assetClass": null,
+      "composite": 59.618,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 45.524,
+        "safety": 68.802,
+        "liquidity": 60.357,
+        "sustainability": 72
+      },
+      "apy": 5.93096,
+      "tvl": 1059241.52,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.638+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x177768caf9d0e036725a51d3f60d7e20f2d4d194",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSDe",
+      "assetClass": null,
+      "composite": 69.493,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 56.676,
+        "safety": 77.128,
+        "liquidity": 73.153,
+        "sustainability": 76.5
+      },
+      "apy": 4.321181,
+      "tvl": 8331897.89,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.637+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x43c97094da0e894d3af2fda6f507d59a29888251",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USDe",
+      "assetClass": null,
+      "composite": 62.726,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.458,
+        "safety": 67.772,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 4.068045,
+      "tvl": 447769.69,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.637+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xa268168e73791e2a0ab48ded41ecf6dc923cd17f",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USD (Midas mAPOLLO)",
+      "assetClass": null,
+      "composite": 68.842,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.359,
+        "safety": 74.955,
+        "liquidity": 66.529,
+        "sustainability": 72
+      },
+      "apy": 7.826962,
+      "tvl": 2864416.84,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.636+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xeff6a9ff1f17adbe88c1a923fc197b00ef5f4ce2",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "mHyperBTC",
+      "assetClass": null,
+      "composite": 57.818,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 35.717,
+        "safety": 74.32,
+        "liquidity": 64.595,
+        "sustainability": 72.75
+      },
+      "apy": 3.306256,
+      "tvl": 2097390.01,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.635+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xdf014ab15b68e3b8db53e8d307d01b81cce98739",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USD (Midas mHYPER)",
+      "assetClass": null,
+      "composite": 69.929,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 73.23,
+        "safety": 72.453,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 8.489885,
+      "tvl": 838114.81,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.635+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xf1e067f8334a5a21da018a15e29cb78252190a1b",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sENA",
+      "assetClass": null,
+      "composite": 73.862,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.256,
+        "safety": 74.463,
+        "liquidity": 65.03,
+        "sustainability": 72.75
+      },
+      "apy": 13.835981,
+      "tvl": 2249687.67,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.634+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x91bc86899c8391b6caaf26535b9cd82efe49a189",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSDat",
+      "assetClass": null,
+      "composite": 74.373,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 79.794,
+        "safety": 75.045,
+        "liquidity": 67.5,
+        "sustainability": 72
+      },
+      "apy": 12.834886,
+      "tvl": 3349855.65,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.633+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x9afe7a057a09cf5da748d952078c9c99938b4329",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "USDat",
+      "assetClass": null,
+      "composite": 71.486,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.092,
+        "safety": 77.166,
+        "liquidity": 73.268,
+        "sustainability": 72
+      },
+      "apy": 7.879803,
+      "tvl": 8487618.38,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.633+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x2251b22b82b916142b133d91cd7ac4b5b3c36954",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "msY",
+      "assetClass": null,
+      "composite": 69.787,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 78.899,
+        "safety": 64.628,
+        "liquidity": 64.367,
+        "sustainability": 72.75
+      },
+      "apy": 12.11921,
+      "tvl": 2021452.19,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.632+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x284199ac6b6211ca4419f06b29ccf45db5ca951b",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "msUSD",
+      "assetClass": null,
+      "composite": 65.083,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 68.663,
+        "safety": 62.361,
+        "liquidity": 60,
+        "sustainability": 72
+      },
+      "apy": 6.695797,
+      "tvl": 424505.54,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.631+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x440a67f76f569b67a993aeaff58d198705ec5fe4",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sYUSD",
+      "assetClass": null,
+      "composite": 62.533,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 46.575,
+        "safety": 74.343,
+        "liquidity": 64.664,
+        "sustainability": 72
+      },
+      "apy": 4.698674,
+      "tvl": 2120635.4,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.631+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x272de61d685e3be818a7ec9445746acbcb78f023",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sUSN",
+      "assetClass": null,
+      "composite": 71.564,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.493,
+        "safety": 73.814,
+        "liquidity": 63.052,
+        "sustainability": 72.75
+      },
+      "apy": 9.121451,
+      "tvl": 1635407.98,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.63+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xd72c8c4af3fc310c86b294afd62b1608d49ee6ec",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "sAID",
+      "assetClass": null,
+      "composite": 65.939,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.338,
+        "safety": 69.065,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 9.536511,
+      "tvl": 158684.2,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.629+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x9eaaeda23177b7168c55a3a0f937f67919733449",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "cUSD",
+      "assetClass": null,
+      "composite": 63.901,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 52.623,
+        "safety": 73.302,
+        "liquidity": 61.493,
+        "sustainability": 72
+      },
+      "apy": 7.000531,
+      "tvl": 1272089.2,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.628+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xac24a6f0068d9701eaea76ab0b418021017f8d59",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "stcUSD",
+      "assetClass": null,
+      "composite": 71.259,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 68.681,
+        "safety": 75.358,
+        "liquidity": 67.758,
+        "sustainability": 72
+      },
+      "apy": 6.215493,
+      "tvl": 3491780.81,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.628+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0xfce3f966a131c46a51b896ceea3917bc4c302577",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "ynRWAx",
+      "assetClass": null,
+      "composite": 63.653,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.209,
+        "safety": 72.5,
+        "liquidity": 60,
+        "sustainability": 72.75
+      },
+      "apy": 10.203856,
+      "tvl": 857779.78,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.627+00:00"
+    },
+    {
+      "vaultId": "pendle:1:0x34280882267ffa6383b363e278b027be083bbe3b",
+      "chainId": 1,
+      "protocolId": "pendle",
+      "asset": "wstETH",
+      "assetClass": null,
+      "composite": 69.558,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.94,
+        "safety": 75.027,
+        "liquidity": 66.748,
+        "sustainability": 80.25
+      },
+      "apy": 2.286381,
+      "tvl": 2967160.41,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.626+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x028eC7330ff87667b6dfb0D94b954c820195336c",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "DAI",
+      "assetClass": null,
+      "composite": 77.981,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.887,
+        "safety": 77.439,
+        "liquidity": 74.1,
+        "sustainability": 92
+      },
+      "apy": 2.97742,
+      "tvl": 9705579.49,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.626+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xaA379c2aA72529d5ec0da8A41e2F41ED7Fe4b48C",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvUSDCWBTCWETH",
+      "assetClass": null,
+      "composite": 65.648,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 55.571,
+        "safety": 71.547,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 2.343447,
+      "tvl": 537093.55,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.625+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xb37094c1B5614Bd6EcE40AFb295C26F4377069d3",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "FRAX3CRV-f",
+      "assetClass": null,
+      "composite": 66.349,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 68.8,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 139341.93,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.625+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xc9f01b5c6048B064E6d925d1c2d7206d4fEeF8a3",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDS",
+      "assetClass": null,
+      "composite": 66.569,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.845,
+        "safety": 62.046,
+        "liquidity": 61.439,
+        "sustainability": 92
+      },
+      "apy": 37.189803,
+      "tvl": 1261002.09,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.624+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x9F4330700a36B29952869fac9b33f45EEdd8A3d8",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "BOLD",
+      "assetClass": null,
+      "composite": 70.766,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 75.97,
+        "liquidity": 69.624,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 4716956.57,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.624+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xdb25cA703181E7484a155DD612b06f57E12Be5F0",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "YFI",
+      "assetClass": null,
+      "composite": 66.884,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 70.395,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 304968.05,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.624+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x4282B8f159ee677559Dc6A20cd478DD0BDe75fF2",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvfrxUSD",
+      "assetClass": null,
+      "composite": 68.149,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.661,
+        "safety": 69.92,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 6.946833,
+      "tvl": 241497.36,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.623+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x790a60024bC3aea28385b60480f15a0771f26D09",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "YFIETH-f",
+      "assetClass": null,
+      "composite": 65.883,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.046,
+        "safety": 69.37,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 9.379938,
+      "tvl": 184332.84,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.623+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x342D24F2a3233F7Ac8A7347fA239187BFd186066",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "DOLA-sUSDS",
+      "assetClass": null,
+      "composite": 60.971,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 47.704,
+        "safety": 66.024,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 4.242178,
+      "tvl": 459635.5,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.622+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xAd86Df2e8F989c828B25A7Da5EB1Ec363283fA3F",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "LUSD3CRV-f",
+      "assetClass": null,
+      "composite": 66.704,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 70.122,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 0,
+      "tvl": 266734.3,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.622+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x074134A2784F4F66b6ceD6f68849382990Ff3215",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 73.63,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 70.041,
+        "safety": 74.64,
+        "liquidity": 65.571,
+        "sustainability": 92
+      },
+      "apy": 3.578349,
+      "tvl": 2454482.22,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.622+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x6E9455D109202b426169F0d8f01A3332DAE160f3",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "yCRV-f",
+      "assetClass": null,
+      "composite": 75.271,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 86.091,
+        "safety": 72.399,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 14.872924,
+      "tvl": 816343.96,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.621+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x310B7Ea7475A0B449Cfd73bE81522F1B88eFAFaa",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 77.867,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.47,
+        "safety": 76.838,
+        "liquidity": 72.268,
+        "sustainability": 92
+      },
+      "apy": 3.294073,
+      "tvl": 7223132.23,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.621+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x182863131F9a4630fF9E27830d945B1413e347E8",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDS",
+      "assetClass": null,
+      "composite": 77.587,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.319,
+        "safety": 76.607,
+        "liquidity": 71.563,
+        "sustainability": 92
+      },
+      "apy": 3.263833,
+      "tvl": 6447472.7,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.621+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xBfBC4acAE2ceC91A5bC80eCA1C9290F92959f7c3",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "eUSDUSDC",
+      "assetClass": null,
+      "composite": 66.979,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.685,
+        "safety": 71.272,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 4.77576,
+      "tvl": 469282.87,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.62+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xDb26d8815EdA864Dfa43306766f2F8CA50C03F9E",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "msUSDFRAX3CRV-f",
+      "assetClass": null,
+      "composite": 71.987,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 78.299,
+        "safety": 69.398,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 11.198797,
+      "tvl": 186845.51,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.62+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xAD2f9A55518Dba12E8AB069502820923351667C5",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "msETHWETH-f",
+      "assetClass": null,
+      "composite": 73.636,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.363,
+        "safety": 71.368,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 15.373285,
+      "tvl": 491936.05,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.619+00:00"
+    },
+    {
+      "vaultId": "morpho-blue:1:0xb323495f7e4148be5643a4ea4a8221eef163e4bccfdedc2a6f4696baacbc86cc",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 76.122,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 62.836,
+        "safety": 79.669,
+        "liquidity": 81.306,
+        "sustainability": 92
+      },
+      "apy": 3.38,
+      "tvl": 30083712.35,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.618+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-crvusd-usdt:0xf401fe6a3371a04b97751205cb85516db5664A49",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 65.753,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 61.971,
+        "safety": 68.315,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 4.386764,
+      "tvl": 278957.3,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.618+00:00"
+    },
+    {
+      "vaultId": "beefy:1:balancerv3-ethereum-waethweth-reth:0xf18b52793185A885975b6d9e307e7Aaacc614766",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "rETH",
+      "assetClass": null,
+      "composite": 55.835,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 35.131,
+        "safety": 69.358,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 1.689743,
+      "tvl": 435503.89,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.617+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-staked-cvx:0xf12DD69a5ab0cfbf41758052D871B881DC0fC8e0",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "CVX",
+      "assetClass": null,
+      "composite": 65.324,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.668,
+        "safety": 68.159,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 3.33414,
+      "tvl": 734487.77,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.617+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-mseth-weth:0xEf1bb941c31E832d76c3A59D18753ffd5D880C55",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "msETH",
+      "assetClass": null,
+      "composite": 69.757,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 74.796,
+        "safety": 71.62,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 13.262618,
+      "tvl": 556590.76,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.616+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-reusd-scrvusd:0xe6A0A44FB3096d758018E6DFB10b7a93bfCcA279",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "reUSD",
+      "assetClass": null,
+      "composite": 66.593,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.643,
+        "safety": 71.409,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 8.536883,
+      "tvl": 783636.27,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.615+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-paypool:0xdA19C56DcDf4fB333acBE9aA18024DD2e4A864Bc",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "PYUSD",
+      "assetClass": null,
+      "composite": 72.484,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.331,
+        "safety": 71.491,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 5.299174,
+      "tvl": 522386.26,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.615+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-frxusd-msusd:0xD84F7431ce7b4C5289C0de346C7BC7Dc5FFBF6f5",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "frxUSD",
+      "assetClass": null,
+      "composite": 76.464,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 97,
+        "safety": 71.611,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 13.341659,
+      "tvl": 554329.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.614+00:00"
+    },
+    {
+      "vaultId": "beefy:1:fx-usdc-fxusd:0xD81eaAE8E6195e67695bE9aC447c9D6214CB717A",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "fxUSD",
+      "assetClass": null,
+      "composite": 61.886,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 45.73,
+        "safety": 74.447,
+        "liquidity": 64.982,
+        "sustainability": 69
+      },
+      "apy": 4.920865,
+      "tvl": 2232251.44,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.614+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-msusd-fraxbp:0xD3368E8E2A44a219CEa95868C337429E7328dea1",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "msUSD",
+      "assetClass": null,
+      "composite": 70.263,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.051,
+        "safety": 73.221,
+        "liquidity": 61.246,
+        "sustainability": 69
+      },
+      "apy": 10.82201,
+      "tvl": 1222405.12,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.613+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-tricrypto-usdc:0xD1BeaD7CadcCC6b6a715A6272c39F1EC54F6EC99",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 65.648,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.956,
+        "safety": 70.974,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 3.707293,
+      "tvl": 405291.33,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.612+00:00"
+    },
+    {
+      "vaultId": "beefy:1:pendle-stcusd-23jul26:0xcd17851fd91fEF5AE744F7511213270B63C36c15",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "stcUSD",
+      "assetClass": null,
+      "composite": 65.033,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 62.032,
+        "safety": 69.135,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 5.418909,
+      "tvl": 164200.93,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.612+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-link-stlink-ng:0xca28b1C9F058Ce34332126CbBc71212AD101348F",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "stLINK",
+      "assetClass": null,
+      "composite": 63.61,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 50.341,
+        "safety": 74.237,
+        "liquidity": 64.341,
+        "sustainability": 69.75
+      },
+      "apy": 3.482514,
+      "tvl": 2012972.3,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.611+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-tricrypto-usdt:0xC4c68922058f45952C05296ABef16d8b5BD2190f",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 63.137,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 41.336,
+        "safety": 77.032,
+        "liquidity": 72.861,
+        "sustainability": 76.5
+      },
+      "apy": 2.445219,
+      "tvl": 7947894.06,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.611+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-bold-usdc-new:0xC3CB31faFE8f1f2A991A833D0F0e34187bC6D5AD",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "BOLD",
+      "assetClass": null,
+      "composite": 63.691,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 58.352,
+        "safety": 68.323,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 6.716468,
+      "tvl": 110237.11,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.61+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-crvusd-susde:0xBF7fc2A3d96d80f47b3b89BE84afe10376CE96A5",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 71.018,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 76.802,
+        "safety": 70.829,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 6.077651,
+      "tvl": 377451.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.605+00:00"
+    },
+    {
+      "vaultId": "beefy:1:bifi-vault:0xBEEF8e0982874e0292E6C5751C5A4092b3e1BEEF",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "BIFI",
+      "assetClass": null,
+      "composite": 73.998,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 83.633,
+        "safety": 74.166,
+        "liquidity": 64.124,
+        "sustainability": 69.75
+      },
+      "apy": 22.200879,
+      "tvl": 1943787.67,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.604+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-ebtc-tbtc:0xBbAeb1aA33ca67c4875631a282e7925dF6b474c2",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "EBTC",
+      "assetClass": null,
+      "composite": 57.917,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 42.122,
+        "safety": 68.861,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 0.45665,
+      "tvl": 143580.59,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.603+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-usds-stusds:0x9f90F5D9A1f46B62fbdDDEfbc72F48a35c183510",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "USDS",
+      "assetClass": null,
+      "composite": 74.657,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 78.679,
+        "safety": 75.119,
+        "liquidity": 67.029,
+        "sustainability": 76.5
+      },
+      "apy": 6.123867,
+      "tvl": 3104886.08,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.603+00:00"
+    },
+    {
+      "vaultId": "beefy:1:pendle-reusde-10dec26:0x98e2e221D3FaE4e14c4E56A8F7DEE7D15cF2a557",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "reUSDe",
+      "assetClass": null,
+      "composite": 70.544,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 84.301,
+        "safety": 67.056,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 19.319095,
+      "tvl": 404972.26,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.602+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-bold-lusd:0x834d00dC6073E1Ba68a11b1b58d568ee1e030513",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "BOLD",
+      "assetClass": null,
+      "composite": 65.222,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.48,
+        "safety": 70.909,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 7.636662,
+      "tvl": 392648.1,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.602+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-wbtc-cbbtc-hemibtc:0x7D387275C83b40d72f593e184653dEDfb06091E7",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 67.965,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 70.127,
+        "safety": 67.521,
+        "liquidity": 60.026,
+        "sustainability": 76.5
+      },
+      "apy": 3.401933,
+      "tvl": 1004148.17,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.601+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-usdc-rlusd:0x7Af50A047AC5c37EECf38025FaD92A81aA02AC9B",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "RLUSD",
+      "assetClass": null,
+      "composite": 75.573,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 81.387,
+        "safety": 75.268,
+        "liquidity": 67.483,
+        "sustainability": 76.5
+      },
+      "apy": 5.31597,
+      "tvl": 3340294.36,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.6+00:00"
+    },
+    {
+      "vaultId": "beefy:1:morpho-steakhouse-weth:0x68Ad3F6da23ad1cD24CB5089492ccF186bfBBe7b",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 64.208,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.964,
+        "safety": 64.46,
+        "liquidity": 60,
+        "sustainability": 77.25
+      },
+      "apy": 1.56093,
+      "tvl": 209800.74,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.599+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-cvxcrv:0x5Bcd31a28D77a1A5Ef5e0146Ab91e6f43D7100b7",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "cvxCRV",
+      "assetClass": null,
+      "composite": 64.698,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.753,
+        "safety": 70.017,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 12.160671,
+      "tvl": 253279.88,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.598+00:00"
+    },
+    {
+      "vaultId": "beefy:1:morpho-smokehouse-usdc:0x562Ea6FfFD1293b9433E7b81A2682C31892ea013",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 70.742,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 64.847,
+        "safety": 75.421,
+        "liquidity": 67.951,
+        "sustainability": 76.5
+      },
+      "apy": 5.271703,
+      "tvl": 3602246.63,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.598+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-frxusd-msusd:0x4a2136A8E27C4c55872dC983af25eB8f19C9FD4B",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "frxUSD",
+      "assetClass": null,
+      "composite": 74.439,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 86.248,
+        "safety": 72.986,
+        "liquidity": 60.529,
+        "sustainability": 76.5
+      },
+      "apy": 16.63827,
+      "tvl": 1089062.55,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.597+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-pmusd-crvusd:0x3b09a704669A5d8463FbFF06730895AEEe7A9671",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "pmUSD",
+      "assetClass": null,
+      "composite": 62.812,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 52.329,
+        "safety": 72.427,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 15.086713,
+      "tvl": 827289.33,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.596+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-eth+-weth:0x3a40143c325D294806017F8D5606610B2d86c54e",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "ETH+",
+      "assetClass": null,
+      "composite": 68.003,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 56.684,
+        "safety": 76.523,
+        "liquidity": 71.31,
+        "sustainability": 69.75
+      },
+      "apy": 5.450057,
+      "tvl": 6189805.47,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.595+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-mseth-weth:0x380E00a15c212457437454AF94B86583bc0C99f5",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "msETH",
+      "assetClass": null,
+      "composite": 72.472,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.361,
+        "safety": 75.198,
+        "liquidity": 67.269,
+        "sustainability": 69.75
+      },
+      "apy": 15.257722,
+      "tvl": 3227407.27,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.594+00:00"
+    },
+    {
+      "vaultId": "beefy:1:pendle-reusd-10dec26:0x35574114eA193eBef17402a6b07Bf0dccdD58C54",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "reUSDxyz",
+      "assetClass": null,
+      "composite": 62.917,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.759,
+        "safety": 64.026,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 9.379612,
+      "tvl": 107396.41,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.593+00:00"
+    },
+    {
+      "vaultId": "beefy:1:stakedao-pmusd-frxusd:0x2a2b182E5A05626489eb4874B19158C728705746",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "pmUSD",
+      "assetClass": null,
+      "composite": 63.859,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 56.751,
+        "safety": 70.828,
+        "liquidity": 60,
+        "sustainability": 69
+      },
+      "apy": 18.523963,
+      "tvl": 377175.62,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.593+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-aleth-frxeth:0x26F44884D9744C0EDaB6283930DF325c200020A3",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "alETH",
+      "assetClass": null,
+      "composite": 62.548,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 53.027,
+        "safety": 70.423,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 6.028409,
+      "tvl": 309237.42,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.592+00:00"
+    },
+    {
+      "vaultId": "beefy:1:convex-tricrv:0x1d46d2B6A3d83bB33Feb7b8e7EdFb73e9937befD",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 70.032,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 71.717,
+        "safety": 72.174,
+        "liquidity": 60,
+        "sustainability": 76.5
+      },
+      "apy": 8.081913,
+      "tvl": 730732.89,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.591+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-eusd-usdc:0x1817CFfc44c78d5aED61420bF48Cc273E504B7BE",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "eUSD",
+      "assetClass": null,
+      "composite": 54.255,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 31.735,
+        "safety": 72.928,
+        "liquidity": 60.352,
+        "sustainability": 69
+      },
+      "apy": 1.04776,
+      "tvl": 1058408.26,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.591+00:00"
+    },
+    {
+      "vaultId": "beefy:1:sky-staking:0x15BbD315B61e7C0717B2BcE6DD1172590860fc28",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "SKY",
+      "assetClass": null,
+      "composite": 64.96,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 67.571,
+        "safety": 63.746,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 5.285342,
+      "tvl": 195181.7,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.59+00:00"
+    },
+    {
+      "vaultId": "beefy:1:curve-usdc-usdf:0x0014E0be19De3118b5b29842dd1696a2A98EB9Db",
+      "chainId": 1,
+      "protocolId": "beefy",
+      "asset": "USDf",
+      "assetClass": null,
+      "composite": 64.671,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 56.12,
+        "safety": 73.239,
+        "liquidity": 61.298,
+        "sustainability": 69
+      },
+      "apy": 5.765422,
+      "tvl": 1232803.32,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.589+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 80.679,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60.061,
+        "safety": 86.875,
+        "liquidity": 100,
+        "sustainability": 92
+      },
+      "apy": 0.006169,
+      "tvl": 2023793541.06,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.588+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "DAI",
+      "assetClass": null,
+      "composite": 74.034,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 51.784,
+        "safety": 81.345,
+        "liquidity": 91.186,
+        "sustainability": 92
+      },
+      "apy": 2.843214,
+      "tvl": 121065412.26,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.588+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 83.056,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 66.739,
+        "safety": 85.936,
+        "liquidity": 100,
+        "sustainability": 92.75
+      },
+      "apy": 1.42847,
+      "tvl": 3544404295.43,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.587+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "USDT",
+      "assetClass": null,
+      "composite": 85.556,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.858,
+        "safety": 86.05,
+        "liquidity": 100,
+        "sustainability": 92
+      },
+      "apy": 2.95159,
+      "tvl": 2557970151.93,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.586+00:00"
+    },
+    {
+      "vaultId": "aave-v3:1:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "protocolId": "aave-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 74.221,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 46.084,
+        "safety": 85.899,
+        "liquidity": 100,
+        "sustainability": 92
+      },
+      "apy": 3.035904,
+      "tvl": 2133141568.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T17:27:08.585+00:00"
+    },
+    {
+      "vaultId": "aave-v3:10:0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+      "chainId": 10,
+      "protocolId": "aave-v3",
+      "asset": "AAVE",
+      "assetClass": null,
+      "composite": 66.477,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60,
+        "safety": 68.162,
+        "liquidity": 60,
+        "sustainability": 88.25
+      },
+      "apy": 0,
+      "tvl": 101839,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:11.532+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xeEB6Be70fF212238419cD638FAB17910CF61CBE7",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 62.719,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 48.084,
+        "safety": 68.312,
+        "liquidity": 60,
+        "sustainability": 92.75
+      },
+      "apy": 1.660668,
+      "tvl": 109594.47,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.473+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x04c8bfe2eb09a1e2e9fA97A2fd970E06d87B43de",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvGEARETH-f",
+      "assetClass": null,
+      "composite": 51.006,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 24.86,
+        "safety": 69.064,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 158615.34,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.471+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x09AcE8B2f2fE2189A5B37046BBaFa29Dce31c920",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 71.442,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 80.353,
+        "safety": 64.039,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 4.105824,
+      "tvl": 443942.01,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.471+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x75A291F0232ADD37d72Dd1Dcff55B715755ECDEe",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvCVXETH",
+      "assetClass": null,
+      "composite": 75.146,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 88.596,
+        "safety": 70.306,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 16.876417,
+      "tvl": 291977.11,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.47+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x694E47AFD14A64661a04eee674FB331bCDEF3737",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 72.115,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 79.316,
+        "safety": 66.513,
+        "liquidity": 60,
+        "sustainability": 92
+      },
+      "apy": 3.863285,
+      "tvl": 142791.17,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.468+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xBe53A109B494E5c9f97b9Cd39Fe969BE68BF6204",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 79.538,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 73.753,
+        "safety": 79.403,
+        "liquidity": 80.101,
+        "sustainability": 92
+      },
+      "apy": 3.196617,
+      "tvl": 25470750.12,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.468+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x150F76e1339A918BaA38338ED9bd695Bd0924Bcf",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "alfrxETH-f",
+      "assetClass": null,
+      "composite": 64.587,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 55.023,
+        "safety": 68.616,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 8.08777,
+      "tvl": 127269.4,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.468+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x241AdD131B9aaa7527132b752252b99420937ADc",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvUSDUSDT-f",
+      "assetClass": null,
+      "composite": 65.961,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 59.214,
+        "safety": 68.684,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 5.333525,
+      "tvl": 131570.19,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T13:27:08.467+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xf165a634296800812B8B0607a75DeDdcD4D3cC88",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "reusdscrv",
+      "assetClass": null,
+      "composite": 69.163,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 63.994,
+        "safety": 73.06,
+        "liquidity": 60.755,
+        "sustainability": 84.5
+      },
+      "apy": 6.500918,
+      "tvl": 1129394.02,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T09:27:06.924+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xAe7d8Db82480E6d8e3873ecbF22cf17b3D8A7308",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 75.742,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 82.641,
+        "safety": 73.155,
+        "liquidity": 61.044,
+        "sustainability": 92
+      },
+      "apy": 4.792162,
+      "tvl": 1183203.42,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T09:27:06.921+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x1F6f16945e395593d8050d6Cc33e4328a515B648",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "yYB",
+      "assetClass": null,
+      "composite": 72.172,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 78.311,
+        "safety": 69.635,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 33.11783,
+      "tvl": 209909.56,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T09:27:06.92+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xe7c25cb1eac7D870F3cD103cBB060A6DFbc5eaF2",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "ynETHx/ETH",
+      "assetClass": null,
+      "composite": 67.59,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 66.272,
+        "safety": 66.613,
+        "liquidity": 60,
+        "sustainability": 85.25
+      },
+      "apy": 6.178339,
+      "tvl": 130299.47,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.657+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xe0287cA62fE23f4FFAB827d5448d68aFe6DD9Fd7",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "FrxMsUSD",
+      "assetClass": null,
+      "composite": 70.449,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 67.197,
+        "safety": 73.316,
+        "liquidity": 61.534,
+        "sustainability": 84.5
+      },
+      "apy": 15.551412,
+      "tvl": 1280583,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.656+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x5B8C556B8b2a78696F0B9B830B3d67623122E270",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "steCRV",
+      "assetClass": null,
+      "composite": 70.507,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 60,
+        "safety": 75.697,
+        "liquidity": 68.79,
+        "sustainability": 85.25
+      },
+      "apy": 0,
+      "tvl": 4123762.08,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.655+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x8F49C410ac9d05aa7260ef0951b3f328E80d1f3D",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "av/frxUSD",
+      "assetClass": null,
+      "composite": 65.289,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 66.123,
+        "safety": 60.684,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 12.723514,
+      "tvl": 142307.09,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.655+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xAc37729B76db6438CE62042AE1270ee574CA7571",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 68.888,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 60.981,
+        "safety": 72.079,
+        "liquidity": 61.132,
+        "sustainability": 92.75
+      },
+      "apy": 1.806183,
+      "tvl": 1200242.97,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.653+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x23346B04a7f55b8760E5860AA5A77383D63491cD",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "yBOLD",
+      "assetClass": null,
+      "composite": 65.25,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 45.867,
+        "safety": 75.927,
+        "liquidity": 69.491,
+        "sustainability": 85.25
+      },
+      "apy": 8.098592,
+      "tvl": 4617291.74,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T05:27:06.651+00:00"
+    },
+    {
+      "vaultId": "beefy:8453:aerodrome-lcap-eusd:0x4fcBCEC8f9da4026CF9431d43C632632540B0FF7",
+      "chainId": 8453,
+      "protocolId": "beefy",
+      "asset": "LCAP",
+      "assetClass": null,
+      "composite": 64.306,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 65.616,
+        "safety": 63.506,
+        "liquidity": 60,
+        "sustainability": 69.75
+      },
+      "apy": 20.133389,
+      "tvl": 100132.52,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T01:27:30.726+00:00"
+    },
+    {
+      "vaultId": "morpho:1:0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
+      "chainId": 1,
+      "protocolId": "morpho",
+      "asset": "WETH",
+      "assetClass": null,
+      "composite": 70.349,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 49.478,
+        "safety": 79.056,
+        "liquidity": 79.029,
+        "sustainability": 92.75
+      },
+      "apy": 1.64561,
+      "tvl": 21480222,
+      "dataQuality": "fallback",
+      "scoredAt": "2026-07-08T01:27:05.71+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xc952f3028E322da48e239A077b810A24556f36f1",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "pmfrxUSD",
+      "assetClass": null,
+      "composite": 66.967,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 64.443,
+        "safety": 66.701,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 23.543045,
+      "tvl": 230079.61,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T01:27:05.641+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xAaaFEa48472f77563961Cdb53291DEDfB46F9040",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "yvUSD",
+      "assetClass": null,
+      "composite": 73.259,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 72.728,
+        "safety": 74.27,
+        "liquidity": 64.966,
+        "sustainability": 84.5
+      },
+      "apy": 7.505406,
+      "tvl": 2226607.25,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T01:27:05.638+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x751F0cC6115410A3eE9eC92d08f46Ff6Da98b708",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "WBTC",
+      "assetClass": null,
+      "composite": 54.449,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 25.127,
+        "safety": 75.054,
+        "liquidity": 66.831,
+        "sustainability": 92
+      },
+      "apy": 0.218564,
+      "tvl": 3007319.72,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-08T01:27:05.636+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x7cA00559B978CFde81297849be6151d3ccB408A9",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvUSDUSDC-f",
+      "assetClass": null,
+      "composite": 67.013,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 61.97,
+        "safety": 69.113,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 5.289509,
+      "tvl": 162454.76,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-07T21:27:06.878+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0xBF319dDC2Edc1Eb6FDf9910E39b37Be221C8805F",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "crvUSD",
+      "assetClass": null,
+      "composite": 74.393,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 74.799,
+        "safety": 73.975,
+        "liquidity": 63.544,
+        "sustainability": 92
+      },
+      "apy": 3.02611,
+      "tvl": 1770435.38,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-07T21:27:06.878+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x4CbB6A5EC00cEEC252a7091559484F7adb83165f",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "alUSD3CRV-f",
+      "assetClass": null,
+      "composite": 51.986,
+      "label": "Balanced",
+      "pillars": {
+        "yield": 26.776,
+        "safety": 68.686,
+        "liquidity": 60,
+        "sustainability": 84.5
+      },
+      "apy": 0,
+      "tvl": 131739.37,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-07T21:27:06.873+00:00"
+    },
+    {
+      "vaultId": "yearn-v3:1:0x0e297dE4005883C757c9F09fdF7cF1363C20e626",
+      "chainId": 1,
+      "protocolId": "yearn-v3",
+      "asset": "USDC",
+      "assetClass": null,
+      "composite": 78.268,
+      "label": "Conservative",
+      "pillars": {
+        "yield": 86.7,
+        "safety": 70.856,
+        "liquidity": 70.779,
+        "sustainability": 92
+      },
+      "apy": 6.358241,
+      "tvl": 5682192.98,
+      "dataQuality": "sufficient",
+      "scoredAt": "2026-07-07T21:27:06.872+00:00"
+    }
+  ],
+  "tiers": [
+    {
+      "tier": "conservative",
+      "strategy": "MVO",
+      "expectedApy": 4.52,
+      "unallocatedPct": 0,
+      "slices": [
+        {
+          "vaultId": "morpho:1:0xc21b08c16458202593d4d9b26b9984ee67b38bbd",
+          "protocolId": "morpho",
+          "chainId": 1,
+          "asset": "PYUSD",
+          "fraction": 0.194,
+          "apy": 6.55927
+        },
+        {
+          "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
+          "protocolId": "morpho",
+          "chainId": 1,
+          "asset": "RLUSD",
+          "fraction": 0.111,
+          "apy": 5.33131
+        },
+        {
+          "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
+          "protocolId": "morpho",
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.194,
+          "apy": 5.77324
+        },
+        {
+          "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "protocolId": "aave-v3",
+          "chainId": 1,
+          "asset": "USDT",
+          "fraction": 0.25,
+          "apy": 2.955346773703438
+        },
+        {
+          "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "protocolId": "aave-v3",
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.25,
+          "apy": 3.1678542888981864
+        }
+      ]
+    },
+    {
+      "tier": "balanced",
+      "strategy": "MVO",
+      "expectedApy": 4.53,
+      "unallocatedPct": 0,
+      "slices": [
+        {
+          "vaultId": "morpho:1:0xc21b08c16458202593d4d9b26b9984ee67b38bbd",
+          "protocolId": "morpho",
+          "chainId": 1,
+          "asset": "PYUSD",
+          "fraction": 0.206,
+          "apy": 6.55927
+        },
+        {
+          "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
+          "protocolId": "morpho",
+          "chainId": 1,
+          "asset": "RLUSD",
+          "fraction": 0.088,
+          "apy": 5.33131
+        },
+        {
+          "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
+          "protocolId": "morpho",
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.206,
+          "apy": 5.77324
+        },
+        {
+          "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "protocolId": "aave-v3",
+          "chainId": 1,
+          "asset": "USDT",
+          "fraction": 0.153,
+          "apy": 2.955346773703438
+        },
+        {
+          "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "protocolId": "aave-v3",
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.194,
+          "apy": 3.1678542888981864
+        },
+        {
+          "vaultId": "aave-v3:1:0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "protocolId": "aave-v3",
+          "chainId": 1,
+          "asset": "USDC",
+          "fraction": 0.153,
+          "apy": 2.99168
+        }
+      ]
+    },
+    {
+      "tier": "aggressive",
+      "strategy": "MVO",
+      "expectedApy": 17.98,
+      "unallocatedPct": 13.33,
+      "slices": [
+        {
+          "vaultId": "yearn-v3:1:0xc9f01b5c6048B064E6d925d1c2d7206d4fEeF8a3",
+          "protocolId": "yearn-v3",
+          "chainId": 1,
+          "asset": "USDS",
+          "fraction": 0.233,
+          "apy": 37.18939989295544
+        },
+        {
+          "vaultId": "pendle:1:0x90b70c407f1077f8eb92bf423b44cd92329b737a",
+          "protocolId": "pendle",
+          "chainId": 1,
+          "asset": "reUSDe",
+          "fraction": 0.233,
+          "apy": 17.48723304286992
+        },
+        {
+          "vaultId": "pendle:56:0x23f9a497a5d4d54eaf5e03d94774f17dc1219745",
+          "protocolId": "pendle",
+          "chainId": 56,
+          "asset": "sUSDat",
+          "fraction": 0.2,
+          "apy": 14.82417
+        },
+        {
+          "vaultId": "morpho:8453:0x91c056b6d4311a743614fbc03ac32d4e6a2d3a3c",
+          "protocolId": "morpho",
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.2,
+          "apy": 11.3745
+        }
+      ]
+    }
+  ]
+}
