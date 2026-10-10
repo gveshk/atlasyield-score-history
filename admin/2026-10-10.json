@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "publishedAt": "2026-10-10T06:58:30.475Z",
+  "publishedAt": "2026-10-10T09:15:51.709Z",
   "method": "Per-vault classification of who can change the vault and how fast: immutable, timelocked multisig (strong means a 3+ threshold and a majority of signers), multisig only, or a single admin key scored by the curator track record (40 established, 10 unknown or new, floor 10); protocols without a per-vault admin layer (Aave, Pendle, EtherFi, Ethena) and BNB vaults are not screened and stay on protocol metadata.",
   "disclaimer": "Research and information, not investment advice.",
   "vaultCount": 552,
