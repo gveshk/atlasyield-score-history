@@ -1,14 +1,14 @@
 {
   "date": "2026-10-10",
-  "publishedAt": "2026-10-10T09:15:51.709Z",
+  "publishedAt": "2026-10-10T10:41:48.015Z",
   "method": "Per-vault classification of who can change the vault and how fast: immutable, timelocked multisig (strong means a 3+ threshold and a majority of signers), multisig only, or a single admin key scored by the curator track record (40 established, 10 unknown or new, floor 10); protocols without a per-vault admin layer (Aave, Pendle, EtherFi, Ethena) and BNB vaults are not screened and stay on protocol metadata.",
   "disclaimer": "Research and information, not investment advice.",
-  "vaultCount": 552,
+  "vaultCount": 553,
   "byClass": {
     "timelock_short_multisig_weak": 300,
     "unknown": 20,
     "timelock_long_multisig_strong": 14,
-    "multisig_only": 178,
+    "multisig_only": 179,
     "eoa": 40
   },
   "admin": [
@@ -27,7 +27,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x191c10aa4af7c30e871e70c95db0e4eb77237530",
@@ -44,7 +44,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x38d693ce1df5aadf7bc62595a37d667ad57922e5",
@@ -61,7 +61,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x4200000000000000000000000000000000000006",
@@ -78,7 +78,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
@@ -95,7 +95,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x68f180fcce6836688e9084f035309e29bf0a2095",
@@ -112,7 +112,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x6ab707aca953edaefbc4fd23ba73294241490620",
@@ -129,7 +129,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -146,7 +146,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
@@ -163,7 +163,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
@@ -180,7 +180,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -197,7 +197,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:10:0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
@@ -214,7 +214,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:10:0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
@@ -231,7 +231,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x018008bfb33d285247a21d44e50697654f754e63",
@@ -248,7 +248,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x01e69a58ca3ddc695820ce6f66fbdf3fa55d0545",
@@ -265,7 +265,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x0b925ed163218f6662a35e0f0371ac234f9e9371",
@@ -282,7 +282,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x0c0d01abf3e6adfca0989ebba9d6e85dd58eab1e",
@@ -299,7 +299,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x10ac93971cdb1f5c778144084242374473c350da",
@@ -316,7 +316,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x12b70410d60f926558245f769059ea3fc7a7353e",
@@ -333,7 +333,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x18efe565a5373f430e2f809b97de30335b3ad96a",
@@ -350,7 +350,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -367,7 +367,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x23878914efe38d27c4d67ab83ed1b93a74d4086a",
@@ -384,7 +384,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x24ab03a9a5bc2c49e5523e8d915a3536ac38b91d",
@@ -401,7 +401,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x2a1fbcb52ed4d9b23dad17e1e8aed4bb0e6079b8",
@@ -418,7 +418,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x32a6268f9ba3642dda7892add74f1d34469a4259",
@@ -435,7 +435,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x3fe6a295459fae07df8a0cecc36f37160fe86aa9",
@@ -452,7 +452,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x4579a27af00a62c0eb156349f31b345c08386419",
@@ -469,7 +469,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x481a2acf3a72ffdc602a9541896ca1db87f86cf7",
@@ -486,7 +486,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x49d3cde03813ee32dfd47f6aa3957d5f9cbab985",
@@ -503,7 +503,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8",
@@ -520,7 +520,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x4f5923fc5fd4a93352581b38b7cd26943012decf",
@@ -537,7 +537,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x5c647ce0ae10658ec44fa4e11a51c96e94efd1dd",
@@ -554,7 +554,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x5e8c8a7243651db1384c0ddfdbe39761e8e7e51a",
@@ -571,7 +571,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8",
@@ -588,7 +588,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x5fefd7069a7d91d01f269dade14526ccf3487810",
@@ -605,7 +605,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x65906988adee75306021c417a1a3458040239602",
@@ -622,7 +622,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x68215b6533c47ff9f7125ac95adf00fe4a62f79e",
@@ -639,7 +639,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -656,7 +656,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x7c0477d085ecb607cf8429f3ec91ae5e1e460f4f",
@@ -673,7 +673,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x8a2b6f94ff3a89a03e8c02ee92b55af90c9454a2",
@@ -690,7 +690,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x927709711794f3de5ddbf1d176bee2d55ba13c21",
@@ -707,7 +707,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x977b6fc5de62598b08c85ac8cf2b745874e8b78c",
@@ -724,7 +724,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
@@ -741,7 +741,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -758,7 +758,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xa700b4eb416be35b2911fd5dee80678ff64ff6c9",
@@ -775,7 +775,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xaa6e91c82942aeae040303bf96c15a6dbcb82ca0",
@@ -792,7 +792,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xb76cf92076adbf1d9c39294fa8e7a67579fde357",
@@ -809,7 +809,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xbdfa7b7893081b35fb54027489e2bc7a38275129",
@@ -826,7 +826,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
@@ -843,7 +843,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xc035a7cf15375ce2706766804551791ad035e0c2",
@@ -860,7 +860,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xcc9ee9483f662091a1de4795249e24ac0ac2630f",
@@ -877,7 +877,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xce8c60fd8390efcc3fc66a3f0bd64beb969e750e",
@@ -894,7 +894,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -911,7 +911,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xe3190143eb552456f88464662f0c0c4ac67a77eb",
@@ -928,7 +928,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xec4ef66d4fceeba34abb4de69db391bc5476ccc8",
@@ -945,7 +945,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xfa1fdbbd71b0aa16162d76914d69cd8cb3ef92da",
@@ -962,7 +962,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:1:0xfa82580c16a31d0c1bc632a36f82e83efef3eec0",
@@ -979,7 +979,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x078f358208685046a11c85e8ad32895ded33a249",
@@ -996,7 +996,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x191c10aa4af7c30e871e70c95db0e4eb77237530",
@@ -1013,7 +1013,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
@@ -1030,7 +1030,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
@@ -1047,7 +1047,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x6533afac2e7bccb20dca161449a13a32d391fb00",
@@ -1064,7 +1064,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x6ab707aca953edaefbc4fd23ba73294241490620",
@@ -1081,7 +1081,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x724dc807b04555b71ed48a6896b6f41593b8c637",
@@ -1098,7 +1098,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -1115,7 +1115,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
@@ -1132,7 +1132,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0xaf88d065e77c8cc2239327c5edb3a432268e5831",
@@ -1149,7 +1149,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -1166,7 +1166,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
@@ -1183,7 +1183,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0xebe517846d0f36eced99c735cbf6131e1feb775d",
@@ -1217,7 +1217,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:42161:0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -1234,7 +1234,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "aave-v3:8453:0x067ae75628177fd257c2b1e500993e1a0babcbd1",
@@ -1490,7 +1490,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:bifi-vault:0xbeef8e0982874e0292e6c5751c5a4092b3e1beef",
@@ -1508,7 +1508,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-aleth-frxeth:0x26f44884d9744c0edab6283930df325c200020a3",
@@ -1526,7 +1526,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-cvxcrv:0x5bcd31a28d77a1a5ef5e0146ab91e6f43d7100b7",
@@ -1544,7 +1544,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-fraxusdc:0x4fc424a840b5fb1baf195963ec3737904440df1d",
@@ -1580,7 +1580,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-staked-cvx:0xf12dd69a5ab0cfbf41758052d871b881dc0fc8e0",
@@ -1598,7 +1598,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-staked-cvxcrv:0x4115150523599d1f6c6fa27f5a4c27d578fd8ce5",
@@ -1616,7 +1616,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-tricrv:0x1d46d2b6a3d83bb33feb7b8e7edfb73e9937befd",
@@ -1634,7 +1634,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-tricrypto-llama:0xbcaec95a49d50f7336fc08017343ddd8ed239a52",
@@ -1652,7 +1652,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-tricrypto-usdc:0xd1bead7cadccc6b6a715a6272c39f1ec54f6ec99",
@@ -1670,7 +1670,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:convex-tricrypto-usdt:0xc4c68922058f45952c05296abef16d8b5bd2190f",
@@ -1688,7 +1688,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-bold-lusd:0x834d00dc6073e1ba68a11b1b58d568ee1e030513",
@@ -1706,7 +1706,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-crvusd-susde:0xbf7fc2a3d96d80f47b3b89be84afe10376ce96a5",
@@ -1724,7 +1724,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-crvusd-yb:0x0b1b34677b80f499d2f03bf335ed6a2db9f2a376",
@@ -1742,7 +1742,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-ebtc-tbtc:0xbbaeb1aa33ca67c4875631a282e7925df6b474c2",
@@ -1778,7 +1778,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-eusd-usdc:0x1817cffc44c78d5aed61420bf48cc273e504b7be",
@@ -1814,7 +1814,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-link-stlink-ng:0xca28b1c9f058ce34332126cbbc71212ad101348f",
@@ -1832,7 +1832,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-mseth-weth:0x380e00a15c212457437454af94b86583bc0c99f5",
@@ -1850,7 +1850,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-msusd-fraxbp:0xd3368e8e2a44a219cea95868c337429e7328dea1",
@@ -1868,7 +1868,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-paypool:0xda19c56dcdf4fb333acbe9aa18024dd2e4a864bc",
@@ -1886,7 +1886,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-pyusd-crvusd:0x869cf8a46c70c59aafe7258fa824a0179168e8b8",
@@ -1904,7 +1904,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-reusd-scrvusd:0xe6a0a44fb3096d758018e6dfb10b7a93bfcca279",
@@ -1922,7 +1922,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-usdc-rlusd:0x7af50a047ac5c37eecf38025fad92a81aa02ac9b",
@@ -1940,7 +1940,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-usdc-usdf:0x0014e0be19de3118b5b29842dd1696a2a98eb9db",
@@ -1958,7 +1958,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:curve-usds-stusds:0x9f90f5d9a1f46b62fbdddefbc72f48a35c183510",
@@ -1976,7 +1976,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:fx-reusd-fxusd:0xab6d619ea03b2413547289e905a2f18b59a6b951",
@@ -1994,7 +1994,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:fx-usdc-fxusd:0xd81eaae8e6195e67695be9ac447c9d6214cb717a",
@@ -2012,7 +2012,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:morpho-smokehouse-usdc:0x562ea6fffd1293b9433e7b81a2682c31892ea013",
@@ -2030,7 +2030,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:morpho-steakhouse-weth:0x68ad3f6da23ad1cd24cb5089492ccf186bfbbe7b",
@@ -2048,7 +2048,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:morpho-v2-ethereum-clearstar-3jane-ecosystem-vault-usdc:0x5e293d57f13269cf40729042356c30b083c1ac29",
@@ -2066,7 +2066,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:pendle-reusd-10dec26:0x35574114ea193ebef17402a6b07bf0dccdd58c54",
@@ -2084,7 +2084,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:pendle-reusde-10dec26:0x98e2e221d3fae4e14c4e56a8f7dee7d15cf2a557",
@@ -2102,7 +2102,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:sky-staking:0x15bbd315b61e7c0717b2bce6dd1172590860fc28",
@@ -2120,7 +2120,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-crvusd-usdt:0xf401fe6a3371a04b97751205cb85516db5664a49",
@@ -2138,7 +2138,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-frxusd-msusd:0xd84f7431ce7b4c5289c0de346c7bc7dc5ffbf6f5",
@@ -2156,7 +2156,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-mseth-weth:0xef1bb941c31e832d76c3a59d18753ffd5d880c55",
@@ -2174,7 +2174,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-pmusd-crvusd:0x3b09a704669a5d8463fbff06730895aeee7a9671",
@@ -2192,7 +2192,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-pmusd-frxusd:0x2a2b182e5a05626489eb4874b19158c728705746",
@@ -2210,7 +2210,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:stakedao-wbtc-cbbtc-hemibtc:0x7d387275c83b40d72f593e184653dedfb06091e7",
@@ -2228,7 +2228,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:1:yb-wbtc:0x000d8a90f10c3f47728f5c69990b116d2608bd9f",
@@ -2246,7 +2246,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:curve-arb-tbtc-ng:0x64d461a7aa9c3949c2642217f4a52b694f129d94",
@@ -2282,7 +2282,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:pancake-cow-arb-wbtc-weth-vault:0xd52d5bc4e1135d8f73c5f141646172c451e4a76b",
@@ -2300,7 +2300,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:pancake-cow-arb-weth-usdc-500-vault:0xaaec4162648ad644554e162c06b9230374d6ebfc",
@@ -2318,7 +2318,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:pancake-cow-arb-weth-usdt-500-vault:0x329c8aba35381169c9ed4d0cf522413157663ca3",
@@ -2336,7 +2336,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:sushi-cow-arb-weth-usdc-vault:0xf5c9c812fa046579d46caf15133052eecdc9a8ce",
@@ -2354,7 +2354,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:uniswap-cow-arb-wbtc-tbtc-vault:0x0c63bbc3712c53214b5489c68ccdc5a9e3bb4800",
@@ -2372,7 +2372,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:42161:uniswap-cow-arb-wsteth-weth-vault:0x749e0767c811a4ae867ddac6280ae8b2c57b75b1",
@@ -2390,7 +2390,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aero-cow-cbeth-weth-vault:0x6a9e27a4b41ad09d95c81e111451a48704869775",
@@ -2408,7 +2408,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aero-cow-eurc-cbbtc-vault:0xcde6acb858f291b914c9ffceb5445cd9e8a747b6",
@@ -2426,7 +2426,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aero-cow-tbtc-weth-vault:0x05bee19151db72e1f5761759ca4d9b6cf7fb601f",
@@ -2444,7 +2444,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-cbbtc-usdc-vault:0x7aff1e6ae905d8106db6645681584d51f0e300b1",
@@ -2462,7 +2462,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-cbltc-cbbtc-vault:0x2a57146e13165199ae291bff71836082a90ff601",
@@ -2480,7 +2480,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-cbxrp-cbbtc-v2-vault:0x590ede3ba3f48b7b570b74f15a4488db0424849d",
@@ -2498,7 +2498,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-aaplc-vault:0x66cf69c5b780240b1eb1879020453d81b1c816da",
@@ -2516,7 +2516,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-amznc-vault:0xb65a7e6749c01f35ccb9258803f5ee15e1b375ae",
@@ -2534,7 +2534,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-googlc-vault:0xc71f9270d046a7978088c913e16e7d5d8d772e7b",
@@ -2552,7 +2552,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-metac-vault:0xb6e0d141475bcfa210055b0e90c1acdcb8fc06e8",
@@ -2570,7 +2570,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-msftc-vault:0x575da7570b4ee677bd6002569de9d88b269cbae4",
@@ -2588,7 +2588,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-mstrc-vault:0x944a37603ca610ccbac7a09264b3e73c3b7fba28",
@@ -2624,7 +2624,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-sndkc-vault:0x8d7f7fdf3c0176b5bc14830406c3deae1db16dde",
@@ -2642,7 +2642,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-spcxc-vault:0xf638acbb5afa238af95e77f24963335018f51bcc",
@@ -2660,7 +2660,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-usdc-tslac-vault:0x722a0b2664cac3c826ecb85dcad97383e1645db1",
@@ -2696,7 +2696,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-cow-base-weth-usdc-v2-vault:0x3d7859f8805dbc52936a14b57185ffded63f53ae",
@@ -2714,7 +2714,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-dola-usdc:0x5a47993216fa6acaf93418f9830cee485e82d0ba",
@@ -2732,7 +2732,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-jeur-eurc:0xd8491d0f4339adb074fb85948ce5f8baf23f09a2",
@@ -2750,7 +2750,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-lcap-eusd:0x4fcbcec8f9da4026cf9431d43c632632540b0ff7",
@@ -2768,7 +2768,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-lcap-usdc:0xd522b8c635625e4ec4ed80d147a07f27ceea5547",
@@ -2786,7 +2786,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-msusd-usdc:0x753ff04ff5dd67e756405b2edd9bba41aa63c5e9",
@@ -2804,7 +2804,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-ovn-usd+:0x98beaa72230788572e3e3be58d91c232dda315d4",
@@ -2822,7 +2822,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-usdc-aero:0xc005b9833debcf5fe6cc5bc9ba4fd74bb382ae55",
@@ -2840,7 +2840,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-usdc-eusd:0x8bd6df821513aecdbbaa29c1d5212b43fdce7819",
@@ -2858,7 +2858,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-usdc-mai:0x22f8ff24861a7f7e2ec9b19c5668b43bb69202e3",
@@ -2876,7 +2876,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-weth-bsdeth:0xb614a6e6c21202de79dceb95ae2dd4817dd7e14b",
@@ -2894,7 +2894,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-weth-lcap:0x028baca249b33d24fc32ac01d6531f6be0061c8e",
@@ -2912,7 +2912,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-weth-mseth:0x4187d53fa448dc18da79accd27112ff065216471",
@@ -2930,7 +2930,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-weth-usdc:0x09139a80454609b69700836a9ee12db4b5dbb15f",
@@ -2948,7 +2948,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:aerodrome-weth-vvv:0x4794158d7587961b1c462c0774a06c95018a854b",
@@ -2966,7 +2966,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:curve-base-4pool:0xc3718d05478edab1c40f84e8a7a65ca49d039a9f",
@@ -2984,7 +2984,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:mellow-aero-usdc-cbbtc:0x7f765219d007b058fc6f6654061b99cd283fa025",
@@ -3038,7 +3038,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:morpho-base-steakhouse-high-yield-usdc:0xf1c55b6e063ee90a33ffe62debe618962bae021e",
@@ -3056,7 +3056,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:pancake-cow-base-weth-usdc-vault:0x9b57d675065707e26482e46fd29228f49ede4e3f",
@@ -3074,7 +3074,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:pancakeswap-cow-base-sol-cbbtc-vault:0x82fc3ba31f8df868a1158cf0f2fbf16e03b85c68",
@@ -3092,7 +3092,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "beefy:8453:pancakeswap-cow-base-sol-jitosol-vault:0x7a027b2d77db12ff54c274f21497094c21824d6f",
@@ -3110,7 +3110,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "ethena:1:0x9d39a5de30e57443bff2a8307a4256c8797a3497",
@@ -3129,7 +3129,7 @@
           "delaySeconds": 86400
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "etherfi:1:0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
@@ -3148,7 +3148,7 @@
           "delaySeconds": 864000
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "etherfi:8453:0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
@@ -3201,7 +3201,7 @@
           "kind": "unrecognised"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0x72a6d005374db6b7975fb5768a1802f5c0979474",
@@ -3219,7 +3219,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0x797dd80692c3b2dadabce8e30c07fde5307d48a9",
@@ -3237,7 +3237,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0x998d761ec1badaceb064624cc3a1d37a46c88ba4",
@@ -3255,7 +3255,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0x9bd52f2805c6af014132874124686e7b248c2cbb",
@@ -3273,7 +3273,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xa28c23a459ff8773eb4dbe0e7250d93f79f1fe2b",
@@ -3291,7 +3291,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xa45eac8e33168cefa0b225f500e6d93d43b8f1af",
@@ -3363,7 +3363,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xbc4b4ac47582c3e38ce5940b80da65401f4628f1",
@@ -3381,7 +3381,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xc1c51c5c9efaf0c485aa1097ae9690b5e102975a",
@@ -3399,7 +3399,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xd8b27cf359b7d15710a5be299af6e7bf904984c2",
@@ -3417,7 +3417,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xdfa6451eac51c913003bfeb52418f55376996a64",
@@ -3453,7 +3453,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xe846ca062ab869b66ae8dcd811973f628ba82eaf",
@@ -3471,7 +3471,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xf26c68e6d26f725858e7cc353ee30e43adf0b732",
@@ -3489,7 +3489,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:1:0xf81b08cb4669049049b9c2a38c7d27d480655bb3",
@@ -3507,7 +3507,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:42161:0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b",
@@ -3543,7 +3543,25 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
+    },
+    {
+      "vaultId": "euler:8453:0x0a1a3b5f2041f33522c4efc754a7d096f880ee16",
+      "chainId": 8453,
+      "protocolId": "euler",
+      "class": "multisig_only",
+      "curatorId": "alphagrowth",
+      "curatorRating": null,
+      "timelockSeconds": 0,
+      "roles": [
+        {
+          "role": "governorAdmin",
+          "kind": "safe",
+          "threshold": 3,
+          "owners": 9
+        }
+      ],
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0x358f25f82644eabb441d0df4af8746614fb9ea49",
@@ -3561,7 +3579,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0x3f0d3fd87a42bdaa3dfcc13ada42ea922e638a7a",
@@ -3579,7 +3597,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0x4c1aeda9b43efcf1da1d1755b18802aabe90f61e",
@@ -3597,7 +3615,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0x5fe2de3e565a6a501a4ec44aab8664b1d674ac25",
@@ -3651,7 +3669,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0x9f876520f1937d4b4f6f4defe29fa5ea6d4526d0",
@@ -3669,7 +3687,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0xc64fd6138f980a5587412dac75e04363046ae32e",
@@ -3687,7 +3705,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0xd4a805261b28f375fc9c3d89ecd2c952cd130d14",
@@ -3705,7 +3723,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "euler:8453:0xdc4efb20ce286b421f6361734a2a006a1f24af8d",
@@ -3723,7 +3741,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:2tnczzyjt3uhmpfpqeejkza4pquk9xola79djh9adgga",
@@ -3739,7 +3757,7 @@
           "kind": "unrecognised"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:3dbvs2mraksxoldsgsqdue3ruqkxm6dp5kwwc6pwtucg",
@@ -3757,7 +3775,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:3smnuqk7m13kory9gx8dzjqavxgbhgrvni65pk6ltbgc",
@@ -3773,7 +3791,7 @@
           "kind": "unrecognised"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:4twka9jxegelepaploarhsqoqwoiu12dkdcjsuvvhquf",
@@ -3789,7 +3807,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:5yxwkgsvytdt8q2cbgwa4l9bkbnknrb66k9wuzij5wh",
@@ -3807,7 +3825,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:67dqmr76uabjx6e81a1gankv3ou31wumedewjkwvfexy",
@@ -3823,7 +3841,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:6mrbfwrzbsydyurpviwzitxomvzpw6k7acbxcrgkzhc5",
@@ -3857,7 +3875,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:8voxrclsah791mwpsyykgbwjoek55hkiu3ahe3vqadbv",
@@ -3873,7 +3891,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:8wdtedcoyq2dh9ut1codc21v6kphe32unydhcva8u9vs",
@@ -3891,7 +3909,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:91b1opzhnuqobflzxgmnyt5qdrkoqv8fdsdqbmh4wbxy",
@@ -3909,7 +3927,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:9e69u4gzwhryrape8dypco6z9vtzy6gg8w6w2qsbacej",
@@ -3927,7 +3945,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:9encur9rwuipft8khybn5wgryfgkqngpf1actnpdlggv",
@@ -3963,7 +3981,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:a1usdsc4kypcgpw5dhawmqdjffkrtdvhtxlhdy9qvhq3",
@@ -3981,7 +3999,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:a1usdt5bhsbpwih4w6ozeykcdr9vq56qxvkmfhzjn48o",
@@ -3999,7 +4017,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:a1usdzqdhmw5oz97akqaglxeqzffjaszfuy4t6qdvnpo",
@@ -4017,7 +4035,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:a2wsxha7pf4b2ukvfxocb6taap9ipfpjam6omkgde5bk",
@@ -4033,7 +4051,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:a3htcwdnfv6uiqlxrmnv17epietmc93v1agqnwy44mup",
@@ -4051,7 +4069,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:adcgkvst9u9qrxgscxg2eztqknypumbfqjntalepxwe5",
@@ -4067,7 +4085,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:b5pjfzaikjyueuqb2694nhrsjcam67uujawqjztvtzr6",
@@ -4085,7 +4103,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:beefo7xwgk2zp13pxo7qqtpzatekjmxjvwtmwcxsvbn2",
@@ -4103,7 +4121,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:bozdrc1rdy9fzuzz19wt4gbttnnbxq8agsu5byew3ut5",
@@ -4121,7 +4139,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:bqbss4myh82s4yfqekjxsf7yerwwsi5wtshszkmhqgzw",
@@ -4139,7 +4157,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:bycyyxpxwmcfqn3qjzi1yyzkzlfdt5n8ccn1r25r8xyv",
@@ -4157,7 +4175,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:cwptesngaxj8s3arsfhtuomb5zqaa1tmjbykqvljjxmd",
@@ -4175,7 +4193,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:d1xvxx4ur7kisgpuerumojxvz3yebfzwpx1un7qbadfb",
@@ -4191,7 +4209,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:dccrsdumgat6zmeul4bjaszmjgnd2lqd74zq4z6ckhpg",
@@ -4209,7 +4227,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:djbrxubckojpfvuntwx94nghcthfgarv5nrmeazuadde",
@@ -4227,7 +4245,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:dwsxb18xzapz29vnqpgr2m6mynct7pznaxt7ut7m7kap",
@@ -4245,7 +4263,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:epc2n3aav84p9tksndt2x41p6t7c5vtewbhqbh4rvx4r",
@@ -4263,7 +4281,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:fpqnecvaw9qchtj7jrqxquv94yffmhx3he5khugx4m3j",
@@ -4279,7 +4297,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:gfiw6edsrthzd4vnz2qtsurvasrrgkrxe1ouhntcvsft",
@@ -4297,7 +4315,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:hdsayqasdwy3qvangqh2ynraqcd8fnjgh73mhb3wrs5e",
@@ -4315,7 +4333,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:hjfeprrrlbfjbfsjac69r3nmyskvil9yy1qllaqjvnw",
@@ -4331,7 +4349,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:hoffqvzunggpeahe42e1dqnyswjjckorfgibn6npt2or",
@@ -4349,7 +4367,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:nssesc5s9mk7uhug7hdrieenaz7fqmzvejsef62zjbc",
@@ -4367,7 +4385,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "kamino:792703809:qaytekciq4gc42k683rtawu3jxqcea7jkekzxwwuwbo",
@@ -4385,7 +4403,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:10:0x3d63934715b6d4c4dfbbc1a00fe2a2145079dd76",
@@ -4409,7 +4427,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:10:0xc30ce6a5758786e0f640cc5f881dd96e9a1c5c59",
@@ -4433,7 +4451,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x04422053addbc9bb2759b248b574e3fca76bc145",
@@ -4453,7 +4471,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x069662d2588fcac24b5c209456db965d151556f0",
@@ -4475,7 +4493,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x07ecd7e0c348d526902258e3b1c4f2898057e611",
@@ -4495,7 +4513,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x093272c07700d3ca5301c3bf9b3a392624179e2f",
@@ -4517,7 +4535,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x132fe294ea9b6fad8ca00554d211d5f2b905c1ad",
@@ -4541,7 +4559,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x133614490896bc02c774bc3399e4db1b6d05a2ca",
@@ -4561,7 +4579,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x1878805799273d10ae96a58201a6f5254cf9824f",
@@ -4581,7 +4599,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x18e862e34938db06c9244966a93939e7892f5119",
@@ -4605,7 +4623,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x1a1985f50352b58090eb36425afdfacbac7806f4",
@@ -4629,7 +4647,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x2371e134e3455e0593363cbf89d3b6cf53740618",
@@ -4653,7 +4671,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x23f5e9c35820f4bab695ac1f19c203cc3f8e1e11",
@@ -4677,7 +4695,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x244f46262d9ad408b746e74abdd010e9002fb7ee",
@@ -4701,7 +4719,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x2bd3a43863c07b6a01581fada0e1614ca5df0e3d",
@@ -4725,7 +4743,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x2c4bc0ec9fdd2b1f38ed5120184d62288d3e9dce",
@@ -4773,7 +4791,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x2ed10624315b74a78f11fabedaa1a228c198aefb",
@@ -4797,7 +4815,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x31a5684983eee865d943a696aac155363ba024f9",
@@ -4821,7 +4839,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x32401b9fb79065bc15949de0bd43927492f02f0c",
@@ -4841,7 +4859,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x34ece536d2ae03192b06c0a67030d1faf4c0ba43",
@@ -4887,7 +4905,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x3a618e9d4159dff94e90bd6239161de4dd7c0082",
@@ -4909,7 +4927,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x3bd9adae6643ddcddd02746b8b60075e56df9478",
@@ -4933,7 +4951,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x3d5eccb62974178236a768a7ef14d3ce468fbe91",
@@ -4957,7 +4975,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x43fcd85e8d9d003d515f886891b7c742ac9f92da",
@@ -4981,7 +4999,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x443df5eee3196e9b2dd77cabd3ea76c3dee8f9b2",
@@ -5005,7 +5023,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
@@ -5029,7 +5047,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
@@ -5053,7 +5071,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x4ff4186188f8406917293a9e01a1ca16d3cf9e59",
@@ -5077,7 +5095,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x500331c9ff24d9d11aee6b07734aa72343ea74a5",
@@ -5101,7 +5119,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x500ae64100d7dbdb640531085c2f5d40cdc8930d",
@@ -5125,7 +5143,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x54210d3f1a066413891af9e17210e787d5c6e3f4",
@@ -5149,7 +5167,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x55c1b6e461a6334b567baf0feb5d728715446f05",
@@ -5173,7 +5191,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x56a76b428244a50513ec81e225a293d128fd581d",
@@ -5196,7 +5214,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x56bfa6f53669b836d1e0dfa5e99706b12c373ecf",
@@ -5220,7 +5238,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x5b453493d2328e7f747eb2e66446efe707728be7",
@@ -5243,7 +5261,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725",
@@ -5267,7 +5285,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x5dc53a23adc9f2bed98de6f59f7f309a7c71ff2b",
@@ -5291,7 +5309,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x5f342382d5f77f0f99e8f26161e689df6c7cded3",
@@ -5315,7 +5333,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x62fe596d59fb077c2df736df212e0affb522dc78",
@@ -5335,7 +5353,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x64c18dcc4ccb3b8d27877a4aebb4c3126cb39cb9",
@@ -5379,7 +5397,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x6859b34a9379122d25a9fa46f0882d434fee36c3",
@@ -5403,7 +5421,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x68a65f315bcd3c3456d1368ff88bc661856548e1",
@@ -5423,7 +5441,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x68aea7b82df6ccdf76235d46445ed83f85f845a3",
@@ -5447,7 +5465,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x69a238ae7ebeb3c53ff3b544e48b96a2142fc284",
@@ -5471,7 +5489,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x6dc58a0fdfc8d694e571dc59b9a52eeea780e6bf",
@@ -5495,7 +5513,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x701907283a57ff77e255c3f1aad790466b8ce4ef",
@@ -5519,7 +5537,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x71ffb6a81786ec285d429d531cf655107b9d878d",
@@ -5539,7 +5557,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x739d8a60ed4b14e4cb6dcaeaf79d2ec0ca092237",
@@ -5559,7 +5577,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x75741a12b36d181f44f389e0c6b1e0210311e3ff",
@@ -5583,7 +5601,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x777791c4d6dc2ce140d00d2828a7c93503c67777",
@@ -5605,7 +5623,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x78b18e07dc43017fceaabad0751d6464c0f56b25",
@@ -5653,7 +5671,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x7a72bcd2c3f7f7e4d6679170a0625bab15d7dda1",
@@ -5677,7 +5695,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x7cbcfc4f64be199ede6db1d916ddcdb69f666b57",
@@ -5701,7 +5719,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x7ceb0f01cb7187a2ebed5661ecc4d5701d8f2350",
@@ -5721,7 +5739,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x7d4741ba166b21cf3168a9a0ea71388531c52ff7",
@@ -5746,7 +5764,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x812b2c6ab3f4471c0e43d4bb61098a9211017427",
@@ -5770,7 +5788,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8381a156958711e230f325428b5eb4b6555c75d9",
@@ -5794,7 +5812,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x85f3d81a39df458e45d5ea20f9eb937faafd282f",
@@ -5818,7 +5836,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x870f0bf29a25a40e7cc087cd5c53e70c11f2c8a8",
@@ -5842,7 +5860,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x888883f0eddf69ca4bfd00af93714ff97f188888",
@@ -5864,7 +5882,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8ac91877b93330f52b2979a31a4879506021475c",
@@ -5888,7 +5906,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
@@ -5912,7 +5930,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8cb3649114051ca5119141a34c200d65dc0faa73",
@@ -5936,7 +5954,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8e56cb6bc1a8961ed9062b99045d3299b27cdb4d",
@@ -5960,7 +5978,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458",
@@ -5984,7 +6002,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x8edcc305e633d29bfb383872e79401c506ce9e6f",
@@ -6008,7 +6026,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x91600e31fbedc72433d4a57f16639cfe661be7d8",
@@ -6028,7 +6046,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x93e0f9d502eefce8d34924ab3478c7ea0cbc5a2e",
@@ -6052,7 +6070,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x9480034d908989b006d78bdbbd7bd509c92e8bbc",
@@ -6076,7 +6094,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x974c8fbf4fd795f66b85b73ebc988a51f1a040a9",
@@ -6100,7 +6118,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x98d2b241da14c5dd848812708eb8a1f3c5512f9d",
@@ -6123,7 +6141,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x9a1d6bd5b8642c41f25e0958129b85f8e1176f3e",
@@ -6147,7 +6165,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8",
@@ -6169,7 +6187,7 @@
           "kind": "none"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xa0804346780b4c2e3be118ac957d1db82f9d7484",
@@ -6193,7 +6211,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xa2eaad0d586cf9fd73bb2c09cf6a7e3e187d68cd",
@@ -6217,7 +6235,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xa71d08a159258553a5ac190d60fa919425ff02ea",
@@ -6241,7 +6259,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xa877d5bb0274dccba8556154a30e1ca4021a275f",
@@ -6289,7 +6307,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xab5955eb671d150527f8e61a42b703832f86616c",
@@ -6314,7 +6332,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xabe418cc8c06d265e4eb009c02ea4b265eca7240",
@@ -6336,7 +6354,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb0c424116172b55cbb6dd3136f5989f7959e5b91",
@@ -6359,7 +6377,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb344e331a3cda61d329fb3cca2be5942da87c418",
@@ -6379,7 +6397,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb48c056c5608ba2ee4cd94af2bf4b1f25295bd7e",
@@ -6399,7 +6417,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb576765fb15505433af24fee2c0325895c559fb2",
@@ -6423,7 +6441,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb5ce3ca2c774b72955c25875022fdd91f7a7b938",
@@ -6447,7 +6465,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb8274efadb953fe9ae052d481a3fc5b6a3ced703",
@@ -6470,7 +6488,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xb885f6d448da7e2c642ec31190b629e40e87b069",
@@ -6494,7 +6512,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
@@ -6518,7 +6536,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef003c68896c7d2c3c60d363e8d71a49ab2bf9",
@@ -6543,7 +6561,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef003e31546c7210687f1a7b40d096be83ec58",
@@ -6568,7 +6586,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef0046fcab1de47e41fb75bb3dc4dfc94108e3",
@@ -6593,7 +6611,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef00a59b577423653a1526c7009bde103f542b",
@@ -6618,7 +6636,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef00b5d83c1188f07a5184230a805639c39f04",
@@ -6641,7 +6659,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
@@ -6665,7 +6683,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef047a543e45807105e51a8bbefcc5950fcfba",
@@ -6689,7 +6707,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
@@ -6713,7 +6731,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef088055857739c12cd3765f20b7679def0f51",
@@ -6738,7 +6756,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef0c075da5d01112ae5cf34d257074fb5ddb2f",
@@ -6763,7 +6781,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef1f5bd88285e5b239b6aacb991d38cca23ac9",
@@ -6811,7 +6829,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef3f3a04e28895f3d5163d910474901981183d",
@@ -6835,7 +6853,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeef96b330ef1fe7ebe41ece0bd4a41a94bc03dc",
@@ -6859,7 +6877,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeefb9f61cc44895d8aec381373555a64191a9c4",
@@ -6883,7 +6901,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeefc1cdafc5b4a649b54d07afc6bf0f75c6f4e2",
@@ -6907,7 +6925,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff047c03714965a54b671a37c18bef6b96210",
@@ -6932,7 +6950,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff07d991c04cd640de9f15c08ba59c4fedeb7",
@@ -6957,7 +6975,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff08df54897e7544ab01d0e86f013da354111",
@@ -6981,7 +6999,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff2c5bf38f90e3482a8b19f12e5a6d2fca757",
@@ -7006,7 +7024,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff75262b2ec16a3c62a807f02ee7627654931",
@@ -7031,7 +7049,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeff89abb7815ccd5182bd1ff82c4a4f8fcb13d",
@@ -7054,7 +7072,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeeffabcd0db09589dd21854aa760c52ab4bf04f",
@@ -7079,7 +7097,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbeefff209270748ddd194831b3fa287a5386f5bc",
@@ -7103,7 +7121,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xbf29043164660c60a2a72cd15ffe2304e87b6838",
@@ -7127,7 +7145,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xc207d3f66537d7f66456808379a0e560cf20da36",
@@ -7151,7 +7169,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xc21b08c16458202593d4d9b26b9984ee67b38bbd",
@@ -7175,7 +7193,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xc30c60de46dec551b96326cbd05592c9245773ef",
@@ -7197,7 +7215,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xc54b4e08c1dcc199fdd35c6b5ab589ffd3428a8d",
@@ -7221,7 +7239,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xc92a37fd0250f4eecf092960a2f70a1334217528",
@@ -7245,7 +7263,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xce13e39534082fcf8f13f6d84e6d95414d14271e",
@@ -7269,7 +7287,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xd1e9242e075db4bdd3f3c721d7d5fd4180a94a7e",
@@ -7293,7 +7311,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
@@ -7317,7 +7335,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xd63070114470f685b75b74d60eec7c1113d33a3d",
@@ -7339,7 +7357,7 @@
           "kind": "none"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xd6d4b804014ef27836dbe9f8f6bf6c71251548ec",
@@ -7363,7 +7381,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xd95fe7adf5075fad9d6bf853e0f9fe53369e8d96",
@@ -7383,7 +7401,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xdd0f28e19c1780eb6396170735d45153d261490d",
@@ -7407,7 +7425,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe0181090c22579b6a217f1522cbf8c9f1f0c1965",
@@ -7431,7 +7449,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe05fadf242331808f504661bea65972594869826",
@@ -7455,7 +7473,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe15fcc81118895b67b6647bbd393182df44e11e0",
@@ -7479,7 +7497,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe2221aa07ec3266da87763e2b1e28d07a8a4e53b",
@@ -7503,7 +7521,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe571b648569619566cf6ce1060c97b621cb635d3",
@@ -7527,7 +7545,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe89371eaaac6d46d4c3ed23453241987916224fc",
@@ -7551,7 +7569,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xe9be5f0e92e941a025d3dd32038250577756a73f",
@@ -7571,7 +7589,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xebbae8cfabb0092d5b32f00ebee0c8139d24ddcd",
@@ -7595,7 +7613,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xf3557ad5e984211ac8a0874a670344f2c3376471",
@@ -7619,7 +7637,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xf39ac02dec8fae8292d5f42202e4cd885356256b",
@@ -7639,7 +7657,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xf42bca228d9bd3e2f8ee65fec3d21de1063882d4",
@@ -7663,7 +7681,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xf9bddd4a9b3a45f980e11fdde96e16364ddbec49",
@@ -7687,7 +7705,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:1:0xfc8c624b6080a0a780583799f2a862de936f6e22",
@@ -7710,7 +7728,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x390c1bb01f3f627144a40617e287d4ce3d5abcfa",
@@ -7734,7 +7752,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
@@ -7756,7 +7774,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x55a2b207b0074e13adcb858950a81b7a04775e0f",
@@ -7780,7 +7798,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
@@ -7804,7 +7822,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x610d151ae40662ae148cdbaae1ea5904b6afae78",
@@ -7828,7 +7846,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
@@ -7852,7 +7870,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0x7e97fa6893871a2751b5fe961978dccb2c201e65",
@@ -7876,7 +7894,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0xbeeff1d5de8f79ff37a151681100b039661da518",
@@ -7901,7 +7919,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0xbeeff72b77e7584a450e887125f25e8d8819016a",
@@ -7926,7 +7944,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:42161:0xbeeff77ce5c059445714e6a3490e273fe7f2492f",
@@ -7951,7 +7969,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x050ce30b927da55177a4914ec73480238bad56f0",
@@ -7975,7 +7993,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x0548a36028ffdc7d5aaa7a182f0d1fe0264f5a5c",
@@ -7999,7 +8017,7 @@
           "owners": 1
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x08cc279532f159bdb450ebc0baf6562f585ded58",
@@ -8021,7 +8039,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x09832347586e238841f49149c84d121bc2191c53",
@@ -8089,7 +8107,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
@@ -8109,7 +8127,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x1deefabee758aabdc29a542b24ca3b75afd56765",
@@ -8133,7 +8151,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x1e9e47583f15d45a10df48c0b1846e0492c795d7",
@@ -8153,7 +8171,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x392b3ccf36c8adb8094f45573346b457414cd752",
@@ -8177,7 +8195,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x39e18c066187c83e860801befe45ae8ecd021575",
@@ -8199,7 +8217,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x43cd00de63485618a5ceebe0de364cd6cbeb26e7",
@@ -8223,7 +8241,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x4d72fed1b6ce42f8dea811f7b6685ebe4ec04e01",
@@ -8247,7 +8265,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x543257ef2161176d7c8cd90ba65c2d4caef5a796",
@@ -8271,7 +8289,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x5435bc53f2c61298167cdb11cdf0db2bfa259ca0",
@@ -8293,7 +8311,7 @@
           "kind": "none"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x5e03f8965e2957291b3c6990c6cb9023c36d3d30",
@@ -8313,7 +8331,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x618495ccc4e751178c4914b1e939c0fe0fb07b9b",
@@ -8337,7 +8355,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x6770216ac60f634483ec073cbabc4011c94307cb",
@@ -8361,7 +8379,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x6b13c060f13af1fdb319f52315bbbf3fb1d88844",
@@ -8385,7 +8403,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x6e6fcac197ee06d0164c0fba218c7bcb878f9b5c",
@@ -8409,7 +8427,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x7bfa7c4f149e7415b73bdedfe609237e29cbf34a",
@@ -8431,7 +8449,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x8b12106a70fe2f8bb255f691f1cf9a9ccfb278af",
@@ -8455,7 +8473,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x8effa741061aaa2d8a5012a9b09a2d31d8b628d7",
@@ -8479,7 +8497,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x91c056b6d4311a743614fbc03ac32d4e6a2d3a3c",
@@ -8503,7 +8521,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0x94af495de1f56aa5576deb17986bdcee5dd9778d",
@@ -8527,7 +8545,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1",
@@ -8551,7 +8569,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xae4181cfb5aaa08bbe77d269c6b595672b9f9edc",
@@ -8575,7 +8593,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbca4e2e24a7cfa776e4282cc8eb06f04738b71da",
@@ -8599,7 +8617,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef009f28ccf367444a9f79096862920e025dc1",
@@ -8624,7 +8642,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef00a299ae1784fb7740d2d469f60a1e015fe9",
@@ -8649,7 +8667,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef00f0a818894a2cf111644a5098421611100e",
@@ -8674,7 +8692,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef00fc6e87de086a0e29169a2f6e25cf5c11a9",
@@ -8697,7 +8715,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef010f9cb27031ad51e3333f9af9c6b1228183",
@@ -8721,7 +8739,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef0786756810478b88982de00f3cd7fdb8e7c7",
@@ -8743,7 +8761,7 @@
           "owners": 2
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef086b8807dc5e5a1740c5e3a7c4c366ea6ab5",
@@ -8767,7 +8785,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeef0e0834849acc03f0089f01f4f1eeb06873c9",
@@ -8792,7 +8810,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeefa7b88064feef0cee02aaebbd95d30df3878f",
@@ -8816,7 +8834,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeefe94c8ad530842bfe7d8b397938ffc1cb83b2",
@@ -8840,7 +8858,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeeff0be997cca5b1c13a7433c2004637975739e",
@@ -8865,7 +8883,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeeff2490feffa212fac2f6553682c219e6a8845",
@@ -8890,7 +8908,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xbeeff7ae5e00aae3db302e4b0d8c883810a58100",
@@ -8915,7 +8933,7 @@
           "owners": 9
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xc0c5689e6f4d256e861f65465b691aeecc0deb12",
@@ -8939,7 +8957,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
@@ -8963,7 +8981,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xdba76bc542bb07538e046b40f2e8a215b409f7a8",
@@ -8987,7 +9005,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xe34d43ca9152d198b60654868c8cd197196a492f",
@@ -9011,7 +9029,7 @@
           "owners": 6
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xe74c499fa461af1844fca84204490877787ced56",
@@ -9031,7 +9049,7 @@
           "kind": "eoa"
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xe7d0dbe3493830e2ab62619211a2bff0fc60db42",
@@ -9055,7 +9073,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61",
@@ -9079,7 +9097,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xef417a2512c5a41f69ae4e021648b69a7cde5d03",
@@ -9103,7 +9121,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026",
@@ -9127,7 +9145,7 @@
           "owners": 4
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "morpho:8453:0xfefec33668e22677c4762d0853d56245a800ff08",
@@ -9151,7 +9169,7 @@
           "owners": 7
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x03005432d0f02c46d48ccd859d677d261640e5e1",
@@ -9169,7 +9187,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x0bef762d2094ac80821c657dea6783fc43435292",
@@ -9187,7 +9205,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x0e201d27ded56cf4a0da8853d7604743de217435",
@@ -9205,7 +9223,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x13285bcbc27f92b47b4edb99d744c07b48c977c0",
@@ -9223,7 +9241,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x16d3126ee82ee36816499fb9db6f647c6addd09c",
@@ -9241,7 +9259,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x1f34887b270bfaf56cf7973572654874c8ed740e",
@@ -9259,7 +9277,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x22fcdf7be34a72bddbf4a6eeeb489b1f29062f0b",
@@ -9277,7 +9295,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x30ee7618e0ef0682f0f354d6f84be87de6b8878c",
@@ -9295,7 +9313,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x34280882267ffa6383b363e278b027be083bbe3b",
@@ -9313,7 +9331,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x384509537ce5daa5740baeb6d1ee0eb2847ea8a8",
@@ -9331,7 +9349,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x3e81f92001cd428dd6f2ef1421939da6a3d9f1bd",
@@ -9367,7 +9385,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x4a5067c3ff1abb7449244025b0e37feaf77d8e3e",
@@ -9385,7 +9403,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x4ccf6deb3d1895373f604b418ff55d8adae8b846",
@@ -9403,7 +9421,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x5949c3bfdf9babd759170a3a75c4fe52b03e6797",
@@ -9421,7 +9439,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x5e572498e9f83650f0ff24194999bddb4b390928",
@@ -9439,7 +9457,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x61703e1ea2887fffd4b5f777bafd6abd7122bcf9",
@@ -9457,7 +9475,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x66ec657c59cdcaf171ab43b83da3942758bf8a97",
@@ -9475,7 +9493,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x687dedecd5d2899ef497b3ff13af066ac3d152b0",
@@ -9493,7 +9511,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x68b647308f86f8669eaced155a9168769ce72265",
@@ -9511,7 +9529,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x78f6927ab0600c445178645f3c64afec85f6dd8a",
@@ -9529,7 +9547,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x7972de1c2f9f11f622a188fbae8c0a943880424f",
@@ -9547,7 +9565,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x79a8b102dd39329aafecc69499c0f6d07f2f959d",
@@ -9565,7 +9583,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x8308e53f584a7e5f0c581059d9ba971c0bec9454",
@@ -9583,7 +9601,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x84cda226022b5d6012b418e76b815b967ecc785b",
@@ -9601,7 +9619,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x8ce3a13852d13e0e991c677a8c6137584e2b7635",
@@ -9619,7 +9637,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x90b70c407f1077f8eb92bf423b44cd92329b737a",
@@ -9637,7 +9655,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0x9c560ebaf78e596cbcc27411d633a74d628dd7dc",
@@ -9655,7 +9673,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xac028348c46d3455899a2b9b50077c11960eaddb",
@@ -9673,7 +9691,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xaf0349fb9b1ba07d34381870c59b560b31412660",
@@ -9691,7 +9709,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xb6fe0f0811931a38aa97534bac3c147437223e38",
@@ -9709,7 +9727,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xb8858f53f71a127a7a6e2d015c722bfbeb1810c3",
@@ -9727,7 +9745,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xb94f1423b4a95b0115f913daa6c4b8744a74e3b2",
@@ -9745,7 +9763,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xb986fe3f6ecf16c13e769b0d6d2a0bc41449d54f",
@@ -9763,7 +9781,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xbeab098b510f758cd35122ee345957b8eccbb322",
@@ -9781,7 +9799,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xc5f938a8ef5f3bf9e72f5aa094baf5e03f4727d3",
@@ -9799,7 +9817,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xd44f2630260ff3805d7cb317d4f6740b0044c408",
@@ -9817,7 +9835,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xdf2e3e0250f679d6284a39a0c1a16a850a9d7aa6",
@@ -9835,7 +9853,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xeb603c5a42d49d3b2e078191c23bf3f5d25bc219",
@@ -9853,7 +9871,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xf3f7b3a8f2518603796dddb61392ad0e322118b6",
@@ -9871,7 +9889,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:1:0xfcf009cb3135da12a6eb1f73f3ee05392a7bc947",
@@ -9889,7 +9907,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:42161:0xa8a0dea40174cfc30fea9e3a77f182ab33f46e25",
@@ -9907,7 +9925,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:42161:0xcbf629c8d396b1261f81f55175afa010e94787d8",
@@ -9925,7 +9943,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "pendle:42161:0xf86119a39f8654f38acbbd5488bd83f3f51983c8",
@@ -9943,7 +9961,7 @@
           "owners": 5
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:10:0xd0d2ac44cc842079e978bb11b094764f7d0dec6a",
@@ -9961,7 +9979,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:10:0xf7d66b41cd4241eae450fd9d2d6995754634d9f3",
@@ -9979,7 +9997,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x028ec7330ff87667b6dfb0d94b954c820195336c",
@@ -10003,7 +10021,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x04c8bfe2eb09a1e2e9fa97a2fd970e06d87b43de",
@@ -10021,7 +10039,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x074134a2784f4f66b6ced6f68849382990ff3215",
@@ -10039,7 +10057,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x09ace8b2f2fe2189a5b37046bbafa29dce31c920",
@@ -10057,7 +10075,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x0e297de4005883c757c9f09fdf7cf1363c20e626",
@@ -10075,7 +10093,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x182863131f9a4630ff9e27830d945b1413e347e8",
@@ -10099,7 +10117,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x192725c6516656f3e288c08db8228c25fe1f77d5",
@@ -10117,7 +10135,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x1f6f16945e395593d8050d6cc33e4328a515b648",
@@ -10141,7 +10159,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x1fc80cfcf5b345b904a0fb36d4222196ed9eb8a5",
@@ -10159,7 +10177,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x23346b04a7f55b8760e5860aa5a77383d63491cd",
@@ -10177,7 +10195,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x241add131b9aaa7527132b752252b99420937adc",
@@ -10195,7 +10213,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x27b5739e22ad9033bcbf192059122d163b60349d",
@@ -10213,7 +10231,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x310b7ea7475a0b449cfd73be81522f1b88efafaa",
@@ -10237,7 +10255,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x342d24f2a3233f7ac8a7347fa239187bfd186066",
@@ -10255,7 +10273,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x4282b8f159ee677559dc6a20cd478dd0bde75ff2",
@@ -10273,7 +10291,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x4cbb6a5ec00ceec252a7091559484f7adb83165f",
@@ -10309,7 +10327,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x668c5ef17f2f01503fbb4f285f32161251047720",
@@ -10327,7 +10345,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x694e47afd14a64661a04eee674fb331bcdef3737",
@@ -10345,7 +10363,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x696d02db93291651ed510704c9b286841d506987",
@@ -10369,7 +10387,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x6e9455d109202b426169f0d8f01a3332dae160f3",
@@ -10387,7 +10405,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x751f0cc6115410a3ee9ec92d08f46ff6da98b708",
@@ -10411,7 +10429,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x75a291f0232add37d72dd1dcff55b715755ecdee",
@@ -10429,7 +10447,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x790a60024bc3aea28385b60480f15a0771f26d09",
@@ -10447,7 +10465,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x7c439df9ade8831180ea4d546c1e910d4ba71a86",
@@ -10465,7 +10483,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x7ca00559b978cfde81297849be6151d3ccb408a9",
@@ -10483,7 +10501,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x8078198fc424986ae89ce4a910fc109587b6abf3",
@@ -10501,7 +10519,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x863687e4e9751b57f38b4b0eba04744c72d0f7b8",
@@ -10525,7 +10543,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x8f49c410ac9d05aa7260ef0951b3f328e80d1f3d",
@@ -10543,7 +10561,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0x9f4330700a36b29952869fac9b33f45eedd8a3d8",
@@ -10567,7 +10585,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xaa379c2aa72529d5ec0da8a41e2f41ed7fe4b48c",
@@ -10585,7 +10603,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xaaafea48472f77563961cdb53291dedfb46f9040",
@@ -10603,7 +10621,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xac37729b76db6438ce62042ae1270ee574ca7571",
@@ -10627,7 +10645,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xad2f9a55518dba12e8ab069502820923351667c5",
@@ -10645,7 +10663,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xad86df2e8f989c828b25a7da5eb1ec363283fa3f",
@@ -10663,7 +10681,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T09:17:19.215+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xae7d8db82480e6d8e3873ecbf22cf17b3d8a7308",
@@ -10687,7 +10705,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xb37094c1b5614bd6ece40afb295c26f4377069d3",
@@ -10723,7 +10741,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xb83461b887398cd981957bd93cb7067cf89c21c0",
@@ -10741,7 +10759,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xbe53a109b494e5c9f97b9cd39fe969be68bf6204",
@@ -10765,7 +10783,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xbf319ddc2edc1eb6fdf9910e39b37be221c8805f",
@@ -10789,7 +10807,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xc56413869c6cdf96496f2b1ef801fedbdfa7ddb0",
@@ -10813,7 +10831,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xc952f3028e322da48e239a077b810a24556f36f1",
@@ -10831,7 +10849,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xc9f01b5c6048b064e6d925d1c2d7206d4feef8a3",
@@ -10849,7 +10867,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xd2433ec6de2a932ab7bc1a0080676333aef8b546",
@@ -10867,7 +10885,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xdb25ca703181e7484a155dd612b06f57e12be5f0",
@@ -10885,7 +10903,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xdb26d8815eda864dfa43306766f2f8ca50c03f9e",
@@ -10903,7 +10921,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xe0287ca62fe23f4ffab827d5448d68afe6dd9fd7",
@@ -10921,7 +10939,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xeeb6be70ff212238419cd638fab17910cf61cbe7",
@@ -10939,7 +10957,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xf165a634296800812b8b0607a75deddcd4d3cc88",
@@ -10957,7 +10975,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:1:0xfac55fafd0b55bfb8dd41f735efcc195ada9891f",
@@ -10981,7 +10999,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:8453:0xb13cf163d916917d9cd6e836905ca5f12a1def4b",
@@ -11005,7 +11023,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:8453:0xc3bd0a2193c8f027b82dde3611d18589ef3f62a9",
@@ -11029,7 +11047,7 @@
           "owners": 8
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     },
     {
       "vaultId": "yearn-v3:8453:0xf115c134c23c7a05fbd489a8be3116ebf54b0d9f",
@@ -11047,7 +11065,7 @@
           "owners": 3
         }
       ],
-      "checkedAt": "2026-10-09T19:51:07.156+00:00"
+      "checkedAt": "2026-10-10T10:39:43.198+00:00"
     }
   ]
 }
