@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "publishedAt": "2026-10-10T00:10:06.276Z",
+  "publishedAt": "2026-10-10T06:58:30.475Z",
   "probe": {
     "scope": "same-chain",
     "funding": "USDC on the vault's own chain",
@@ -33,7 +33,7 @@
   "disclaimer": "Research and information, not investment advice.",
   "freshWithinHours": 36,
   "vaultCount": 594,
-  "freshCount": 499,
+  "freshCount": 497,
   "byVerdict": {
     "OK": 456,
     "DEGRADED": 24,
@@ -42,9 +42,9 @@
     "DANGEROUS": 1
   },
   "byVerdictFresh": {
-    "OK": 396,
+    "OK": 395,
     "DEGRADED": 24,
-    "NO_ROUTE": 79
+    "NO_ROUTE": 78
   },
   "routes": [
     {
@@ -14680,7 +14680,7 @@
       "usdOut": null,
       "retained": null,
       "checkedAt": "2026-10-08T14:44:13.078+00:00",
-      "fresh": true,
+      "fresh": false,
       "cost": null
     },
     {
@@ -16832,7 +16832,7 @@
       "usdOut": 4975.832903,
       "retained": 0.9951665806000001,
       "checkedAt": "2026-10-08T14:43:36.871+00:00",
-      "fresh": true,
+      "fresh": false,
       "cost": {
         "router": "lifi",
         "usd100": {
@@ -19034,14 +19034,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 71.03339634504519,
-          "fixedUsd": 0.18183396345045794,
+          "allInBps": 71.02822472618058,
+          "fixedUsd": 0.18178224726181186,
           "proportionalBps": 52.8499999999994,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 56.50097592690031,
-          "fixedUsd": 0.18183396345045794,
+          "allInBps": 56.500872494523016,
+          "fixedUsd": 0.18178224726181186,
           "proportionalBps": 56.13730799999939,
           "extrapolated": false
         },
@@ -19076,14 +19076,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 84.97741570756922,
-          "fixedUsd": 0.23393315707568899,
+          "allInBps": 84.97076231287204,
+          "fixedUsd": 0.23386662312871712,
           "proportionalBps": 61.58410000000032,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 99.06220631415103,
-          "fixedUsd": 0.23393315707568899,
+          "allInBps": 99.06207324625709,
+          "fixedUsd": 0.23386662312871712,
           "proportionalBps": 98.59433999999965,
           "extrapolated": false
         },
@@ -19118,14 +19118,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 70.913035898368,
-          "fixedUsd": 0.180630358983686,
+          "allInBps": 70.90789851174168,
+          "fixedUsd": 0.18057898511742282,
           "proportionalBps": 52.8499999999994,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 56.169500717967665,
-          "fixedUsd": 0.180630358983686,
+          "allInBps": 56.16939797023514,
+          "fixedUsd": 0.18057898511742282,
           "proportionalBps": 55.808240000000296,
           "extrapolated": false
         },
@@ -19160,14 +19160,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 66.63403817034722,
-          "fixedUsd": 0.16624038170347216,
+          "allInBps": 66.62931005532535,
+          "fixedUsd": 0.1661931005532534,
           "proportionalBps": 50.010000000000005,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.346280763406945,
-          "fixedUsd": 0.16624038170347216,
+          "allInBps": 50.34618620110651,
+          "fixedUsd": 0.1661931005532534,
           "proportionalBps": 50.0138,
           "extrapolated": false
         },
@@ -19230,14 +19230,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 91.8077718074777,
-          "fixedUsd": 0.41917771807477716,
+          "allInBps": 91.7958497916272,
+          "fixedUsd": 0.419058497916272,
           "proportionalBps": 49.89,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 68.92544743614931,
-          "fixedUsd": 0.41917771807477716,
+          "allInBps": 68.9252089958323,
+          "fixedUsd": 0.419058497916272,
           "proportionalBps": 68.08709199999976,
           "extrapolated": false
         },
@@ -19272,14 +19272,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 65.46559423665181,
-          "fixedUsd": 0.15327694236651815,
+          "allInBps": 65.4612348204481,
+          "fixedUsd": 0.15323334820448098,
           "proportionalBps": 50.1379,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.21075388473304,
-          "fixedUsd": 0.15327694236651815,
+          "allInBps": 50.210666696408964,
+          "fixedUsd": 0.15323334820448098,
           "proportionalBps": 49.9042,
           "extrapolated": false
         },
@@ -19314,14 +19314,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 2.1511710978877865,
-          "fixedUsd": 0.021511710978877864,
+          "allInBps": 2.150559273956782,
+          "fixedUsd": 0.02150559273956782,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.043023421957755735,
-          "fixedUsd": 0.021511710978877864,
+          "allInBps": 0.04301118547913564,
+          "fixedUsd": 0.02150559273956782,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -19356,14 +19356,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 57.138662128372815,
-          "fixedUsd": 0.07198662128372828,
+          "allInBps": 57.13661472555782,
+          "fixedUsd": 0.07196614725557832,
           "proportionalBps": 49.93999999999999,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.07797324256745,
-          "fixedUsd": 0.07198662128372828,
+          "allInBps": 50.07793229451116,
+          "fixedUsd": 0.07196614725557832,
           "proportionalBps": 49.934,
           "extrapolated": false
         },
@@ -19412,14 +19412,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 67.35133565493283,
-          "fixedUsd": 0.17451335654932834,
+          "allInBps": 67.34637224463405,
+          "fixedUsd": 0.1744637224463406,
           "proportionalBps": 49.9,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 51.67079671309912,
-          "fixedUsd": 0.17451335654932834,
+          "allInBps": 51.67069744489314,
+          "fixedUsd": 0.1744637224463406,
           "proportionalBps": 51.32177000000046,
           "extrapolated": false
         },
@@ -19468,14 +19468,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 2.1511710978877865,
-          "fixedUsd": 0.021511710978877864,
+          "allInBps": 2.150559273956782,
+          "fixedUsd": 0.02150559273956782,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.043023421957755735,
-          "fixedUsd": 0.021511710978877864,
+          "allInBps": 0.04301118547913564,
+          "fixedUsd": 0.02150559273956782,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -19510,14 +19510,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 58.86939626257334,
-          "fixedUsd": 0.07863096262573102,
+          "allInBps": 58.867159885155495,
+          "fixedUsd": 0.0786085988515526,
           "proportionalBps": 51.00630000000024,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 51.28600992525064,
-          "fixedUsd": 0.07863096262573102,
+          "allInBps": 51.28596519770228,
+          "fixedUsd": 0.0786085988515526,
           "proportionalBps": 51.12874799999918,
           "extrapolated": false
         },
@@ -19552,14 +19552,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 58.975068067893524,
-          "fixedUsd": 0.09065068067893525,
+          "allInBps": 58.972489832445135,
+          "fixedUsd": 0.09062489832445138,
           "proportionalBps": 49.91,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.08930136135787,
-          "fixedUsd": 0.09065068067893525,
+          "allInBps": 50.08924979664891,
+          "fixedUsd": 0.09062489832445138,
           "proportionalBps": 49.908,
           "extrapolated": false
         },
@@ -19608,14 +19608,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 75.21695572431373,
-          "fixedUsd": 0.2380205572431341,
+          "allInBps": 75.21018607809009,
+          "fixedUsd": 0.2379528607808976,
           "proportionalBps": 51.41490000000032,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 58.59487511448706,
-          "fixedUsd": 0.2380205572431341,
+          "allInBps": 58.59473972156258,
+          "fixedUsd": 0.2379528607808976,
           "proportionalBps": 58.11883400000079,
           "extrapolated": false
         },
@@ -19650,14 +19650,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 88.08603420362033,
-          "fixedUsd": 0.24797834203620822,
+          "allInBps": 88.07898134370707,
+          "fixedUsd": 0.24790781343707563,
           "proportionalBps": 63.288199999999506,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 139.29949868407206,
-          "fixedUsd": 0.24797834203620822,
+          "allInBps": 139.2993576268738,
+          "fixedUsd": 0.24790781343707563,
           "proportionalBps": 138.80354199999965,
           "extrapolated": false
         },
@@ -19692,14 +19692,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 57.08031816869433,
-          "fixedUsd": 0.06942318168694583,
+          "allInBps": 57.07834367378018,
+          "fixedUsd": 0.0694034367378043,
           "proportionalBps": 50.13799999999975,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.21481036337355,
-          "fixedUsd": 0.06942318168694583,
+          "allInBps": 50.21477087347527,
+          "fixedUsd": 0.0694034367378043,
           "proportionalBps": 50.07596399999966,
           "extrapolated": false
         },
@@ -19846,14 +19846,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 4.2555320733696815,
-          "fixedUsd": 0.04255532073369682,
+          "allInBps": 4.254321738978242,
+          "fixedUsd": 0.04254321738978242,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.08511064146739362,
-          "fixedUsd": 0.04255532073369682,
+          "allInBps": 0.08508643477956485,
+          "fixedUsd": 0.04254321738978242,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -19902,14 +19902,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 64.10095221505716,
-          "fixedUsd": 0.130448522150576,
+          "allInBps": 64.09724207188472,
+          "fixedUsd": 0.13041142071885156,
           "proportionalBps": 51.05609999999956,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 52.18090704430097,
-          "fixedUsd": 0.130448522150576,
+          "allInBps": 52.18083284143752,
+          "fixedUsd": 0.13041142071885156,
           "proportionalBps": 51.92000999999982,
           "extrapolated": false
         },
@@ -19944,14 +19944,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -19986,14 +19986,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20028,14 +20028,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20070,14 +20070,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20112,14 +20112,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20154,14 +20154,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20196,14 +20196,14 @@
       "cost": {
         "router": "none",
         "usd100": {
-          "allInBps": 7.089929023940787,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 7.0879125463810855,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 0.14179858047881574,
-          "fixedUsd": 0.07089929023940787,
+          "allInBps": 0.1417582509276217,
+          "fixedUsd": 0.07087912546381085,
           "proportionalBps": 0,
           "extrapolated": false
         },
@@ -20238,14 +20238,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 65.3113451162854,
-          "fixedUsd": 0.1425524511628583,
+          "allInBps": 65.30729072000187,
+          "fixedUsd": 0.14251190720002316,
           "proportionalBps": 51.05609999999956,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 51.37632490232596,
-          "fixedUsd": 0.1425524511628583,
+          "allInBps": 51.3762438144003,
+          "fixedUsd": 0.14251190720002316,
           "proportionalBps": 51.09122000000025,
           "extrapolated": false
         },
@@ -20280,14 +20280,14 @@
       "cost": {
         "router": "lifi",
         "usd100": {
-          "allInBps": 62.019076094747334,
-          "fixedUsd": 0.11881076094747585,
+          "allInBps": 62.015696946204486,
+          "fixedUsd": 0.11877696946204733,
           "proportionalBps": 50.13799999999975,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 50.306693521895184,
-          "fixedUsd": 0.11881076094747585,
+          "allInBps": 50.30662593892433,
+          "fixedUsd": 0.11877696946204733,
           "proportionalBps": 50.06907200000023,
           "extrapolated": false
         },
@@ -20322,14 +20322,14 @@
       "cost": {
         "router": "pendle-convert",
         "usd100": {
-          "allInBps": 7.314551376626503,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 7.313283300631752,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 2.855999999999881,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 4.4034830275329595,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 4.403457666013065,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 4.314312000000427,
           "extrapolated": false
         },
@@ -20365,14 +20365,14 @@
       "cost": {
         "router": "pendle-convert",
         "usd100": {
-          "allInBps": 7.2658513766272455,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 7.264583300632494,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 2.807300000000623,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 3.209547027533293,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 3.209521666013398,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 3.1203760000007605,
           "extrapolated": false
         },
@@ -20408,14 +20408,14 @@
       "cost": {
         "router": "pendle-convert",
         "usd100": {
-          "allInBps": 21.10695137662632,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 21.10568330063157,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 16.648399999999697,
           "extrapolated": false
         },
         "usd5000": {
-          "allInBps": 18.270211027532017,
-          "fixedUsd": 0.04458551376626622,
+          "allInBps": 18.27018566601212,
+          "fixedUsd": 0.04457283300631871,
           "proportionalBps": 18.181039999999484,
           "extrapolated": false
         },
