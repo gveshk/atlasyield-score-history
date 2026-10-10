@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "publishedAt": "2026-10-10T10:41:48.015Z",
+  "publishedAt": "2026-10-10T11:07:34.723Z",
   "scorerVersion": "2.3.0",
   "vaultCount": 535,
   "routeScreen": {
@@ -1138,8 +1138,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949939619109859,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9949954360881946,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1168,8 +1168,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949939619115343,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9949981140745445,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1198,8 +1198,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949948291817647,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.994995893903002,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1228,8 +1228,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949939619116496,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9949968614857129,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1258,8 +1258,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949939619116496,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9949958707496457,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1288,8 +1288,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948148999233152,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.994936868903922,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1318,8 +1318,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947192501774849,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9946756422753963,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1348,8 +1348,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948817680319572,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeRetained": 0.9948731951166583,
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1379,7 +1379,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1409,7 +1409,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:49.16+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:57.29+00:00",
       "routeFresh": true
     },
     {
@@ -1438,8 +1438,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9945892624,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9945919099999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1466,11 +1466,11 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": null,
+      "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": null,
-      "routeCheckedAt": null,
-      "routeFresh": null
+      "routeRetained": 1,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
+      "routeFresh": true
     },
     {
       "vaultId": "aave-v3:8453:0xd7424238ccbe7b7198ab3cfe232e0271e22da7bd",
@@ -1498,8 +1498,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9931751434,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9931695506,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1529,7 +1529,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1558,8 +1558,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948987428,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949359758,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1588,8 +1588,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9943942902,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9941586962,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1618,8 +1618,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949992227999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9950161251999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1649,7 +1649,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1679,7 +1679,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1708,8 +1708,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.993541511,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9935370532000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1738,8 +1738,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994383114,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9947360178000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1768,8 +1768,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9907193754,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9907233188,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1798,8 +1798,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948397176,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9948579096,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1828,8 +1828,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950628654,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949768844,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1858,8 +1858,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949920555999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9950201958,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1888,8 +1888,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950035363999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9950209938,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1919,7 +1919,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1949,7 +1949,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -1979,7 +1979,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2009,7 +2009,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2038,8 +2038,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9946864696000001,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9947930566000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2069,7 +2069,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2099,7 +2099,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2128,8 +2128,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950089072,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949978878,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2159,7 +2159,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2189,7 +2189,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2219,7 +2219,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2248,8 +2248,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949971,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949978878,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2279,7 +2279,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2308,8 +2308,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942051232,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9942094436,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2338,8 +2338,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994967864,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949991114000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2368,8 +2368,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9890819776,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9892682462000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2399,7 +2399,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2429,7 +2429,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2458,8 +2458,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949970998000001,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949978703999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2488,8 +2488,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950399826,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949957214,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2518,8 +2518,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950047536,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949702218,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2549,7 +2549,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2579,7 +2579,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2608,8 +2608,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947045436,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9945843262,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2639,7 +2639,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2668,8 +2668,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949833548,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949456098,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2699,7 +2699,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2728,8 +2728,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949900368000001,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949716822,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2758,8 +2758,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950004279999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949976522000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2789,7 +2789,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2819,7 +2819,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2849,7 +2849,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2878,8 +2878,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949570528,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949964271999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2909,7 +2909,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2939,7 +2939,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2968,8 +2968,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950272618000001,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949921388,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -2998,8 +2998,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949967453999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949978740000001,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3028,8 +3028,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9940632815999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.993995969,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3059,7 +3059,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3089,7 +3089,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3118,8 +3118,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949187013999999,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949215147999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3149,7 +3149,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3179,7 +3179,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3209,7 +3209,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3238,8 +3238,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948596566,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.994914006,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3268,8 +3268,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949852356,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949907499999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3299,7 +3299,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3328,8 +3328,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994999338,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949193065999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3359,7 +3359,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3389,7 +3389,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3419,7 +3419,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3449,7 +3449,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3479,7 +3479,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3509,7 +3509,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3539,7 +3539,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3569,7 +3569,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3599,7 +3599,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3629,7 +3629,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3659,7 +3659,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3689,7 +3689,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3718,8 +3718,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994777803,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9947761839999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3749,7 +3749,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3779,7 +3779,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3809,7 +3809,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3839,7 +3839,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3869,7 +3869,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3899,7 +3899,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3929,7 +3929,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3959,7 +3959,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -3989,7 +3989,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4019,7 +4019,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4049,7 +4049,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4079,7 +4079,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4109,7 +4109,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4139,7 +4139,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4169,7 +4169,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4199,7 +4199,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4229,7 +4229,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4259,7 +4259,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4289,7 +4289,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4319,7 +4319,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4349,7 +4349,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4379,7 +4379,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4409,7 +4409,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4439,7 +4439,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4469,7 +4469,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4499,7 +4499,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4529,7 +4529,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4559,7 +4559,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4589,12 +4589,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:8453:0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-      "onchainId": null,
+      "onchainId": "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
       "chainId": 8453,
       "protocolId": "aave-v3",
       "asset": "WBTC",
@@ -4618,13 +4618,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949819248,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949779893999999,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:8453:0x4200000000000000000000000000000000000006",
-      "onchainId": null,
+      "onchainId": "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
       "chainId": 8453,
       "protocolId": "aave-v3",
       "asset": "WETH",
@@ -4648,13 +4648,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949658248,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeRetained": 0.9949667486,
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:8453:0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-      "onchainId": null,
+      "onchainId": "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
       "chainId": 8453,
       "protocolId": "aave-v3",
       "asset": "USDC",
@@ -4679,7 +4679,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:44:12.106+00:00",
+      "routeCheckedAt": "2026-10-10T11:05:23.182+00:00",
       "routeFresh": true
     },
     {
@@ -4709,7 +4709,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.374+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4739,7 +4739,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.374+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4769,7 +4769,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.374+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4799,7 +4799,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4829,7 +4829,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4859,7 +4859,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4889,7 +4889,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4918,8 +4918,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9855408543999999,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9856933648,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4948,8 +4948,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950030358,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9949929494,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -4979,7 +4979,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5008,8 +5008,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9935806463999999,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9940087924,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5038,8 +5038,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9908057807999999,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9907363834,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5068,8 +5068,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948962154000001,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9948908782,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5098,8 +5098,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948962154000001,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9948908782,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5128,8 +5128,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994658712,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9948041276,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5158,8 +5158,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9944821008000001,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9946362268000001,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5188,8 +5188,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9982683574000001,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9982842510000001,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5218,8 +5218,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9996854866,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9997427222,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5248,8 +5248,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.999578088,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9995696146,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5279,7 +5279,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5309,7 +5309,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5339,7 +5339,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5369,7 +5369,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5399,7 +5399,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5429,7 +5429,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5459,12 +5459,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:42161:0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 42161,
       "protocolId": "aave-v3",
       "asset": "WBTC",
@@ -5488,13 +5488,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994541858,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.994537567,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:42161:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 42161,
       "protocolId": "aave-v3",
       "asset": "DAI",
@@ -5518,13 +5518,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948820346,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9948926462,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:42161:0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 42161,
       "protocolId": "aave-v3",
       "asset": "WETH",
@@ -5548,13 +5548,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994819188,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9948138172000001,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:42161:0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 42161,
       "protocolId": "aave-v3",
       "asset": "USDT",
@@ -5578,13 +5578,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949926079999999,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeRetained": 0.9949989424,
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:42161:0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 42161,
       "protocolId": "aave-v3",
       "asset": "USDC",
@@ -5609,7 +5609,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:39:40.373+00:00",
+      "routeCheckedAt": "2026-10-10T11:01:10.405+00:00",
       "routeFresh": true
     },
     {
@@ -5638,8 +5638,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.962016913,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9615908986,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5668,8 +5668,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9918197195999999,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9923235065999999,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5698,8 +5698,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9521809834,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9525392354,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5729,7 +5729,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5759,7 +5759,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5788,8 +5788,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942368456,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9943199892000001,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5818,8 +5818,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9940526488,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.994172574,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5849,7 +5849,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -5879,12 +5879,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:10:0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 10,
       "protocolId": "aave-v3",
       "asset": "WBTC",
@@ -5908,13 +5908,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9941434826000001,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9941731615999999,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:10:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 10,
       "protocolId": "aave-v3",
       "asset": "DAI",
@@ -5938,13 +5938,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948547956,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.994866174,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:10:0x4200000000000000000000000000000000000006",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 10,
       "protocolId": "aave-v3",
       "asset": "WETH",
@@ -5968,13 +5968,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942327216,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.994347658,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:10:0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 10,
       "protocolId": "aave-v3",
       "asset": "USDT",
@@ -5998,13 +5998,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949757690000001,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9949756798,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:10:0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "onchainId": null,
+      "onchainId": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
       "chainId": 10,
       "protocolId": "aave-v3",
       "asset": "USDC",
@@ -6028,8 +6028,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948963166,
-      "routeCheckedAt": "2026-10-10T09:37:52.069+00:00",
+      "routeRetained": 0.9949061952,
+      "routeCheckedAt": "2026-10-10T10:59:14.375+00:00",
       "routeFresh": true
     },
     {
@@ -6058,8 +6058,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950013164,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.994990676,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6088,8 +6088,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949284002000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9949097578000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6119,7 +6119,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6142,14 +6142,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.319+00:00",
       "yieldQuality": 90,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~17.8% base APY if emissions end. Realized APY has some volatility (σ=1.1pp).",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~17.7% base APY if emissions end. Realized APY has some volatility (σ=1.1pp).",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "NO_ROUTE",
-      "routeReasonClass": "no_aggregator_quote",
-      "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeVerdict": "OK",
+      "routeReasonClass": null,
+      "routeRetained": 0.9948647037999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6178,8 +6178,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9949941772,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6209,7 +6209,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6238,13 +6238,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950013164,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.994990676,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xdb26d8815eda864dfa43306766f2f8ca50c03f9e",
-      "onchainId": "0xdb26d8815eda864dfa43306766f2f8ca50c03f9e",
+      "onchainId": "0xDb26d8815EdA864Dfa43306766f2F8CA50C03F9E",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "msUSD",
@@ -6268,8 +6268,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.991407644,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9915568138,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6299,12 +6299,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x241add131b9aaa7527132b752252b99420937adc",
-      "onchainId": "0x241add131b9aaa7527132b752252b99420937adc",
+      "onchainId": "0x241AdD131B9aaa7527132b752252b99420937ADc",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDT",
@@ -6328,8 +6328,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950013164,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.994990676,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6358,8 +6358,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949788504,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9949518949999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6389,7 +6389,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6418,8 +6418,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950301181999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.994891303,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6448,13 +6448,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9941675722,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9943160008,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xeeb6be70ff212238419cd638fab17910cf61cbe7",
-      "onchainId": "0xeeb6be70ff212238419cd638fab17910cf61cbe7",
+      "onchainId": "0xeEB6Be70fF212238419cD638FAB17910CF61CBE7",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "WETH",
@@ -6478,8 +6478,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949284002000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9948963624,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6509,7 +6509,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6538,8 +6538,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950085805999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9950039,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6568,8 +6568,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9886336384000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9885966705999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6599,12 +6599,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x75a291f0232add37d72dd1dcff55b715755ecdee",
-      "onchainId": "0x75a291f0232add37d72dd1dcff55b715755ecdee",
+      "onchainId": "0x75A291F0232ADD37d72Dd1Dcff55B715755ECDEe",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crvCVXETH",
@@ -6629,7 +6629,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6659,7 +6659,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6689,7 +6689,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6719,12 +6719,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x8078198fc424986ae89ce4a910fc109587b6abf3",
-      "onchainId": "0x8078198fc424986ae89ce4a910fc109587b6abf3",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crv3crypto",
@@ -6749,7 +6749,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6778,8 +6778,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950013164,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.995024052,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6809,7 +6809,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6839,7 +6839,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6868,8 +6868,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949934014,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9950372752,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6892,14 +6892,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.309+00:00",
       "yieldQuality": 75,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~18.2% base APY if emissions end. Realized APY has also been volatile (σ=4.3pp).",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~16.0% base APY if emissions end. Realized APY has also been volatile (σ=4.3pp).",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "NO_ROUTE",
-      "routeReasonClass": "no_aggregator_quote",
-      "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeVerdict": "OK",
+      "routeReasonClass": null,
+      "routeRetained": 0.9943034318,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6928,13 +6928,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9949941772,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xdb25ca703181e7484a155dd612b06f57e12be5f0",
-      "onchainId": "0xdb25ca703181e7484a155dd612b06f57e12be5f0",
+      "onchainId": "0xdb25cA703181E7484a155DD612b06f57E12Be5F0",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "YFI",
@@ -6956,10 +6956,10 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "DEGRADED",
+      "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9699874486000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9700169958,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -6989,7 +6989,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7018,8 +7018,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948382464000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.994844211,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7049,12 +7049,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x09ace8b2f2fe2189a5b37046bbafa29dce31c920",
-      "onchainId": "0x09ace8b2f2fe2189a5b37046bbafa29dce31c920",
+      "onchainId": "0x09AcE8B2f2fE2189A5B37046BBaFa29Dce31c920",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crvUSD",
@@ -7072,14 +7072,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.307+00:00",
       "yieldQuality": 100,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.9% base APY if emissions end.",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.7% base APY if emissions end.",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948971698,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948646846,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7109,7 +7109,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7138,13 +7138,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947853454,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9948058808,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x668c5ef17f2f01503fbb4f285f32161251047720",
-      "onchainId": "0x668c5ef17f2f01503fbb4f285f32161251047720",
+      "onchainId": "0x668c5Ef17f2F01503FBB4F285F32161251047720",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "pmUSD",
@@ -7168,8 +7168,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9771465514,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9769232647999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7199,7 +7199,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7229,7 +7229,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7258,13 +7258,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9946190683999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9946259786,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xad2f9a55518dba12e8ab069502820923351667c5",
-      "onchainId": "0xad2f9a55518dba12e8ab069502820923351667c5",
+      "onchainId": "0xAD2f9A55518Dba12E8AB069502820923351667C5",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "msETH",
@@ -7288,8 +7288,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9929549859999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9929344654000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7319,7 +7319,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7348,8 +7348,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9693134994,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9693089432,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7379,7 +7379,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7408,8 +7408,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9941350488,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9940914160000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7439,12 +7439,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xaa379c2aa72529d5ec0da8a41e2f41ed7fe4b48c",
-      "onchainId": "0xaa379c2aa72529d5ec0da8a41e2f41ed7fe4b48c",
+      "onchainId": "0xaA379c2aA72529d5ec0da8A41e2F41ED7Fe4b48C",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDC",
@@ -7469,7 +7469,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7498,8 +7498,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994979321,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994954168,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7528,8 +7528,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949941772,
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7559,7 +7559,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.435+00:00",
       "routeFresh": true
     },
     {
@@ -7589,7 +7589,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7618,8 +7618,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949957128,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949955642000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7648,8 +7648,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9951119592,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949771358,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7679,7 +7679,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7708,8 +7708,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9943005746000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9943311198,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7738,8 +7738,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949145130000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949767306,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7768,8 +7768,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9943010992,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994328644,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7799,7 +7799,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7828,8 +7828,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942249599999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9942249592,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7858,8 +7858,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949861042,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949823634,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7888,8 +7888,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948054904000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948055046,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7919,7 +7919,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7948,8 +7948,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949934014,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994991671,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -7978,13 +7978,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948097148,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948214228000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x863687e4e9751b57f38b4b0eba04744c72d0f7b8",
-      "onchainId": "0x863687e4e9751b57f38b4b0eba04744c72d0f7b8",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDC",
@@ -8009,12 +8009,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x342d24f2a3233f7ac8a7347fa239187bfd186066",
-      "onchainId": "0x342d24f2a3233f7ac8a7347fa239187bfd186066",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "DOLA",
@@ -8032,14 +8032,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.296+00:00",
       "yieldQuality": 100,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.6% base APY if emissions end.",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.7% base APY if emissions end.",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "NO_ROUTE",
-      "routeReasonClass": "no_aggregator_quote",
-      "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeVerdict": "OK",
+      "routeReasonClass": null,
+      "routeRetained": 0.9948336432,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8068,8 +8068,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942249599999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9942249592,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8098,8 +8098,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9946323262,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950345446,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8129,7 +8129,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8158,8 +8158,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949832536,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994954168,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8189,7 +8189,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8219,7 +8219,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8248,8 +8248,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9940425716,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9946957275999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8278,8 +8278,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9946545418,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994586669,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8309,7 +8309,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8339,7 +8339,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8362,14 +8362,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.292+00:00",
       "yieldQuality": 75,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~18.8% base APY if emissions end. Realized APY has also been volatile (σ=5.0pp).",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~18.5% base APY if emissions end. Realized APY has also been volatile (σ=5.0pp).",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "NO_ROUTE",
-      "routeReasonClass": "no_aggregator_quote",
-      "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeVerdict": "OK",
+      "routeReasonClass": null,
+      "routeRetained": 0.9943248882,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8398,8 +8398,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9934692773999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9935872085999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8428,8 +8428,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950123946,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994991671,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8459,7 +8459,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8489,7 +8489,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8518,8 +8518,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950588770000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994775384,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8548,8 +8548,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9951294608,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949539978,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8578,8 +8578,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994990676,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994991671,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8608,8 +8608,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949182432,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948830787999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8639,7 +8639,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8669,7 +8669,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8698,8 +8698,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950010952,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8729,7 +8729,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8758,8 +8758,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9944583074,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9943034315999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8788,8 +8788,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9953686582,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949082366,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8818,8 +8818,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9951283639999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948842524,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8848,8 +8848,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9954362903999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949968446,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8878,8 +8878,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949368576000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950031673999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8908,8 +8908,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.99488972,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950351726000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8938,8 +8938,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948054904000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948055046,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8969,7 +8969,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -8998,8 +8998,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949955738,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994840568,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9028,8 +9028,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950018756,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950165438,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9058,8 +9058,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949998614,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9088,8 +9088,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994965664,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950345446,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9118,8 +9118,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949918426000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9149,7 +9149,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9179,7 +9179,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9208,8 +9208,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9951048431999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950447106,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9239,7 +9239,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9268,8 +9268,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948300406,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994844211,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9299,7 +9299,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9328,8 +9328,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950362412,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949021508,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9359,7 +9359,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.9921766778,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9389,7 +9389,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9418,13 +9418,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9941617517999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9940914160000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x5b8c556b8b2a78696f0b9b830b3d67623122e270",
-      "onchainId": "0x5b8c556b8b2a78696f0b9b830b3d67623122e270",
+      "onchainId": "0x5B8C556B8b2a78696F0B9B830B3d67623122E270",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "ETH",
@@ -9448,8 +9448,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949448332,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949598620000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9478,8 +9478,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950018756,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9509,7 +9509,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9538,8 +9538,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9938961718,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9938632078,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9568,8 +9568,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949918206,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9598,8 +9598,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9940867560000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9943077546000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9629,7 +9629,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.9899744587999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9659,7 +9659,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9689,7 +9689,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9718,8 +9718,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949331410000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949418992000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9749,7 +9749,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9779,7 +9779,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9808,8 +9808,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949179634,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949157942,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9838,8 +9838,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949204442,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9952608392,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9869,7 +9869,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9899,7 +9899,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9928,8 +9928,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9581690618,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9551404791999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9959,7 +9959,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -9988,8 +9988,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950018756,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994991671,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10019,7 +10019,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10048,8 +10048,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950018756,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950017449999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10078,8 +10078,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9647596900000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9647586800000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10109,7 +10109,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10139,7 +10139,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10169,7 +10169,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10199,7 +10199,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10229,7 +10229,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10259,7 +10259,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10288,8 +10288,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949918283999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949904376,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10319,7 +10319,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10349,7 +10349,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10379,7 +10379,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10409,7 +10409,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10439,7 +10439,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10462,14 +10462,14 @@
       "dataQuality": "sufficient",
       "scoredAt": "2026-10-10T10:38:44.263+00:00",
       "yieldQuality": 100,
-      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.2% base APY if emissions end.",
+      "yieldQualityReason": "0% of APY is incentive-driven; falls to ~6.0% base APY if emissions end.",
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "NO_ROUTE",
-      "routeReasonClass": "no_aggregator_quote",
-      "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeVerdict": "OK",
+      "routeReasonClass": null,
+      "routeRetained": 0.9948336432,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10499,7 +10499,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10529,7 +10529,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10559,7 +10559,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10589,7 +10589,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10618,8 +10618,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948098841999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9947883745999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10648,8 +10648,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994673214,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9946035134,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10679,7 +10679,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10708,8 +10708,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950419749999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948943386000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10738,8 +10738,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9942249599999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9942249594000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10768,13 +10768,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948403152,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.994844211,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xc56413869c6cdf96496f2b1ef801fedbdfa7ddb0",
-      "onchainId": "0xc56413869c6cdf96496f2b1ef801fedbdfa7ddb0",
+      "onchainId": "0xc56413869c6CDf96496f2b1eF801fEDBdFA7dDB0",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "WETH",
@@ -10798,8 +10798,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949846282,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949017814000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10829,7 +10829,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10858,8 +10858,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9913625566000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9915595164000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10889,7 +10889,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10919,7 +10919,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10949,7 +10949,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -10979,7 +10979,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11008,8 +11008,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949997387999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949956246,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11039,7 +11039,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11068,8 +11068,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949906402,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9949941772,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11098,8 +11098,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949997387999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950052218000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11128,8 +11128,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949343848000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9948973716,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11159,7 +11159,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11188,8 +11188,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949173588,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948943386000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11218,8 +11218,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949429851999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948943386000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11249,7 +11249,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11279,7 +11279,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11309,7 +11309,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11339,7 +11339,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11369,7 +11369,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11399,7 +11399,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11428,8 +11428,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9943278948,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9942768856,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11459,7 +11459,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11488,8 +11488,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9938625662,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9937916821999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11518,8 +11518,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950064947999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949956246,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11549,7 +11549,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11578,8 +11578,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949997387999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949956246,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11609,7 +11609,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11638,8 +11638,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949957128,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949955642000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11668,8 +11668,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949941772,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11698,8 +11698,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949997387999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949956246,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11728,8 +11728,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949997387999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949956246,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11758,8 +11758,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9931279046,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9933602074000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11788,8 +11788,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947369979999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9946805710000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11818,8 +11818,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.993074374,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9930702824,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11849,7 +11849,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11879,7 +11879,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11908,8 +11908,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947866588000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948122508,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11938,8 +11938,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948636334000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.994833024,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11968,8 +11968,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9935192817999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9932744634,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -11998,8 +11998,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9946446522,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9945044486000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12028,8 +12028,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9941678545999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9940902994,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12059,7 +12059,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12088,8 +12088,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994772213,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9947094388,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12118,8 +12118,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949957128,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949955642000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12148,8 +12148,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994981108,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949844712,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12178,8 +12178,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948058518,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948081382,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12209,7 +12209,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.9949941769999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12238,8 +12238,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949957128,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949955642000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12268,8 +12268,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994981108,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949844712,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12298,8 +12298,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948162618,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948510931999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12328,8 +12328,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948461004000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948366454,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12358,8 +12358,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994792776,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948345095999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12388,8 +12388,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949342236000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9949961536,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12419,7 +12419,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12448,8 +12448,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9957443848,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9957513386000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12478,8 +12478,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9963947588000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9963996139999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12508,8 +12508,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9986187200000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9986315894,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12538,8 +12538,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9976620408000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9976667493999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12568,8 +12568,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9937286794,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9937392241999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12598,8 +12598,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9990418863999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9990488292,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12629,7 +12629,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12659,7 +12659,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12688,8 +12688,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9988403641999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9988768484,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12718,8 +12718,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9953979890000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9954003593999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12748,8 +12748,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9997505805999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9997303292,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12778,8 +12778,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.987791635,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9864966542,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12808,8 +12808,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9998670195999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9998706122,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12838,8 +12838,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9994826945999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9995441196,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12868,8 +12868,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9936051713999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9921519608,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12898,8 +12898,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9987726262000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9987635394000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12928,8 +12928,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9996863632,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9996869832,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12958,8 +12958,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9972640299999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9974145560000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -12988,8 +12988,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9960801394,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9960723212000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13018,8 +13018,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9994953566,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.99949605,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13048,8 +13048,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9989670688,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.998983049,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13078,8 +13078,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9986440298,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9985677428,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13109,7 +13109,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13138,8 +13138,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9923252912,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9923038775999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13168,8 +13168,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9992294620000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9992307539999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13198,8 +13198,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9987778490000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9987875138,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13228,8 +13228,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.999453536,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9995168853999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13258,8 +13258,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9986566784,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9987113896,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13288,8 +13288,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9978080932000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9978604240000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13318,8 +13318,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9981403351999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9981255518,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13348,8 +13348,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9971811563999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9969604729999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13378,8 +13378,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9997203006,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9997231824,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13408,8 +13408,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9982502663999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9982569068000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13438,8 +13438,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9980661084,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9980825296000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13469,7 +13469,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13499,7 +13499,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13529,7 +13529,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13559,7 +13559,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "protocol_refused",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13588,13 +13588,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9977402532,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9977355976000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x6e9455d109202b426169f0d8f01a3332dae160f3",
-      "onchainId": "0x6E9455D109202b426169F0d8f01A3332DAE160f3",
+      "onchainId": "0x6e9455d109202b426169f0d8f01a3332dae160f3",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "yCRV-f",
@@ -13616,10 +13616,10 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "OK",
-      "routeReasonClass": null,
-      "routeRetained": 0.9909503103999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeVerdict": "NO_ROUTE",
+      "routeReasonClass": "no_aggregator_quote",
+      "routeRetained": null,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13646,10 +13646,10 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "DEGRADED",
-      "routeReasonClass": null,
-      "routeRetained": 0.9483695178,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeVerdict": "NO_ROUTE",
+      "routeReasonClass": "no_aggregator_quote",
+      "routeRetained": null,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13679,12 +13679,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x790a60024bc3aea28385b60480f15a0771f26d09",
-      "onchainId": "0x790a60024bC3aea28385b60480f15a0771f26D09",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "YFIETH-f",
@@ -13706,15 +13706,15 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "OK",
-      "routeReasonClass": null,
-      "routeRetained": 0.9949414887999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeVerdict": "NO_ROUTE",
+      "routeReasonClass": "no_aggregator_quote",
+      "routeRetained": null,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x310b7ea7475a0b449cfd73be81522f1b88efafaa",
-      "onchainId": "0x310B7Ea7475A0B449Cfd73bE81522F1B88eFAFaa",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDT",
@@ -13738,13 +13738,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949918206,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.9950053624,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x182863131f9a4630ff9e27830d945b1413e347e8",
-      "onchainId": "0x182863131F9a4630fF9E27830d945B1413e347E8",
+      "onchainId": "0x182863131f9a4630ff9e27830d945b1413e347e8",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDS",
@@ -13769,7 +13769,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13799,7 +13799,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13828,13 +13828,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949281472000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.9948993272,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x1f6f16945e395593d8050d6cc33e4328a515b648",
-      "onchainId": "0x1F6f16945e395593d8050d6Cc33e4328a515B648",
+      "onchainId": "0x1f6f16945e395593d8050d6cc33e4328a515b648",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "yYB",
@@ -13856,15 +13856,15 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "OK",
+      "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9706006286,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeRetained": 0.948426326,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xb83461b887398cd981957bd93cb7067cf89c21c0",
-      "onchainId": "0xb83461b887398CD981957BD93CB7067cF89c21C0",
+      "onchainId": "0xb83461b887398cd981957bd93cb7067cf89c21c0",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "BOLDUSDC",
@@ -13888,13 +13888,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9943892938000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9943880655999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x4282b8f159ee677559dc6a20cd478dd0bde75ff2",
-      "onchainId": "0x4282B8f159ee677559Dc6A20cd478DD0BDe75fF2",
+      "onchainId": "0x4282b8f159ee677559dc6a20cd478dd0bde75ff2",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crvfrxUSD",
@@ -13916,10 +13916,10 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "OK",
-      "routeReasonClass": null,
-      "routeRetained": 0.9949788434,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeVerdict": "NO_ROUTE",
+      "routeReasonClass": "no_aggregator_quote",
+      "routeRetained": null,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13949,7 +13949,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -13978,13 +13978,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9947902966,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9947777438,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xbf319ddc2edc1eb6fdf9910e39b37be221c8805f",
-      "onchainId": "0xBF319dDC2Edc1Eb6FDf9910E39b37Be221C8805F",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crvUSD",
@@ -14008,13 +14008,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948971698,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948670152000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x23346b04a7f55b8760e5860aa5a77383d63491cd",
-      "onchainId": "0x23346B04a7f55b8760E5860AA5A77383D63491cD",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "yBOLD",
@@ -14039,12 +14039,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x7ca00559b978cfde81297849be6151d3ccb408a9",
-      "onchainId": "0x7cA00559B978CFde81297849be6151d3ccB408A9",
+      "onchainId": "0x7ca00559b978cfde81297849be6151d3ccb408a9",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "crvUSDUSDC-f",
@@ -14068,8 +14068,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994869802,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeRetained": 0.9948698405999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14099,7 +14099,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.679+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14128,13 +14128,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeRetained": 0.99500625,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0xb53b70cb960feeaf2093df3c733e368f6d254898",
-      "onchainId": "0xB53B70Cb960FeEAf2093Df3C733E368F6D254898",
+      "onchainId": null,
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "frxUSDDUSD",
@@ -14156,15 +14156,15 @@
       "exitSafety": null,
       "exitSafetyReason": null,
       "routeTracked": true,
-      "routeVerdict": "OK",
-      "routeReasonClass": null,
-      "routeRetained": 0.994979321,
-      "routeCheckedAt": "2026-10-10T09:36:55.681+00:00",
+      "routeVerdict": "NO_ROUTE",
+      "routeReasonClass": "no_aggregator_quote",
+      "routeRetained": null,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "yearn-v3:1:0x074134a2784f4f66b6ced6f68849382990ff3215",
-      "onchainId": "0x074134A2784F4F66b6ceD6f68849382990Ff3215",
+      "onchainId": "0x074134a2784f4f66b6ced6f68849382990ff3215",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "USDC",
@@ -14189,7 +14189,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.68+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14219,7 +14219,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14249,7 +14249,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14279,7 +14279,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14308,8 +14308,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9883773254,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9875557296,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14339,7 +14339,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14369,7 +14369,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14398,8 +14398,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949358788,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9949358782,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14429,7 +14429,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14458,8 +14458,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9949055262,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9949051588000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14489,7 +14489,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14519,7 +14519,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14548,8 +14548,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9639947999999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96855825,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14578,8 +14578,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.95859016,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9579569917999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14608,8 +14608,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96488688,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9650673072,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14638,8 +14638,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9570343426,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9573128826,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14668,8 +14668,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9572382399999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.95774731,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14698,8 +14698,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96459611,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9643351199999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14728,8 +14728,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9689762399999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9648787,
+      "routeCheckedAt": "2026-10-10T10:58:29.434+00:00",
       "routeFresh": true
     },
     {
@@ -14759,7 +14759,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14788,8 +14788,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9650444578,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9649880000000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14818,8 +14818,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9649931533999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96495394,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14848,8 +14848,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96442932,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96481938,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14878,8 +14878,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96478499,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96475173,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14908,8 +14908,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948301688,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9948301378,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14938,8 +14938,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994865106,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9949228384,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14969,7 +14969,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -14998,8 +14998,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9610963499999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96276752,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15029,7 +15029,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15059,7 +15059,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15088,8 +15088,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9796518271999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9799618492,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15118,8 +15118,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96308589,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.96324338,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15148,8 +15148,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96484172,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9648467,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15179,7 +15179,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15209,7 +15209,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15239,7 +15239,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15268,8 +15268,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.96385667,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9638952000000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15299,7 +15299,7 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15328,8 +15328,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9891560264,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9890718897999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15358,8 +15358,8 @@
       "routeTracked": true,
       "routeVerdict": "DEGRADED",
       "routeReasonClass": null,
-      "routeRetained": 0.9608351500000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9608303600000001,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15388,8 +15388,8 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9944352628,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9944352702,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -15419,12 +15419,12 @@
       "routeVerdict": "NO_ROUTE",
       "routeReasonClass": "no_aggregator_quote",
       "routeRetained": null,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:1:0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "onchainId": null,
+      "onchainId": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
       "chainId": 1,
       "protocolId": "aave-v3",
       "asset": "WBTC",
@@ -15448,13 +15448,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.994835112,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9947882997999999,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:1:0x6b175474e89094c44da98b954eedeac495271d0f",
-      "onchainId": null,
+      "onchainId": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
       "chainId": 1,
       "protocolId": "aave-v3",
       "asset": "DAI",
@@ -15479,12 +15479,12 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 0.99500625,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:1:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "onchainId": null,
+      "onchainId": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
       "chainId": 1,
       "protocolId": "aave-v3",
       "asset": "WETH",
@@ -15508,13 +15508,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9948694213999999,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9948795522,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:1:0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "onchainId": null,
+      "onchainId": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
       "chainId": 1,
       "protocolId": "aave-v3",
       "asset": "USDT",
@@ -15538,13 +15538,13 @@
       "routeTracked": true,
       "routeVerdict": "OK",
       "routeReasonClass": null,
-      "routeRetained": 0.9950163732000001,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeRetained": 0.9949929408,
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
       "vaultId": "aave-v3:1:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "onchainId": null,
+      "onchainId": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
       "chainId": 1,
       "protocolId": "aave-v3",
       "asset": "USDC",
@@ -15569,7 +15569,7 @@
       "routeVerdict": "OK",
       "routeReasonClass": null,
       "routeRetained": 1,
-      "routeCheckedAt": "2026-10-10T09:36:55.678+00:00",
+      "routeCheckedAt": "2026-10-10T10:58:29.433+00:00",
       "routeFresh": true
     },
     {
@@ -16024,7 +16024,7 @@
     },
     {
       "vaultId": "yearn-v3:1:0xad86df2e8f989c828b25a7da5eb1ec363283fa3f",
-      "onchainId": null,
+      "onchainId": "0xAd86Df2e8F989c828B25A7Da5EB1Ec363283fA3F",
       "chainId": 1,
       "protocolId": "yearn-v3",
       "asset": "LUSD3CRV-f",
@@ -16087,7 +16087,7 @@
     {
       "tier": "conservative",
       "strategy": "MVO",
-      "expectedApy": 4.93,
+      "expectedApy": 5.05,
       "unallocatedPct": 0,
       "slices": [
         {
@@ -16095,7 +16095,7 @@
           "protocolId": "morpho",
           "chainId": 1,
           "asset": "USDC",
-          "fraction": 0.221,
+          "fraction": 0.194,
           "apy": 6.89263
         },
         {
@@ -16103,7 +16103,7 @@
           "protocolId": "morpho",
           "chainId": 1,
           "asset": "PYUSD",
-          "fraction": 0.221,
+          "fraction": 0.194,
           "apy": 6.31473
         },
         {
@@ -16111,24 +16111,24 @@
           "protocolId": "morpho",
           "chainId": 8453,
           "asset": "USDC",
-          "fraction": 0.058,
+          "fraction": 0.111,
           "apy": 4.6575
         },
         {
-          "vaultId": "aave-v3:1:0xe3190143eb552456f88464662f0c0c4ac67a77eb",
+          "vaultId": "aave-v3:1:0xdAC17F958D2ee523a2206206994597C13D831ec7",
           "protocolId": "aave-v3",
           "chainId": 1,
-          "asset": "RLUSD",
-          "fraction": 0.35,
-          "apy": 4.98788
+          "asset": "USDT",
+          "fraction": 0.211,
+          "apy": 3.5169568143893715
         },
         {
-          "vaultId": "aave-v3:1:0x0b925ed163218f6662a35e0f0371ac234f9e9371",
+          "vaultId": "aave-v3:8453:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
           "protocolId": "aave-v3",
-          "chainId": 1,
-          "asset": "wstETH",
-          "fraction": 0.15,
-          "apy": 0.00048
+          "chainId": 8453,
+          "asset": "USDC",
+          "fraction": 0.289,
+          "apy": 4.259828633724294
         }
       ]
     },
@@ -16144,7 +16144,7 @@
           "chainId": 42161,
           "asset": "USDai",
           "fraction": 0.35,
-          "apy": 13.733347896470892
+          "apy": 13.733013454773246
         },
         {
           "vaultId": "morpho:1:0xb48c056c5608ba2ee4cd94af2bf4b1f25295bd7e",
@@ -16168,7 +16168,7 @@
           "chainId": 1,
           "asset": "SIERRA",
           "fraction": 0.05,
-          "apy": 9.712880785129506
+          "apy": 9.712819793095772
         },
         {
           "vaultId": "morpho:1:0xc21b08c16458202593d4d9b26b9984ee67b38bbd",
@@ -16183,7 +16183,7 @@
     {
       "tier": "aggressive",
       "strategy": "MVO",
-      "expectedApy": 14.66,
+      "expectedApy": 17.23,
       "unallocatedPct": 0,
       "slices": [
         {
@@ -16191,40 +16191,32 @@
           "protocolId": "pendle",
           "chainId": 1,
           "asset": "reUSDe",
-          "fraction": 0.194,
-          "apy": 18.543533720351956
+          "fraction": 0.318,
+          "apy": 18.543510603917724
+        },
+        {
+          "vaultId": "yearn-v3:1:0xf165a634296800812b8b0607a75deddcd4d3cc88",
+          "protocolId": "yearn-v3",
+          "chainId": 1,
+          "asset": "reUSD",
+          "fraction": 0.35,
+          "apy": 18.47972
         },
         {
           "vaultId": "pendle:1:0xc5f938a8ef5f3bf9e72f5aa094baf5e03f4727d3",
           "protocolId": "pendle",
           "chainId": 1,
           "asset": "apyUSD",
-          "fraction": 0.194,
-          "apy": 16.072541895873215
-        },
-        {
-          "vaultId": "pendle:1:0x4a5067c3ff1abb7449244025b0e37feaf77d8e3e",
-          "protocolId": "pendle",
-          "chainId": 1,
-          "asset": "USD3",
-          "fraction": 0.111,
-          "apy": 15.10473643773893
+          "fraction": 0.182,
+          "apy": 16.072494928614
         },
         {
           "vaultId": "morpho:1:0x32401b9fb79065bc15949de0bd43927492f02f0c",
           "protocolId": "morpho",
           "chainId": 1,
           "asset": "AUSD",
-          "fraction": 0.25,
+          "fraction": 0.15,
           "apy": 12.92421
-        },
-        {
-          "vaultId": "morpho:1:0xb48c056c5608ba2ee4cd94af2bf4b1f25295bd7e",
-          "protocolId": "morpho",
-          "chainId": 1,
-          "asset": "USDT",
-          "fraction": 0.25,
-          "apy": 12.14473
         }
       ]
     }
