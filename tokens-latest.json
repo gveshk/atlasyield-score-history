@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "publishedAt": "2026-11-13T15:42:18.191Z",
+ "publishedAt": "2026-11-13T15:50:30.396Z",
  "method": "Every token the scored vaults hold or lend against, rated on five dimensions from sourced research (backing 30%, redemption and exit 20%, peg and price stability 20%, control 15%, track record 15%; anchors 95 to 10, 40 = unknown). Live signals (peg, price gaps, volatility, exit depth) can only lower a rating. unrated = no research entry yet.",
  "disclaimer": "Research and information, not investment advice.",
  "tokenCount": 532,
