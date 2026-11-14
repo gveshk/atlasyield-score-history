@@ -1,15 +1,15 @@
 {
- "date": "2026-11-13",
- "publishedAt": "2026-11-13T15:50:30.396Z",
+ "date": "2026-11-14",
+ "publishedAt": "2026-11-14T00:10:09.128Z",
  "method": "Every token the scored vaults hold or lend against, rated on five dimensions from sourced research (backing 30%, redemption and exit 20%, peg and price stability 20%, control 15%, track record 15%; anchors 95 to 10, 40 = unknown). Live signals (peg, price gaps, volatility, exit depth) can only lower a rating. unrated = no research entry yet.",
  "disclaimer": "Research and information, not investment advice.",
- "tokenCount": 532,
+ "tokenCount": 533,
  "byBand": {
   "strong": 33,
   "sound": 115,
   "unrated": 112,
   "watch": 149,
-  "weak": 123
+  "weak": 124
  },
  "tokens": [
   {
@@ -1463,7 +1463,7 @@
    "name": "Chainlink (LINK)",
    "family": "volatile",
    "band": "sound",
-   "total": 73.5,
+   "total": 74.5,
    "dimensions": {
     "peg": {
      "score": 70,
@@ -1482,20 +1482,14 @@
      "reason": "The Ethereum LinkToken is a plain ERC677 with no owner, admin, upgrade, pause, freeze or mint function in its verified ABI (only ERC20 and transferAndCall functions), so nobody holds a power over holders. The Arbitrum and Optimism copies are minted only by their rollup standard bridges."
     },
     "redemption": {
-     "score": 50,
-     "reason": "No redemption claim; a holder exits through DEX only. Paraswap quotes on Ethereum against USDC cost 0.03% at $10K, 0.24% at $100K and 2.01% at $1M versus a $1K quote (1% to 3% at $1M). The Arbitrum copy costs 27% at $1M and the Optimism copy 41% at $100K, much thinner than Ethereum.",
-     "cappedFrom": 55
+     "score": 55,
+     "reason": "No redemption claim; a holder exits through DEX only. Paraswap quotes on Ethereum against USDC cost 0.03% at $10K, 0.24% at $100K and 2.01% at $1M versus a $1K quote (1% to 3% at $1M). The Arbitrum copy costs 27% at $1M and the Optimism copy 41% at $100K, much thinner than Ethereum."
     }
    },
-   "caps": [
-    {
-     "kind": "exit",
-     "reason": "selling $1.0M costs 2.15%"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 150750166.6353932,
-   "computedAt": "2026-11-13T03:36:26.709+00:00"
+   "exposureUsd": 153347261.75692078,
+   "computedAt": "2026-11-13T19:33:48.253+00:00"
   },
   {
    "chainId": 56,
@@ -4692,47 +4686,6 @@
    "computedAt": "2026-11-13T03:36:26.709+00:00"
   },
   {
-   "chainId": 8453,
-   "address": "0x7ba6f01772924a82d9626c126347a28299e98c98",
-   "assetId": "mseth",
-   "symbol": "msETH",
-   "name": "Metronome Synth ETH (msETH)",
-   "family": "cdp-stable",
-   "band": "weak",
-   "total": 28.8,
-   "dimensions": {
-    "peg": {
-     "score": 10,
-     "reason": "Judged on daily closes since 2025-08-20 against ETH: -53.11% on 2026-09-04 and 77 of the 79 largest days beyond 10%; Metronome confirms synths traded as low as $0.45 in the first week of September. It had recovered only to -11.5% against ETH by 2026-10-20 (-11.4% on 10-12 and 10-19) although the protocol says backing is restored and expects a return to 1 ETH; it lost its peg and has not recovered."
-    },
-    "track": {
-     "score": 25,
-     "reason": "Live since 2022-12-15 (beta January 2023), supply 11,668 msETH on Ethereum (about $29M). The July 2026 swap-module shortfall fell on external liquidity providers and the synth price dropped to -53% against ETH in September; by Metronome's account backing was restored by 2026-09-16, but holders who sold at the low lost money and the price is still 11.5% under ETH, so holders were only partly made whole."
-    },
-    "backing": {
-     "score": 25,
-     "reason": "msETH is minted by users who post crypto collateral and borrow against it with liquidation (Metronome docs), but Metronome's own post-mortem of 2026-07-30 found the debt positions backing its synths short of circulation by about 6,367 msETH and 4.57M msUSD (about $16M at disclosure, over $20M by August), concentrated in the swap module. Metronome's recovery update of 2026-09-16 says the gap is closed and backing now exceeds circulation, funded by looped treasury positions and an $8M USDC loan against treasury wstETH; that is the protocol's own statement, with no independent attestation, and the market still prices msETH 11.5% under ETH. Backing impaired and then reportedly restored by self-report, so 25 (was unknown 40)."
-    },
-    "control": {
-     "score": 70,
-     "reason": "Read on chain on 2026-10-21: the Ethereum token is an upgradeable proxy (the same SyntheticToken implementation as msUSD) whose ProxyAdmin is owned by the governor of the Metronome pool registry, a Safe with threshold 3 of 5 owners; the governor also controls toggleIsActive (pause), seize and mint through onlyGovernor. No timelock sits in front of a Safe. A multisig without a timelock holds upgrade, pause and seize power, so 70 (was unknown 40). The Base token has no ABI read."
-    },
-    "redemption": {
-     "score": 25,
-     "reason": "Metronome states that the swap, the module that let msETH holders exchange at the reference price, 'remains closed indefinitely', and there is no par exit for a holder who did not borrow: msETH trades 11.5% below ETH on 2026-10-20, with the DEX market thin (a Paraswap quote sells $1M at about 3.3% impact on Base, and Ethereum costs 1.3% at $100K with no route at $1M). Redemption paused, and a thin exit."
-    }
-   },
-   "caps": [
-    {
-     "kind": "peg",
-     "reason": "off peg by 12.38% across the last 24 h"
-    }
-   ],
-   "reviewDue": false,
-   "exposureUsd": 6069957.933801816,
-   "computedAt": "2026-11-13T03:36:26.709+00:00"
-  },
-  {
    "chainId": 42161,
    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
    "assetId": "dai",
@@ -4803,6 +4756,51 @@
    "reviewDue": false,
    "exposureUsd": 6041557.342680627,
    "computedAt": "2026-11-13T15:41:02.887+00:00"
+  },
+  {
+   "chainId": 8453,
+   "address": "0x7ba6f01772924a82d9626c126347a28299e98c98",
+   "assetId": "mseth",
+   "symbol": "msETH",
+   "name": "Metronome Synth ETH (msETH)",
+   "family": "cdp-stable",
+   "band": "weak",
+   "total": 28.8,
+   "dimensions": {
+    "peg": {
+     "score": 10,
+     "reason": "Judged on daily closes since 2025-08-20 against ETH: -53.11% on 2026-09-04 and 77 of the 79 largest days beyond 10%; Metronome confirms synths traded as low as $0.45 in the first week of September. It had recovered only to -11.5% against ETH by 2026-10-20 (-11.4% on 10-12 and 10-19) although the protocol says backing is restored and expects a return to 1 ETH; it lost its peg and has not recovered."
+    },
+    "track": {
+     "score": 25,
+     "reason": "Live since 2022-12-15 (beta January 2023), supply 11,668 msETH on Ethereum (about $29M). The July 2026 swap-module shortfall fell on external liquidity providers and the synth price dropped to -53% against ETH in September; by Metronome's account backing was restored by 2026-09-16, but holders who sold at the low lost money and the price is still 11.5% under ETH, so holders were only partly made whole."
+    },
+    "backing": {
+     "score": 25,
+     "reason": "msETH is minted by users who post crypto collateral and borrow against it with liquidation (Metronome docs), but Metronome's own post-mortem of 2026-07-30 found the debt positions backing its synths short of circulation by about 6,367 msETH and 4.57M msUSD (about $16M at disclosure, over $20M by August), concentrated in the swap module. Metronome's recovery update of 2026-09-16 says the gap is closed and backing now exceeds circulation, funded by looped treasury positions and an $8M USDC loan against treasury wstETH; that is the protocol's own statement, with no independent attestation, and the market still prices msETH 11.5% under ETH. Backing impaired and then reportedly restored by self-report, so 25 (was unknown 40)."
+    },
+    "control": {
+     "score": 70,
+     "reason": "Read on chain on 2026-10-21: the Ethereum token is an upgradeable proxy (the same SyntheticToken implementation as msUSD) whose ProxyAdmin is owned by the governor of the Metronome pool registry, a Safe with threshold 3 of 5 owners; the governor also controls toggleIsActive (pause), seize and mint through onlyGovernor. No timelock sits in front of a Safe. A multisig without a timelock holds upgrade, pause and seize power, so 70 (was unknown 40). The Base token has no ABI read."
+    },
+    "redemption": {
+     "score": 25,
+     "reason": "Metronome states that the swap, the module that let msETH holders exchange at the reference price, 'remains closed indefinitely', and there is no par exit for a holder who did not borrow: msETH trades 11.5% below ETH on 2026-10-20, with the DEX market thin (a Paraswap quote sells $1M at about 3.3% impact on Base, and Ethereum costs 1.3% at $100K with no route at $1M). Redemption paused, and a thin exit."
+    }
+   },
+   "caps": [
+    {
+     "kind": "peg",
+     "reason": "off peg by 11.98% across the last 24 h"
+    },
+    {
+     "kind": "volatility",
+     "reason": "30-day volatility against target 1.14%"
+    }
+   ],
+   "reviewDue": false,
+   "exposureUsd": 5989969.493108865,
+   "computedAt": "2026-11-13T19:33:48.253+00:00"
   },
   {
    "chainId": 1,
@@ -5864,6 +5862,47 @@
    "computedAt": "2026-11-13T15:41:02.887+00:00"
   },
   {
+   "chainId": 1,
+   "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+   "assetId": "lusd",
+   "symbol": "LUSD",
+   "name": "Liquity USD (LUSD)",
+   "family": "cdp-stable",
+   "band": "watch",
+   "total": 69,
+   "dimensions": {
+    "peg": {
+     "score": 55,
+     "reason": "Daily closes since 2023-10-17 (1,096 closes): two separate episodes beyond 2% (+2.7% on 2024-01-10 and +2.3% to +2.7% on 2026-03-23 to 2026-03-31, both premiums), none beyond 5%, both recovered; 232 closes beyond 0.5%."
+    },
+    "track": {
+     "score": 70,
+     "reason": "Live since April 2021 with no holder loss found, but only 25.8M outstanding (totalSupply), under the $100M the 85 anchor needs."
+    },
+    "backing": {
+     "score": 85,
+     "reason": "Each Trove is over-collateralised in ETH only, with a 110% minimum collateral ratio and liquidations through the Stability Pool and redistribution."
+    },
+    "control": {
+     "score": 95,
+     "reason": "Liquity v1 contracts have no proxy, no blacklist or pause and no admin; LUSD mint and burn are restricted to the fixed BorrowerOperations, TroveManager and StabilityPool addresses set at deployment."
+    },
+    "redemption": {
+     "score": 70,
+     "reason": "Any holder can redeem LUSD for ETH at face value on chain at once (a redemption fee applies, so not strictly 1:1), but DEX depth is thin: Paraswap sells $100K at about 0.04% below a $1K quote, $600K at 3.7%, and $1M at about 22% impact."
+    }
+   },
+   "caps": [
+    {
+     "kind": "volatility",
+     "reason": "30-day volatility against target 1.25%"
+    }
+   ],
+   "reviewDue": false,
+   "exposureUsd": 4040850.094524137,
+   "computedAt": "2026-11-13T23:33:19.46+00:00"
+  },
+  {
    "chainId": 8453,
    "address": "0x34a2798d47b238a7cba9d87d49618dee6c4d999f",
    "assetId": "susn",
@@ -5934,6 +5973,51 @@
    "reviewDue": false,
    "exposureUsd": 3885330.885416765,
    "computedAt": "2026-11-13T03:36:26.709+00:00"
+  },
+  {
+   "chainId": 1,
+   "address": "0x64351fc9810adad17a690e4e1717df5e7e085160",
+   "assetId": "mseth",
+   "symbol": "msETH",
+   "name": "Metronome Synth ETH (msETH)",
+   "family": "cdp-stable",
+   "band": "weak",
+   "total": 28.8,
+   "dimensions": {
+    "peg": {
+     "score": 10,
+     "reason": "Judged on daily closes since 2025-08-20 against ETH: -53.11% on 2026-09-04 and 77 of the 79 largest days beyond 10%; Metronome confirms synths traded as low as $0.45 in the first week of September. It had recovered only to -11.5% against ETH by 2026-10-20 (-11.4% on 10-12 and 10-19) although the protocol says backing is restored and expects a return to 1 ETH; it lost its peg and has not recovered."
+    },
+    "track": {
+     "score": 25,
+     "reason": "Live since 2022-12-15 (beta January 2023), supply 11,668 msETH on Ethereum (about $29M). The July 2026 swap-module shortfall fell on external liquidity providers and the synth price dropped to -53% against ETH in September; by Metronome's account backing was restored by 2026-09-16, but holders who sold at the low lost money and the price is still 11.5% under ETH, so holders were only partly made whole."
+    },
+    "backing": {
+     "score": 25,
+     "reason": "msETH is minted by users who post crypto collateral and borrow against it with liquidation (Metronome docs), but Metronome's own post-mortem of 2026-07-30 found the debt positions backing its synths short of circulation by about 6,367 msETH and 4.57M msUSD (about $16M at disclosure, over $20M by August), concentrated in the swap module. Metronome's recovery update of 2026-09-16 says the gap is closed and backing now exceeds circulation, funded by looped treasury positions and an $8M USDC loan against treasury wstETH; that is the protocol's own statement, with no independent attestation, and the market still prices msETH 11.5% under ETH. Backing impaired and then reportedly restored by self-report, so 25 (was unknown 40)."
+    },
+    "control": {
+     "score": 70,
+     "reason": "Read on chain on 2026-10-21: the Ethereum token is an upgradeable proxy (the same SyntheticToken implementation as msUSD) whose ProxyAdmin is owned by the governor of the Metronome pool registry, a Safe with threshold 3 of 5 owners; the governor also controls toggleIsActive (pause), seize and mint through onlyGovernor. No timelock sits in front of a Safe. A multisig without a timelock holds upgrade, pause and seize power, so 70 (was unknown 40). The Base token has no ABI read."
+    },
+    "redemption": {
+     "score": 25,
+     "reason": "Metronome states that the swap, the module that let msETH holders exchange at the reference price, 'remains closed indefinitely', and there is no par exit for a holder who did not borrow: msETH trades 11.5% below ETH on 2026-10-20, with the DEX market thin (a Paraswap quote sells $1M at about 3.3% impact on Base, and Ethereum costs 1.3% at $100K with no route at $1M). Redemption paused, and a thin exit."
+    }
+   },
+   "caps": [
+    {
+     "kind": "peg",
+     "reason": "off peg by 11.98% across the last 24 h"
+    },
+    {
+     "kind": "volatility",
+     "reason": "30-day volatility against target 1.14%"
+    }
+   ],
+   "reviewDue": false,
+   "exposureUsd": 3851516.2007079218,
+   "computedAt": "2026-11-13T19:33:48.253+00:00"
   },
   {
    "chainId": 8453,
@@ -6898,47 +6982,6 @@
   },
   {
    "chainId": 1,
-   "address": "0x64351fc9810adad17a690e4e1717df5e7e085160",
-   "assetId": "mseth",
-   "symbol": "msETH",
-   "name": "Metronome Synth ETH (msETH)",
-   "family": "cdp-stable",
-   "band": "weak",
-   "total": 28.8,
-   "dimensions": {
-    "peg": {
-     "score": 10,
-     "reason": "Judged on daily closes since 2025-08-20 against ETH: -53.11% on 2026-09-04 and 77 of the 79 largest days beyond 10%; Metronome confirms synths traded as low as $0.45 in the first week of September. It had recovered only to -11.5% against ETH by 2026-10-20 (-11.4% on 10-12 and 10-19) although the protocol says backing is restored and expects a return to 1 ETH; it lost its peg and has not recovered."
-    },
-    "track": {
-     "score": 25,
-     "reason": "Live since 2022-12-15 (beta January 2023), supply 11,668 msETH on Ethereum (about $29M). The July 2026 swap-module shortfall fell on external liquidity providers and the synth price dropped to -53% against ETH in September; by Metronome's account backing was restored by 2026-09-16, but holders who sold at the low lost money and the price is still 11.5% under ETH, so holders were only partly made whole."
-    },
-    "backing": {
-     "score": 25,
-     "reason": "msETH is minted by users who post crypto collateral and borrow against it with liquidation (Metronome docs), but Metronome's own post-mortem of 2026-07-30 found the debt positions backing its synths short of circulation by about 6,367 msETH and 4.57M msUSD (about $16M at disclosure, over $20M by August), concentrated in the swap module. Metronome's recovery update of 2026-09-16 says the gap is closed and backing now exceeds circulation, funded by looped treasury positions and an $8M USDC loan against treasury wstETH; that is the protocol's own statement, with no independent attestation, and the market still prices msETH 11.5% under ETH. Backing impaired and then reportedly restored by self-report, so 25 (was unknown 40)."
-    },
-    "control": {
-     "score": 70,
-     "reason": "Read on chain on 2026-10-21: the Ethereum token is an upgradeable proxy (the same SyntheticToken implementation as msUSD) whose ProxyAdmin is owned by the governor of the Metronome pool registry, a Safe with threshold 3 of 5 owners; the governor also controls toggleIsActive (pause), seize and mint through onlyGovernor. No timelock sits in front of a Safe. A multisig without a timelock holds upgrade, pause and seize power, so 70 (was unknown 40). The Base token has no ABI read."
-    },
-    "redemption": {
-     "score": 25,
-     "reason": "Metronome states that the swap, the module that let msETH holders exchange at the reference price, 'remains closed indefinitely', and there is no par exit for a holder who did not borrow: msETH trades 11.5% below ETH on 2026-10-20, with the DEX market thin (a Paraswap quote sells $1M at about 3.3% impact on Base, and Ethereum costs 1.3% at $100K with no route at $1M). Redemption paused, and a thin exit."
-    }
-   },
-   "caps": [
-    {
-     "kind": "peg",
-     "reason": "off peg by 12.38% across the last 24 h"
-    }
-   ],
-   "reviewDue": false,
-   "exposureUsd": 2265374.438117445,
-   "computedAt": "2026-11-13T03:36:26.709+00:00"
-  },
-  {
-   "chainId": 1,
    "address": "0x86b495e4cb00ab18ad94bfd7920479cc79e8ebfe",
    "assetId": "wjaaa",
    "symbol": "wJAAA",
@@ -7166,51 +7209,6 @@
    "caps": [],
    "reviewDue": false,
    "exposureUsd": 2016752.6765880168,
-   "computedAt": "2026-11-13T03:36:26.709+00:00"
-  },
-  {
-   "chainId": 1,
-   "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
-   "assetId": "lusd",
-   "symbol": "LUSD",
-   "name": "Liquity USD (LUSD)",
-   "family": "cdp-stable",
-   "band": "watch",
-   "total": 69,
-   "dimensions": {
-    "peg": {
-     "score": 55,
-     "reason": "Daily closes since 2023-10-17 (1,096 closes): two separate episodes beyond 2% (+2.7% on 2024-01-10 and +2.3% to +2.7% on 2026-03-23 to 2026-03-31, both premiums), none beyond 5%, both recovered; 232 closes beyond 0.5%."
-    },
-    "track": {
-     "score": 70,
-     "reason": "Live since April 2021 with no holder loss found, but only 25.8M outstanding (totalSupply), under the $100M the 85 anchor needs."
-    },
-    "backing": {
-     "score": 85,
-     "reason": "Each Trove is over-collateralised in ETH only, with a 110% minimum collateral ratio and liquidations through the Stability Pool and redistribution."
-    },
-    "control": {
-     "score": 95,
-     "reason": "Liquity v1 contracts have no proxy, no blacklist or pause and no admin; LUSD mint and burn are restricted to the fixed BorrowerOperations, TroveManager and StabilityPool addresses set at deployment."
-    },
-    "redemption": {
-     "score": 70,
-     "reason": "Any holder can redeem LUSD for ETH at face value on chain at once (a redemption fee applies, so not strictly 1:1), but DEX depth is thin: Paraswap sells $100K at about 0.04% below a $1K quote, $600K at 3.7%, and $1M at about 22% impact."
-    }
-   },
-   "caps": [
-    {
-     "kind": "peg",
-     "reason": "off peg by 1.78% across the last 24 h"
-    },
-    {
-     "kind": "volatility",
-     "reason": "30-day volatility against target 1.16%"
-    }
-   ],
-   "reviewDue": false,
-   "exposureUsd": 1992668.8273531848,
    "computedAt": "2026-11-13T03:36:26.709+00:00"
   },
   {
@@ -15672,6 +15670,42 @@
    "computedAt": "2026-11-13T03:36:26.709+00:00"
   },
   {
+   "chainId": 1,
+   "address": "0xbd373c9d3d8976a4fecc504a93c768bbe8c3227c",
+   "assetId": "roy-st-apyusd",
+   "symbol": "ROY-ST-apyUSD",
+   "name": "Royco Senior Tranche apyUSD (ROY-ST-apyUSD)",
+   "family": "vault-wrapper",
+   "band": "weak",
+   "total": 43,
+   "dimensions": {
+    "peg": {
+     "score": 25,
+     "reason": "from Apyx apyUSD: Rate-bearing: Llama price versus convertToAssets (archive eth_call, 4 day samples from 2026-05-20) shows a fall of up to 26% below the rate (-26.4% on 2026-06-28) after the early June 2026 STRC and apxUSD depeg; the gap was still -2.2% on 2026-10-14, so the recovery is partial."
+    },
+    "track": {
+     "score": 40,
+     "reason": "Created 2026-04-27 (under six months) with 2.62M shares over 1.99M apyUSD (convertToAssets 0.76 apyUSD, about $1.07 per share at apyUSD $1.41, read 2026-10-22); its junior coverage was wiped out after the June 2026 apxUSD depeg."
+    },
+    "backing": {
+     "score": 55,
+     "reason": "from Apyx apyUSD: Vault share of apxUSD, which is backed by a basket of preferred shares issued by digital-asset-treasury companies (mainly Strategy's STRC) plus short-term Treasuries with a published dashboard and about 104% overcollateralisation; a securities portfolio with published holdings."
+    },
+    "control": {
+     "score": 70,
+     "reason": "UUPS proxy governed by Royco's OpenZeppelin AccessManager (0x7cC6fB28...): the admin role is a 3-of-4 Safe (0x7c405bbd...) with a 3-day execution delay, but more than 20 operating roles are held by that Safe and other accounts with no delay (role logs read 2026-10-22; which role gates upgrades was not mapped), and an admin can seize a holder's shares for compliance (seizeShares, seizeAndRedeemShares) and pause: a multisig without a timelock on operating powers."
+    },
+    "redemption": {
+     "score": 25,
+     "reason": "Seniors redeem their share of the collateral in apyUSD after a queue with no stated window, or sell into the SLP pool; on 2026-10-22 KyberSwap returns 9.9% of value for $1K and 3.3% for $100K through that pool (Paraswap no route), so exit costs more than 3% at $100K. The junior tranche that covered it is wiped out (see ROY-JT-apyUSD)."
+    }
+   },
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 99.97423949622582,
+   "computedAt": "2026-11-13T23:33:19.46+00:00"
+  },
+  {
    "chainId": 792703809,
    "address": "sctmY8fJucsJatwHz6P48RuWBBkdBMNmSMuBYrWFdrw",
    "assetId": "adrasol",
@@ -16023,10 +16057,15 @@
      "reason": "not yet verified (source unreadable: docs.zeusnetwork.xyz index lists no zBTC redemption page; medium.com 403, 2026-10-22)"
     }
    },
-   "caps": [],
+   "caps": [
+    {
+     "kind": "volatility",
+     "reason": "30-day volatility against target 3.69%"
+    }
+   ],
    "reviewDue": false,
-   "exposureUsd": 4.756825777110876,
-   "computedAt": "2026-11-13T03:36:26.709+00:00"
+   "exposureUsd": 4.55365907326439,
+   "computedAt": "2026-11-13T19:33:48.253+00:00"
   },
   {
    "chainId": 1,
