@@ -1,12 +1,12 @@
 {
- "date": "2026-11-18",
- "publishedAt": "2026-11-18T00:10:08.503Z",
+ "date": "2026-11-19",
+ "publishedAt": "2026-11-19T00:10:08.388Z",
  "method": "Every token the scored vaults hold or lend against, rated on five dimensions from sourced research (backing 30%, redemption and exit 20%, peg and price stability 20%, control 15%, track record 15%; anchors 95 to 10, 40 = unknown). Live signals (peg, price gaps, volatility, exit depth) can only lower a rating. unrated = no research entry yet.",
  "disclaimer": "Research and information, not investment advice.",
  "tokenCount": 528,
  "byBand": {
-  "strong": 30,
-  "sound": 120,
+  "strong": 32,
+  "sound": 118,
   "unrated": 110,
   "watch": 147,
   "weak": 121
@@ -2065,8 +2065,8 @@
    "symbol": "weETH",
    "name": "Wrapped eETH (weETH)",
    "family": "eth-lrt",
-   "band": "sound",
-   "total": 78,
+   "band": "strong",
+   "total": 85,
    "dimensions": {
     "peg": {
      "score": 85,
@@ -2085,20 +2085,14 @@
      "reason": "The upgradeable proxies are owned by a timelock of 10 days under a 6-of-10 Upgrade Admin; an emergency pause bypasses the timelock but cannot move funds, and there is no blacklist (ABI: pause, unpause, recoverERC20, wrap, unwrap)."
     },
     "redemption": {
-     "score": 50,
-     "reason": "Holders can redeem for ETH through an instant path with a small exit fee while buffer liquidity lasts or a no-fee queued withdrawal (WithdrawRequestNFT); ether.fi gives no fixed queue time, and a Paraswap quote sells $1M weETH for WETH on Ethereum at about 0.007% impact (Base 0.01%, Arbitrum thinner).",
-     "cappedFrom": 85
+     "score": 85,
+     "reason": "Holders can redeem for ETH through an instant path with a small exit fee while buffer liquidity lasts or a no-fee queued withdrawal (WithdrawRequestNFT); ether.fi gives no fixed queue time, and a Paraswap quote sells $1M weETH for WETH on Ethereum at about 0.007% impact (Base 0.01%, Arbitrum thinner)."
     }
    },
-   "caps": [
-    {
-     "kind": "exit",
-     "reason": "selling $1.0M costs 9.61%"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 78000525.93793672,
-   "computedAt": "2026-11-18T00:03:36.489+00:00"
+   "exposureUsd": 77657269.05280313,
+   "computedAt": "2026-11-18T09:27:28.332+00:00"
   },
   {
    "chainId": 1,
@@ -2440,8 +2434,8 @@
    "symbol": "wstETH",
    "name": "Wrapped Lido Staked Ether (wstETH)",
    "family": "eth-lst",
-   "band": "sound",
-   "total": 78,
+   "band": "strong",
+   "total": 85,
    "dimensions": {
     "peg": {
      "score": 85,
@@ -2460,20 +2454,14 @@
      "reason": "The Ethereum wrapper has no admin, pause, blacklist or mint function (ABI: wrap, unwrap, permit, transfer); the value it wraps is stETH, whose upgrade and pause powers sit with the Lido DAO behind a 3-day Dual Governance timelock."
     },
     "redemption": {
-     "score": 50,
-     "reason": "Holders unwrap to stETH and use the same on-chain withdrawal queue (or request the withdrawal with wstETH directly); a Paraswap quote sells $1M wstETH for WETH on Ethereum at about 0.005% impact, and Base is deeper than the Arbitrum and Optimism copies.",
-     "cappedFrom": 85
+     "score": 85,
+     "reason": "Holders unwrap to stETH and use the same on-chain withdrawal queue (or request the withdrawal with wstETH directly); a Paraswap quote sells $1M wstETH for WETH on Ethereum at about 0.005% impact, and Base is deeper than the Arbitrum and Optimism copies."
     }
    },
-   "caps": [
-    {
-     "kind": "exit",
-     "reason": "selling $1.0M costs 2.73%"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 47212870.21186857,
-   "computedAt": "2026-11-18T00:03:36.489+00:00"
+   "exposureUsd": 47018434.81515501,
+   "computedAt": "2026-11-18T09:27:28.332+00:00"
   },
   {
    "chainId": 792703809,
@@ -12141,15 +12129,10 @@
      "reason": "from alqUSD: Unknown: no primary document on its backing, redemption or peg could be reached, so only what the chain shows is recorded"
     }
    },
-   "caps": [
-    {
-     "kind": "peg",
-     "reason": "off peg by 1.11% across the last 24 h"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 109904.11163247342,
-   "computedAt": "2026-11-18T00:03:36.489+00:00"
+   "exposureUsd": 109913.84743715922,
+   "computedAt": "2026-11-18T13:27:35.059+00:00"
   },
   {
    "chainId": 1,
@@ -12182,15 +12165,10 @@
      "reason": "Unknown: no primary document on its backing, redemption or peg could be reached, so only what the chain shows is recorded"
     }
    },
-   "caps": [
-    {
-     "kind": "peg",
-     "reason": "off peg by 1.06% across the last 24 h"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 109904.11163247342,
-   "computedAt": "2026-11-18T00:03:36.489+00:00"
+   "exposureUsd": 109913.84743715922,
+   "computedAt": "2026-11-18T13:27:35.059+00:00"
   },
   {
    "chainId": 1,
