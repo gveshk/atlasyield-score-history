@@ -1,6 +1,15 @@
 {
   "date": "2026-11-26",
   "publishedAt": "2026-11-26T04:58:11.290Z",
+  "publishNote": {
+    "publishedLate": true,
+    "scheduledAt": "2026-11-26T00:10:00Z",
+    "publishedAt": "2026-11-26T04:58:11.290Z",
+    "reason": "The scheduled 00:10 UTC publish failed: the publisher deploy key was removed during a server migration on 2026-11-25. The key was replaced and the publish re-run by hand.",
+    "tick": "2026-11-26T03:30:00Z",
+    "rows": "517 rows come from the 2026-11-26 03:30 UTC rating, not the 2026-11-25 23:30 UTC rating an on-time publish would have used. 9 Pendle markets that expired at 2026-11-26 00:00 UTC carry their last score from the 23:30 rating, and 2 rows are older. Each row's scoredAt gives its exact time.",
+    "archive": "The 2026-11-25 23:30 UTC rating is kept unchanged in our write-once tick archive, manifest sha256 9b961dfe81c53204a6540b140de48a33754d394608bfb7839524e2f27fbbe90e."
+  },
   "scorerVersion": "2.4.0",
   "vaultCount": 528,
   "routeScreen": {

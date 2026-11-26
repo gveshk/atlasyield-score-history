@@ -43,3 +43,12 @@ unverified.
 
 Methodology: atlasyield.club/methodology (16 factors, 4 pillars — published
 separately, no proprietary weights). Not investment advice.
+
+## Publishing exceptions
+
+Days that were not published on schedule. A late file carries a `publishNote` field.
+
+| Date | What happened |
+|---|---|
+| 2026-11-12 | Not published (the scheduled job pointed at a moved server path). No file. |
+| 2026-11-26 | Published late at 04:58 UTC from the 03:30 UTC rating instead of 00:10 UTC. See `publishNote` in `snapshots/2026-11-26.json`. |
