@@ -1,15 +1,15 @@
 {
- "date": "2026-11-26",
- "publishedAt": "2026-11-26T04:58:11.290Z",
+ "date": "2026-11-27",
+ "publishedAt": "2026-11-27T00:10:10.242Z",
  "method": "Every token the scored vaults hold or lend against, rated on five dimensions from sourced research (backing 30%, redemption and exit 20%, peg and price stability 20%, control 15%, track record 15%; anchors 95 to 10, 40 = unknown). Live signals (peg, price gaps, volatility, exit depth) can only lower a rating. unrated = no research entry yet.",
  "disclaimer": "Research and information, not investment advice.",
- "tokenCount": 508,
+ "tokenCount": 517,
  "byBand": {
   "strong": 33,
-  "sound": 121,
-  "watch": 146,
+  "sound": 119,
+  "watch": 148,
   "weak": 117,
-  "unrated": 91
+  "unrated": 100
  },
  "tokens": [
   {
@@ -1027,8 +1027,8 @@
    "symbol": "stUSDS",
    "name": "Staked USDS (stUSDS)",
    "family": "vault-wrapper",
-   "band": "sound",
-   "total": 70.8,
+   "band": "watch",
+   "total": 63.8,
    "dimensions": {
     "peg": {
      "score": 70,
@@ -1047,14 +1047,24 @@
      "reason": "UUPS proxy with no blacklist or pause. Wards read on chain on 2026-10-22: the Sky PauseProxy (0xBE8E3e36..., governance through the DSPause delay) and Sky modules (StUsdsRateSetter, LockstakeClipper, two StUsdsMom contracts); the deployer account was denied. Upgrades sit with Sky governance behind its delay."
     },
     "redemption": {
-     "score": 85,
-     "reason": "Anyone can withdraw USDS through the ERC-4626 interface at once while unborrowed USDS is available; KyberSwap routes $1M through that withdrawal and the LitePSM at 0.0% below its $1K quote on 2026-10-22. Withdrawals depend on the share of USDS not lent to SKY stakers and losses fall on stUSDS first, so 85, not 95."
+     "score": 50,
+     "reason": "Anyone can withdraw USDS through the ERC-4626 interface at once while unborrowed USDS is available; KyberSwap routes $1M through that withdrawal and the LitePSM at 0.0% below its $1K quote on 2026-10-22. Withdrawals depend on the share of USDS not lent to SKY stakers and losses fall on stUSDS first, so 85, not 95.",
+     "cappedFrom": 85
     }
    },
-   "caps": [],
+   "caps": [
+    {
+     "kind": "exit",
+     "reason": "selling $1.0M costs 3.88%"
+    },
+    {
+     "kind": "peg",
+     "reason": "off peg by 1.38% across the last 24 h"
+    }
+   ],
    "reviewDue": false,
-   "exposureUsd": 165110621.7283002,
-   "computedAt": "2026-11-26T03:37:35.081+00:00"
+   "exposureUsd": 164909321.6899458,
+   "computedAt": "2026-11-26T23:36:59.84+00:00"
   },
   {
    "chainId": 792703809,
@@ -1099,8 +1109,8 @@
    "symbol": "AAVE",
    "name": "Aave (AAVE)",
    "family": "volatile",
-   "band": "sound",
-   "total": 70,
+   "band": "watch",
+   "total": 69,
    "dimensions": {
     "peg": {
      "score": 55,
@@ -1119,14 +1129,20 @@
      "reason": "The Ethereum token is an AaveTokenV3 behind a proxy whose ProxyAdmin is owned by the Aave governance Level 2 Executor; upgrades pass the PayloadsController with a 604,800 second (7 day) delay set by on-chain governance. The token has no blacklist, pause or mint function. The Arbitrum, Base and Optimism copies are minted by their rollup standard bridges."
     },
     "redemption": {
-     "score": 55,
-     "reason": "No redemption claim; a holder exits through DEX only. Paraswap quotes on Ethereum against USDC cost 0.25% at $10K, 0.80% at $100K and 5.43% at $1M versus a $1K quote (3% or less at $100K but over 3% at $1M (no anchor fits exactly; scored 55, exit through DEX only)). The Arbitrum copy costs 3.6% at $100K, and the Base and Optimism copies are thinner than Ethereum at $1M."
+     "score": 50,
+     "reason": "No redemption claim; a holder exits through DEX only. Paraswap quotes on Ethereum against USDC cost 0.25% at $10K, 0.80% at $100K and 5.43% at $1M versus a $1K quote (3% or less at $100K but over 3% at $1M (no anchor fits exactly; scored 55, exit through DEX only)). The Arbitrum copy costs 3.6% at $100K, and the Base and Optimism copies are thinner than Ethereum at $1M.",
+     "cappedFrom": 55
     }
    },
-   "caps": [],
+   "caps": [
+    {
+     "kind": "exit",
+     "reason": "selling $1.0M costs 2.71%"
+    }
+   ],
    "reviewDue": false,
-   "exposureUsd": 152796496.6935429,
-   "computedAt": "2026-11-26T03:37:35.081+00:00"
+   "exposureUsd": 150291276.2886747,
+   "computedAt": "2026-11-26T23:36:59.84+00:00"
   },
   {
    "chainId": 1,
@@ -1568,7 +1584,7 @@
    "name": "Pendle PT-reUSD-10DEC2026",
    "family": "pt",
    "band": "watch",
-   "total": 62.5,
+   "total": 58.5,
    "dimensions": {
     "peg": {
      "score": 55,
@@ -1587,14 +1603,20 @@
      "reason": "from Re Protocol reUSD: UUPS ShareToken with upgrade, mint and burn roles; the docs say critical controls (oracle, redemptions, access, custodians) run through MPC multisig wallets, with no timelock stated for the token. On Solana the mint authority is a 1-of-2 SPL multisig. Read on chain on 2026-10-17 (Ethereum): the token's DEFAULT_ADMIN_ROLE (upgrade and role grants) is a TimelockController (0x69ddea33...) with a 2 day minimum delay (172800 s) and a 3-of-5 Safe (0x8eec1061...) as proposer; mint and burn roles sit with protocol contracts. The NAV oracle that sets the mint and redeem price is operated through Re's authority and multisig wallets without that delay, so mint pricing is not behind the timelock; stays 70."
     },
     "redemption": {
-     "score": 70,
-     "reason": "Principal token before maturity (2026-12-10): exit is the Pendle AMM, which holds $13.2M; the swap quote into the underlying shows $100K 0.04% impact and $1M 0.05%. The market passes the depth test (under 1% at $1M) and the underlying redeems at 70, so the score is capped at 70."
+     "score": 50,
+     "reason": "Principal token before maturity (2026-12-10): exit is the Pendle AMM, which holds $13.2M; the swap quote into the underlying shows $100K 0.04% impact and $1M 0.05%. The market passes the depth test (under 1% at $1M) and the underlying redeems at 70, so the score is capped at 70.",
+     "cappedFrom": 70
     }
    },
-   "caps": [],
+   "caps": [
+    {
+     "kind": "exit",
+     "reason": "selling $1.0M costs 67.81%"
+    }
+   ],
    "reviewDue": false,
-   "exposureUsd": 107871074.22538069,
-   "computedAt": "2026-11-26T03:37:35.081+00:00"
+   "exposureUsd": 111045921.4969817,
+   "computedAt": "2026-11-26T23:36:59.84+00:00"
   },
   {
    "chainId": 792703809,
@@ -2588,7 +2610,7 @@
    "name": "EURC (Euro Coin)",
    "family": "fiat-stable",
    "band": "sound",
-   "total": 79.8,
+   "total": 75.8,
    "dimensions": {
     "peg": {
      "score": 70,
@@ -2607,14 +2629,20 @@
      "reason": "Circle Europe holds upgrade, blacklist, pause and mint powers on the FiatToken contracts and applies the published Circle Stablecoin Access Denial Policy."
     },
     "redemption": {
-     "score": 70,
-     "reason": "Only Circle Mint account holders can sell EURC to Circle at par; a Paraswap quote sells EUR 850K (about $1M) of EURC on Base at about 0.4% impact versus a small quote (Ethereum: about 1.06%)."
+     "score": 50,
+     "reason": "Only Circle Mint account holders can sell EURC to Circle at par; a Paraswap quote sells EUR 850K (about $1M) of EURC on Base at about 0.4% impact versus a small quote (Ethereum: about 1.06%).",
+     "cappedFrom": 70
     }
    },
-   "caps": [],
+   "caps": [
+    {
+     "kind": "exit",
+     "reason": "selling $1.0M costs 7.05%"
+    }
+   ],
    "reviewDue": false,
-   "exposureUsd": 29703873.08622726,
-   "computedAt": "2026-11-26T03:37:35.081+00:00"
+   "exposureUsd": 30290595.980564237,
+   "computedAt": "2026-11-26T23:36:59.84+00:00"
   },
   {
    "chainId": 792703809,
@@ -2918,7 +2946,7 @@
    "name": "3Jane USD3",
    "family": "rwa-credit",
    "band": "watch",
-   "total": 55.5,
+   "total": 59.5,
    "dimensions": {
     "peg": {
      "score": 85,
@@ -2937,20 +2965,14 @@
      "reason": "Upgrades go through a ProxyAdmin owned by a 7 day timelock and parameters through a 24 hour timelock, both under a 3-of-5 Safe; no blacklist. Read on chain on 2026-10-17: the strategy's management address (0x1dCcD462...) is a TimelockController with a 24 hour minimum delay (getMinDelay 86400), the emergencyAdmin is the zero address, and the Yearn-style shutdown power belongs to management, so it sits behind 24 hours, below the 2 day bar for 85 (the 7 day upgrade timelock alone would qualify)."
     },
     "redemption": {
-     "score": 50,
-     "reason": "Idle USDC in Aave is instantly available but redemptions are capped by the tranche ratio and the credit is longer-dated; a Paraswap quote sells $1M for USDC at 0.85% impact versus a $1K quote (under 1%).",
-     "cappedFrom": 70
+     "score": 70,
+     "reason": "Idle USDC in Aave is instantly available but redemptions are capped by the tranche ratio and the credit is longer-dated; a Paraswap quote sells $1M for USDC at 0.85% impact versus a $1K quote (under 1%)."
     }
    },
-   "caps": [
-    {
-     "kind": "exit",
-     "reason": "selling $1.0M costs 9.86%"
-    }
-   ],
+   "caps": [],
    "reviewDue": false,
-   "exposureUsd": 21342637.579981446,
-   "computedAt": "2026-11-26T03:37:35.081+00:00"
+   "exposureUsd": 21335654.709986925,
+   "computedAt": "2026-11-26T23:36:59.84+00:00"
   },
   {
    "chainId": 10,
@@ -11981,6 +12003,21 @@
   },
   {
    "chainId": 1,
+   "address": "0xe987aa6f6e5444cdaa126f987b08f4de47594112",
+   "assetId": null,
+   "symbol": "PT-strUSD-25FEB2027",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 99982.75911126244,
+   "computedAt": "2026-11-26T11:36:56.158+00:00"
+  },
+  {
+   "chainId": 1,
    "address": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66",
    "assetId": "syrup",
    "symbol": "SYRUP",
@@ -12413,6 +12450,21 @@
    "reviewDue": false,
    "exposureUsd": 50359.25751044031,
    "computedAt": "2026-11-26T03:37:35.081+00:00"
+  },
+  {
+   "chainId": 1,
+   "address": "0x93d246c13d880702ea1fe6c47bd022a1027fc7fb",
+   "assetId": null,
+   "symbol": "PT-trUSD-25FEB2027",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 49991.99381220965,
+   "computedAt": "2026-11-26T11:36:56.158+00:00"
   },
   {
    "chainId": 8453,
@@ -14410,6 +14462,21 @@
    "computedAt": "2026-11-26T03:37:35.081+00:00"
   },
   {
+   "chainId": 792703809,
+   "address": "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ",
+   "assetId": null,
+   "symbol": "MSTRx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 541.5628163094871,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
+  },
+  {
    "chainId": 1,
    "address": "0x4f8e5de400de08b164e7421b3ee387f461becd1a",
    "assetId": "usdd",
@@ -14800,6 +14867,21 @@
    "computedAt": "2026-11-26T03:37:35.081+00:00"
   },
   {
+   "chainId": 792703809,
+   "address": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+   "assetId": null,
+   "symbol": "GOOGLx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 270.31727688878294,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
+  },
+  {
    "chainId": 1,
    "address": "0x8c213ee79581ff4984583c6a801e5263418c4b86",
    "assetId": "jtrsy",
@@ -14872,6 +14954,21 @@
    "computedAt": "2026-11-26T03:37:35.081+00:00"
   },
   {
+   "chainId": 792703809,
+   "address": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+   "assetId": null,
+   "symbol": "TSLAx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 215.29989004265522,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
+  },
+  {
    "chainId": 1,
    "address": "0x50d2c7992b802eef16c04feadab310f31866a545",
    "assetId": "pt-eusde-matured-29may2025",
@@ -14906,6 +15003,21 @@
    "reviewDue": false,
    "exposureUsd": 214.33701408740598,
    "computedAt": "2026-11-26T03:37:35.081+00:00"
+  },
+  {
+   "chainId": 792703809,
+   "address": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
+   "assetId": null,
+   "symbol": "CRCLx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 194.74906537698135,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
   },
   {
    "chainId": 1,
@@ -15595,6 +15707,36 @@
    "computedAt": "2026-11-26T03:37:35.081+00:00"
   },
   {
+   "chainId": 792703809,
+   "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+   "assetId": null,
+   "symbol": "AAPLx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 19.532542119045925,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
+  },
+  {
+   "chainId": 792703809,
+   "address": "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
+   "assetId": null,
+   "symbol": "HOODx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 18.956717107925837,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
+  },
+  {
    "chainId": 56,
    "address": "0x992879cd8ce0c312d98648875b5a8d6d042cbf34",
    "assetId": null,
@@ -16064,6 +16206,21 @@
    "reviewDue": false,
    "exposureUsd": 0.00026767036000000004,
    "computedAt": "2026-11-26T03:37:35.081+00:00"
+  },
+  {
+   "chainId": 792703809,
+   "address": "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
+   "assetId": null,
+   "symbol": "METAx",
+   "name": null,
+   "family": null,
+   "band": "unrated",
+   "total": null,
+   "dimensions": null,
+   "caps": [],
+   "reviewDue": false,
+   "exposureUsd": 0.00005033374019525649,
+   "computedAt": "2026-11-26T15:37:09.655+00:00"
   },
   {
    "chainId": 1,
